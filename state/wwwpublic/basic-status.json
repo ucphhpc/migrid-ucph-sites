@@ -1,0 +1,23 @@
+[
+  {
+    "status": "AUTO", 
+    "work_start": "2024-02-01T12:00:00+01:00", 
+    "systems": [
+        "ALL"
+    ], 
+    "announce_start": "2024-01-12T08:00:00+01:00", 
+    "title": {
+      "EN": "Site Launch", 
+      "DK": "Opstart af site"
+    }, 
+    "services": [
+      "ALL"
+    ], 
+    "work_end": "2024-01-12T17:59:59+01:00", 
+    "description": {
+      "EN": "We launched the new site today!", 
+      "DK": "I dag udgav vi vores nye site."
+    }, 
+    "announce_end": "2024-01-15T11:59:59+01:00"
+  },
+]
