@@ -79,17 +79,16 @@
     ],
     "announce_start": "2024-01-15T08:00:00+01:00",
     "title": {
-      "EN": "DAG and MODI Maintenance",
-      "DK": "DAG og MODI vedligehold"
+      "EN": "DAG Maintenance",
+      "DK": "DAG vedligehold"
     },
     "services": [
-        "DAG",
-        "MODI"
+        "DAG"
     ],
     "work_end": "2024-01-17T22:00:00+01:00",
     "description": {
-        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack with the inclusion of a new Julia Notebook and GDB for all notebooks, along with rebooting the system. Interruptions to the service will occur.",
-        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken med tilføjelsen af en ny Julia-Notebook og GDB til alle notebooks, samt en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
+        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack with the inclusion of a new Julia Notebook and GDB for all notebooks, along with rebooting the system. Interruptions to the service will occur. We applied systemwide updates and released the new Julia Notebook, we did however not enable SYS_PTRACE yet, which is required for GDB to work in the Notebooks. This is due to that it gives us some security concerns regarding cross-user memory access that we are still looking into. More updates on this will follow.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken med tilføjelsen af en ny Julia-Notebook og GDB til alle notebooks, samt en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme. Vi har udført systemomfattende opdateringer og frigivet den nye Julia Notebook, vi har dog endnu ikke aktiveret SYS_PTRACE, som er nødvendigt for at GDB kan fungere i Notebooks. Dette skyldes, at det giver os nogle sikkerhedsmæssige bekymringer vedrørende tværbruger hukommelsesadgang, som vi stadig undersøger. Flere opdateringer om dette vil følge."
     },
     "announce_end": "2024-01-19T12:00:00+01:00"
   },  
