@@ -1,25 +1,4 @@
 [
-    {
-    "status": "AUTO",
-    "work_start": "2024-02-01T12:00:00+01:00",
-    "systems": [
-        "DAG"
-    ],
-    "announce_start": "2024-02-01T12:00:00+01:00",
-    "title": {
-      "EN": "Issue with frequent restarts of DAG",
-      "DK": "Problem med hyppig genstart af DAG"
-    },
-    "services": [
-      "DAG"
-    ],
-    "work_end": "2024-02-03T00:00:00+01:00",
-    "description": {
-      "EN": "We have received a number of error reports regarding unstable DAG in ERDA. The reports mentions frequent restarts. We are looking into the issue and will report back once solved.",
-      "DK": "Vi har modtaget en række fejlmeldinger vedrørende ustabil DAG i ERDA. Der meldes om hyppige genstart. Vi undersøger sagen og opdaterer status når problemet er løst."
-    },
-    "announce_end": "2024-02-01T20:00:00+01:00"
-  },
   {
     "status": "AUTO", 
     "work_start": "2024-03-01T16:00:00+01:00",
@@ -48,7 +27,28 @@
       "DK": "KU er jævnligt mål for phishing-angreb og forsøg på at gætte kodeord på ansattes og studerendes konti. Efter seneste sådanne serie af angreb har universitetsledelsen besluttet at forøge login-sikkerheden ved at gøre Multi-Faktor Autentifikation (MFA) obligatorisk på yderligere en stribe KU-services, hvor det generelle KU-login benyttes, begyndende fra den 28. november[0]. Tag som altid venligst dine forholdsregler såfremt du ved eller har mistanke om at dit login er blevet kompromitteret. D.v.s. husk udover naturligvis at skifte dit KU-kodeord også at skifte evt berørte koder du måtte have valgt for dine SFTP, FTPS, WebDAVS og Seafile services. Ved samme lejlighed vil vi kraftigt anbefale at tilvælge 2-faktor godkendelse på dine ERDA/MiGrid-logins ved at følge 2-Factor Auth guiden på din site Settings side. Vi overvejer i øjeblikket om den MFA skal gøres obligatorisk på ERDA så en fuld udrulning deraf kan ske indenfor de nærmeste måneder. Indtil videre er det frivilligt, men du kan allerede nu øge sikkerheden ved selv at slå den til."
     }, 
     "announce_end": "2024-03-04T23:59:59+01:00"
-  }, 
+  },
+    {
+    "status": "AUTO",
+    "work_start": "2024-02-01T12:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-02-01T12:00:00+01:00",
+    "title": {
+      "EN": "Issue with frequent restarts of DAG",
+      "DK": "Problem med hyppig genstart af DAG"
+    },
+    "services": [
+      "DAG"
+    ],
+    "work_end": "2024-02-03T00:00:00+01:00",
+    "description": {
+      "EN": "We have received a number of error reports regarding unstable DAG in ERDA. The reports mentions frequent restarts. We are looking into the issue and will report back once solved.",
+      "DK": "Vi har modtaget en række fejlmeldinger vedrørende ustabil DAG i ERDA. Der meldes om hyppige genstart. Vi undersøger sagen og opdaterer status når problemet er løst."
+    },
+    "announce_end": "2024-02-01T20:00:00+01:00"
+  },
     {
     "status": "AUTO",
     "work_start": "2024-01-29T17:00:00+01:00",
