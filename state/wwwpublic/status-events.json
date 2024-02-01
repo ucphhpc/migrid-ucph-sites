@@ -1,7 +1,28 @@
 [
+    {
+    "status": "AUTO",
+    "work_start": "2024-02-01T12:00:00+01:00",
+    "systems": [
+        "DAG"
+    ],
+    "announce_start": "2024-02-01T12:00:00+01:00",
+    "title": {
+      "EN": "Issue with frequent restarts of DAG",
+      "DK": "Problem med hyppig genstart af DAG"
+    },
+    "services": [
+      "DAG"
+    ],
+    "work_end": "2024-02-03T00:00:00+01:00",
+    "description": {
+      "EN": "We have received a number of error reports regarding unstable DAG in ERDA. The reports mentions frequent restarts. We are looking into the issue and will report back once solved.",
+      "DK": "Vi har modtaget en række fejlmeldinger vedrørende ustabil DAG i ERDA. Der meldes om hyppige genstart. Vi undersøger sagen og opdaterer status når problemet er løst."
+    },
+    "announce_end": "2024-02-01T20:00:00+01:00"
+  },
   {
     "status": "AUTO", 
-    "work_start": "2024-03-01T16:00:00+01:00", 
+    "work_start": "2024-03-01T16:00:00+01:00",
     "references": {
       "EN": [
         "https://it.ku.dk/driftinfo/"
