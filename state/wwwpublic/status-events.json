@@ -44,8 +44,8 @@
     ],
     "work_end": "2024-02-03T00:00:00+01:00",
     "description": {
-      "EN": "We have received a number of error reports regarding unstable DAG in ERDA. The reports mentions frequent restarts. We are looking into the issue and will report back once solved.",
-      "DK": "Vi har modtaget en række fejlmeldinger vedrørende ustabil DAG i ERDA. Der meldes om hyppige genstart. Vi undersøger sagen og opdaterer status når problemet er løst."
+      "EN": "We have received a number of error reports regarding unstable DAG in ERDA. The reports mentions frequent restarts. We are looking into the issue and will report back once solved. We will restart the restart the DAG service throughout this period to apply fixes and evaluate the results.",
+      "DK": "Vi har modtaget en række fejlmeldinger vedrørende ustabil DAG i ERDA. Der meldes om hyppige genstart. Vi undersøger sagen og opdaterer status når problemet er løst. Vi vil genstarte DAG servicen løbende i denne periode for at udrulle rettelser og evaluere resultaterne."
     },
     "announce_end": "2024-02-01T20:00:00+01:00"
   },
