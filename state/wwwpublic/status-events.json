@@ -28,6 +28,27 @@
     }, 
     "announce_end": "2024-03-04T23:59:59+01:00"
   },
+      {
+    "status": "AUTO",
+    "work_start": "2024-02-02T20:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-02-02T10:00:00+01:00",
+    "title": {
+      "EN": "Releasing the CERN Notebook on DAG",
+      "DK": "Udgiver CERN Notebook på DAG"
+    },
+    "services": [
+      "DAG"
+    ],
+    "work_end": "2024-02-02T23:00:00+01:00",
+    "description": {
+      "EN": "We will release the CERN Notebook on DAG in the announced timeframe, this will cause some interruptions to the service. The CERN Notebook is a new Jupyter Notebook with a pre-installed environment for CERN's ROOT data analysis framework.",
+      "DK": "Vi vil udrulle CERN Notebook på DAG i det annoncerede tidsrum, dette vil medføre nogle afbrydelser af tjenesten. CERN Notebook er en ny Jupyter Notebook med et forinstalleret miljø til CERNs ROOT dataanalyse framework."
+    },
+    "announce_end": "2024-02-05T12:00:00+01:00"
+  },
     {
     "status": "AUTO",
     "work_start": "2024-02-01T12:00:00+01:00",
