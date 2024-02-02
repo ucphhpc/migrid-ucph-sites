@@ -42,12 +42,12 @@
     "services": [
       "DAG"
     ],
-    "work_end": "2024-02-03T00:00:00+01:00",
+    "work_end": "2024-02-01T23:00:00+01:00",
     "description": {
-      "EN": "We have received a number of error reports regarding unstable DAG in ERDA. The reports mentions frequent restarts. We are looking into the issue and will report back once solved. We will restart the restart the DAG service throughout this period to apply fixes and evaluate the results.",
-      "DK": "Vi har modtaget en række fejlmeldinger vedrørende ustabil DAG i ERDA. Der meldes om hyppige genstart. Vi undersøger sagen og opdaterer status når problemet er løst. Vi vil genstarte DAG servicen løbende i denne periode for at udrulle rettelser og evaluere resultaterne."
+      "EN": "We have received a number of error reports regarding unstable DAG in ERDA. The reports mentions frequent restarts. We are looking into the issue and will report back once solved. We will restart the restart the DAG service throughout this period to apply fixes and evaluate the results. After having investigated the DAG restart issue, we found a number of issues, for one, certain websocket requests were not being properly forwarded to the DAG sessions, which caused slow/jittery experiences, secondly, we found that 2 of the underlying nodes had filled their disks due to a rogue process that spammed a log file. Thirdly, we found that the Big Data in Biotechnology Notebook had a particularly long startup time, which caused it to time out before it could be properly stated. We applied fixes for these three issues during the late hours and restarted the DAG service. Therefore, as of late in the evening on the 1st of February, the DAG service should be back to normal.",
+      "DK": "Vi har modtaget en række fejlmeldinger vedrørende ustabil DAG i ERDA. Der meldes om hyppige genstart. Vi undersøger sagen og opdaterer status når problemet er løst. Vi vil genstarte DAG servicen løbende i denne periode for at udrulle rettelser og evaluere resultaterne. Efter at have undersøgt problemet med hyppige genstarter af DAG, fandt vi en række problemer. For det første, blev visse websocket-forespørgsler ikke videresendt korrekt til DAG-sessionerne, hvilket forårsagede langsomme/ustabile forbindelser til DAG, for det andet fandt vi at 2 af de underliggende noder havde fyldt deres diske pga. en snakkesaglig process, der spammede en logfil til bristepunktet. For det tredje havde Big Data in Biotechnology Notebook en særlig lang opstartstid, hvilket forårsagede at den timede ud før den kunne startes ordentligt. Vi udrullede rettelser for disse tre problemer i løbet af aftenen og genstartede DAG servicen. DAG servicen skulle derfor være tilbage i normal drift siden sent om aftenen d. 1 februar."
     },
-    "announce_end": "2024-02-01T20:00:00+01:00"
+    "announce_end": "2024-02-02T12:00:00+01:00"
   },
     {
     "status": "AUTO",
