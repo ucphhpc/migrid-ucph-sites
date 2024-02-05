@@ -28,6 +28,27 @@
     }, 
     "announce_end": "2024-03-04T23:59:59+01:00"
   },
+  {
+    "status": "AUTO",
+    "work_start": "2024-02-05T09:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-02-05T09:00:00+01:00",
+    "title": {
+      "EN": "DAG unstable for some Notebooks",
+      "DK": "DAG ustabil for nogle Notebooks"
+    },
+    "services": [
+      "DAG"
+    ],
+    "work_end": "2024-02-06T08:00:00+01:00",
+    "description": {
+      "EN": "As part of the CERN Notebook release, did we update and release JupyterLab version 4.0.11 since it fixed important security issues (https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.11). However, this hotfix has caused some instability or unavailability for some of our Notebooks. Specifically, the HPC releated Notebooks on DAG are currently unavailable (we recommend the MODI HPC Notebooks as an alternative here), we have prepared a fix for their issue which we plan to release tonight. Furthermore the R and the Bio Bigdata Notebooks have instability issues we are looking further into.",
+      "DK": "Som en del af CERN Notebook-udgivelsen, opdaterede og udgav vi JupyterLab version 4.0.11, da den løste vigtige sikkerhedsproblemer (https://github.com/jupyterlab/jupyterlab/releases/tag/v4.0.11). Dette hotfix har dog forårsaget en vis ustabilitet eller utilgængelighed for nogle af vores notebooks. Specifikt er de HPC-relaterede Notebooks på DAG i øjeblikket ikke tilgængelige (vi anbefaler MODI HPC Notebooks som et alternativ her), vi har forberedt en løsning på deres problem, som vi planlægger at frigive i aften. Derudover har R og Bio Bigdata Notebooksne ustabilitetsproblemer, som vi kigger nærmere på."
+    },
+    "announce_end": "2024-02-06T12:00:00+01:00"
+  },
       {
     "status": "AUTO",
     "work_start": "2024-02-02T20:00:00+01:00",
