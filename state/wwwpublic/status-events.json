@@ -42,12 +42,12 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2024-02-07T10:00:00+01:00",
+    "work_end": "2024-02-06T18:12:00+01:00",
     "description": {
-      "EN": "We have an issue with the Gluster backend storage used on ERDA and it currently leads to occassional errors when using the associated user services and limited data access. At a glance it looks like a network problem, but we're investigating the problem and will keep you posted here.",
-      "DK": "Vi har et problem med det Gluster backend-lager som benyttes til ERDA og det resulterer aktuelt i sporadiske fejl ved brug af de tilknyttede services og begrænset dataadgang. Umiddelbart ligner det et netværksproblem, men vi undersøger sagen og melder yderligere ud her når vi ved mere."
+      "EN": "We encountered an issue with the Gluster backend storage used on ERDA and it lead to occassional errors when using the associated user services and limited data access. It turned out that one of the backend storage bricks had crashed hard and needed some attention. We have gotten it back online and it appears everything is back to normal. We'll keep an eye on it for now. ",
+      "DK": "Vi rendte ind i et problem med det Gluster backend-lager som benyttes til ERDA og det resulterede i sporadiske fejl ved brug af de tilknyttede services og begrænset dataadgang. Det viste sig at skyldes en crashed brick i backendlageret og den krævede lidt pleje. Vi har fået den tilbage i drift og det ser ud til at alt kører normalt igen. Vi holder et vågent øje på det for nu."
     },
-    "announce_end": "2024-02-08T12:00:00+01:00"
+    "announce_end": "2024-02-07T12:00:00+01:00"
   },
   {
     "status": "AUTO",
