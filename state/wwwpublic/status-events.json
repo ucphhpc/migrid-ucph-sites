@@ -44,8 +44,8 @@
     ],
     "work_end": "2024-02-08T20:00:00+01:00",
     "description": {
-      "EN": "DAG was quite unstable this morning around 9.00 AM, which required us to stop and relaunch it with a reset configuration. We are investigating this further and tracking its stability. If you are experiencing that your session is missing mount information to start your session, please try to reaccess the service via the 'Start DAG' button on ERDA.",
-      "DK": "DAG var ret ustabil her til morgen omkring kl. 9.00, hvilket krævede at vi stoppede og genstartede den med en nulstillet konfiguration. Vi undersøger dette nærmere og overvåger dens stabilitet. Hvis du oplever at din session mangler monteringsinformation for at starte din session, så prøv at få adgang til tjenesten via 'Start DAG'-knappen på ERDA."
+      "EN": "DAG was quite unstable this morning around 9.00 AM, which required us to stop and relaunch it with a reset configuration. We are investigating this further and tracking its stability. If you are experiencing that your session is missing mount information to start your session, please try to reaccess the service via the 'Start DAG' button on ERDA. We restarted the DAG service again around 10 AM to implement a potential fix for the instability. We are sorry for this inconvenience.",
+      "DK": "DAG var ret ustabil her til morgen omkring kl. 9.00, hvilket krævede at vi stoppede og genstartede den med en nulstillet konfiguration. Vi undersøger dette nærmere og overvåger dens stabilitet. Hvis du oplever at din session mangler monteringsinformation for at starte din session, så prøv at få adgang til tjenesten via 'Start DAG'-knappen på ERDA. Vi genstartede DAG servicen igen omkring kl. 10 for at implementere en potentiel rettelse for ustabiliteten. Vi beklager ulejligheden."
     },
     "announce_end": "2024-02-09T12:00:00+01:00"
   },
