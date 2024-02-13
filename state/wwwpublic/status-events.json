@@ -30,9 +30,31 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2024-02-13T19:00:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2024-02-13T09:00:00+01:00",
+    "title": {
+      "EN": "DAG and MODI Maintenance",
+      "DK": "DAG og MODI vedligehold"
+    },
+    "services": [
+      "DAG",
+      "MODI"
+    ],
+    "work_end": "2024-02-13T23:00:00+01:00",
+    "description": {
+      "EN": "We will apply maintenance to DAG which will adjust some of the changes we made last week to temporarily fix the instability issues. We will also apply systemwide updates to MODI and fix an OpenMPI issue that prevented the MODI nodes from doing cross node communication during MPI jobs.",
+      "DK": "Vi vil udføre vedligeholdelse på DAG, som vil justere nogle af de ændringer vi lavede sidste uge for midlertidigt at rette ustabilitetsproblemerne. Vi vil også udføre systemomfattende opdateringer af MODI og rette et OpenMPI problem, der forhindrede MODI-noderne i at kommunikere på tværs af noder under MPI jobs."
+    },
+    "announce_end": "2024-02-14T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2024-02-08T09:00:00+01:00",
     "systems": [
-        "ERDA"
+        "ALL"
     ],
     "announce_start": "2024-02-08T09:00:00+01:00",
     "title": {
@@ -53,7 +75,7 @@
     "status": "AUTO",
     "work_start": "2024-02-06T16:22:00+01:00",
     "systems": [
-        "ERDA"
+        "ALL"
     ],
     "announce_start": "2024-02-06T16:22:00+01:00",
     "title": {
@@ -74,7 +96,7 @@
     "status": "AUTO",
     "work_start": "2024-02-05T09:00:00+01:00",
     "systems": [
-        "ERDA"
+        "ALL"
     ],
     "announce_start": "2024-02-05T09:00:00+01:00",
     "title": {
