@@ -37,15 +37,15 @@
     "announce_start": "2024-02-27T13:05:00+01:00",
     "title": {
       "EN": "ERDA with associated services mostly unavailable",
-      "DK": "ERDA og tilhørende services mestendels utilgængelig"
+      "DK": "ERDA med tilhørende services mestendels utilgængelig"
     },
     "services": [
       "ALL"
     ],
-    "work_end": "2024-02-27T23:00:00+01:00",
+    "work_end": "2024-02-27T15:58:00+01:00",
     "description": {
-      "EN": "ERDA with associated services is currrently unavailable. We are looking into the issue but we suspect that the backend Gluster storage system has experienced an error since it no longer reponds on the ERDA frontend.",
-      "DK": "ERDA og tilhørende services er i øjeblikket utilgængelige. Vi arbejder på problemet, men det tyder på at det er vores backend Gluster storage system som har problemet, siden det ikke længere svarer ERDA frontend."
+      "EN": "ERDA with associated services was unavailable this afternoon because the backend Gluster storage system lost the connection to a storage brick when a pool of disks there went offline. It resulted in complete loss of access to the backend storage from the ERDA frontend and therefore rendered pretty much all services there unusable. Only ERDA Seafile remained available because it relies on stand-alone storage. We got the storage brick back online shortly before 16 o'clock and everything should be back to normal.",
+      "DK": "ERDA med tilhørende services var utilgængelig her til eftermiddag fordi backend Gluster storage systemet mistede kontakten til en storage brick da en disk pool der gik offline. Det betød at al kontakt til backendlageret forsvandt på ERDA frontend og at praktisk talt alle services derfor var ude af drift. Kun ERDA Seafile forblev tilgængelig da den benytter eget lager. Vi fik liv i den ramte storage brick igen lidt før kl 16 og alt skulle være tilbage i normal drift."
     },
     "announce_end": "2024-02-28T12:00:00+01:00"
   },
