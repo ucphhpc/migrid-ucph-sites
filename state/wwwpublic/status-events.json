@@ -30,6 +30,27 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2024-02-27T13:00:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2024-02-27T13:00:00+01:00",
+    "title": {
+      "EN": "ERDA, DAG and MODI is currently unavailable, likely due to a Gluster error",
+      "DK": "ERDA, DAG og MODI er utilgængelig, sandsynligvis pga. en Gluster fejl"
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2024-02-27T23:00:00+01:00",
+    "description": {
+      "EN": "ERDA, DAG, and MODI are currrently unavailable. We are looking into the issue but we suspect that the backend Gluster storage system has experienced an error since it is no longer reponding to the ERDA host.",
+      "DK": "ERDA, DAG og MODI er i øjeblikket utilgængelige. Vi arbejder på problemet, men det tyder på at det er vores backend Gluster storage system som har problemet, siden at det ikke længere svarer vores ERDA host."
+    },
+    "announce_end": "2024-02-27T23:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2024-02-13T19:00:00+01:00",
     "systems": [
         "ALL"
