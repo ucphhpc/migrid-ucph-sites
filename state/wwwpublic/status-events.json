@@ -30,6 +30,29 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2024-02-27T13:00:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2024-02-27T13:00:00+01:00",
+    "title": {
+      "EN": "ERDA.dk, DAG and MODI not accessible",
+      "DK": "ERDA.dk, DAG og MODI er ikke tilgængelig"
+    },
+    "services": [
+      "ERDA",
+      "DAG",
+      "MODI"
+    ],
+    "work_end": "2024-02-27T23:00:00+01:00",
+    "description": {
+      "EN": "Website erda.dk, DAG, and MODI are currrently unavailable. We are looking into the issue.",
+      "DK": "Hjemmesiden erda.dk, DAG og MODI er i øjeblikket utilgængelige. Vi arbejder på problemet."
+    },
+    "announce_end": "2024-02-27T23:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2024-02-13T19:00:00+01:00",
     "systems": [
         "ALL"
