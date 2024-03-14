@@ -1,6 +1,27 @@
 [
  {
     "status": "AUTO",
+    "work_start": "2024-04-02T19:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-03-15T12:00:00+01:00",
+    "title": {
+      "EN": "Planned DAG and MODI Maintenance",
+      "DK": "Planlagt DAG og MODI vedligehold"
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2024-04-02T23:00:00+02:00",
+    "description": {
+      "EN": "We will apply a regular monthly maintenance of DAG and MODI, which includes updating the software stack and rebooting the system. Interruptions to the service will occur.",
+      "DK": "Vi udruller en månedelige opdatering og vedligeholdelse af DAG og MODI, som inkluderer opdatering af softwarestakken og genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
+    },
+    "announce_end": "2024-04-03T12:00:00+02:00"
+  },
+ {
+    "status": "AUTO",
     "work_start": "2024-03-11T18:00:00+01:00",
     "systems": [
         "ERDA"
