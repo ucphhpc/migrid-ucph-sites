@@ -19,6 +19,47 @@
       "DK": "Vi er tilsyneladende blevet ramt af et massivt og længerevarende strømudfald på HCØ fra omkring 9:22 lørdag morgen og har mistet kontakten til en stor del af selv basal infrastruktur. Vi må sandsynligvis afvente teknikere på stedet for at få styr på problemerne og bringe en række maskiner og lidt netværksudstyr tilbage i drift. SIF og ERDA Seafile ser ud til at være uberørte men resten af ERDA og migrid.org svarer slet ikke eller i meget begrænset omfang. Yderligere information følger her."
     },
     "announce_end": "2024-04-16T12:00:00+02:00"
+   {
+    "status": "AUTO",
+    "work_start": "2024-04-12T16:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-04-5T10:00:00+02:00",
+    "title": {
+      "EN": "Planned DAG and MODI Maintenance",
+      "DK": "Planlagt DAG og MODI vedligehold"
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2024-04-12T20:00:00+02:00",
+    "description": {
+      "EN": "We will apply an additional maintenance of DAG and MODI, which includes updating the notebooks and adjusting the underlying memory on the MODI login node which should allow more stable connections. Interruptions to the service will occur.",
+      "DK": "Vi udruller en ekstra vedligeholdelse af DAG og MODI, som inkluderer opdatering af notebooks og justering af den underliggende hukommelse på MODI login noden, hvilket skulle tillade mere stabile forbindelser. Afbrydelser af denne tjeneste vil forekomme."
+    },
+    "announce_end": "2024-04-13T12:00:00+02:00"
+  },
+ {
+    "status": "AUTO",
+    "work_start": "2024-04-04T19:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-03-15T12:00:00+01:00",
+    "title": {
+      "EN": "Planned DAG and MODI Maintenance",
+      "DK": "Planlagt DAG og MODI vedligehold"
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2024-04-04T23:00:00+02:00",
+    "description": {
+      "EN": "We will apply a regular monthly maintenance of DAG and MODI, which includes updating the software stack and rebooting the system. Interruptions to the service will occur. We completed this work successfully within the given timeframe and all services are back online.",
+      "DK": "Vi udruller en månedelige opdatering og vedligeholdelse af DAG og MODI, som inkluderer opdatering af softwarestakken og genstart af systemet. Afbrydelser af denne tjeneste vil forekomme. Vi blev færdige med dette arbejde inden for tidsrammen og alle services er tilbage online."
+    },
+    "announce_end": "2024-04-05T12:00:00+02:00"
   },
  {
     "status": "AUTO",
