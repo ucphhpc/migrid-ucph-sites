@@ -1,4 +1,25 @@
 [
+  {
+    "status": "AUTO",
+    "work_start": "2024-04-13T09:22:00+02:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2024-04-13T11:00:00+02:00",
+    "title": {
+      "EN": "Power Outage - Almost Everything Unavailable",
+      "DK": "Strømudfald - Næsten alt utilgængelig"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2024-04-15T12:00:00+02:00",
+    "description": {
+      "EN": "We appear to have been hit but a massive and lasting power outage at HCØ from around 9:22 Saturday morning and can't reach much of even the basic infrastructure. We probably have to wait for technicians on-site to sort out the issues and bring several machines and a bit of network equipment back online. SIF and ERDA Seafile look unaffectected but the rest of ERDA and migrid.org do not respond at all or to a very limited extent. More info will follow here.",
+      "DK": "Vi er tilsyneladende blevet ramt af et massivt og længerevarende strømudfald på HCØ fra omkring 9:22 lørdag morgen og har mistet kontakten til en stor del af selv basal infrastruktur. Vi må sandsynligvis afvente teknikere på stedet for at få styr på problemerne og bringe en række maskiner og lidt netværksudstyr tilbage i drift. SIF og ERDA Seafile ser ud til at være uberørte men resten af ERDA og migrid.org svarer slet ikke eller i meget begrænset omfang. Yderligere information følger her."
+    },
+    "announce_end": "2024-04-16T12:00:00+02:00"
+  },
  {
     "status": "AUTO",
     "work_start": "2024-03-11T18:00:00+01:00",
