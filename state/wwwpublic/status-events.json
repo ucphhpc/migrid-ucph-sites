@@ -13,12 +13,12 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2024-04-15T10:00:00+02:00",
+    "work_end": "2024-04-15T14:00:00+02:00",
     "description": {
-      "EN": "We were hit by a massive and lasting power and cooling outage at HCØ from around 9:22 Saturday morning and couldn't reach much of even the basic infrastructure. After getting technicians on-site to sort out the main issues and bring several machines and a bit of network equipment back online we managed to get most systems back online. SIF and ERDA Seafile were unaffectected and the rest of ERDA and migrid.org are returning now albeit with some DAG and MODI components still missing. We're working on the remaining issues and more info will follow here.",
-      "DK": "Vi blev ramt af et massivt og længerevarende udfald på strøm og køling på HCØ fra omkring 9:22 lørdag morgen og mistede kontakten til en stor del af selv basal infrastruktur. Efter at have haft teknikere på stedet for at få styr på hovedproblemerne og bringe en række maskiner og lidt netværksudstyr tilbage i drift har vi nu fået de fleste systemer tilbage i drift. SIF og ERDA Seafile var uberørte og resten af ERDA og migrid.org er mere eller mindre tilbage nu, men med nogle dele af DAG og MODI stadig ramt. Vi arbejder på sagen og yderligere information følger her."
+      "EN": "We were hit by a massive and lasting power and cooling outage at HCØ from around 9:22 Saturday morning and couldn't reach much of even the basic infrastructure. After getting technicians on-site to sort out the main issues and bring several machines and a bit of network equipment back to life we managed to also get most systems back online. SIF and ERDA Seafile were unaffectected in the first place and the rest of ERDA and migrid.org are returning now albeit with some DAG and MODI components still missing. Monday morning we noticed that one of the backend storage bricks had not started up properly which resulted in partial data visibility as some of you noticed. We've addressed that issue and data should be fully accessible again. We're working on the remaining issues and more info will follow here.",
+      "DK": "Vi blev ramt af et massivt og længerevarende udfald på strøm og køling på HCØ fra omkring 9:22 lørdag morgen og mistede kontakten til en stor del af selv basal infrastruktur. Efter at have haft teknikere på stedet for at få styr på hovedproblemerne og bringe en række maskiner og lidt netværksudstyr til live igen har vi nu fået de fleste systemer tilbage i drift. SIF og ERDA Seafile var grundlæggende ikke berørt og resten af ERDA og migrid.org er mere eller mindre tilbage nu, men med nogle dele af DAG og MODI stadig ramt. Mandag morgen blev vi opmærksomme på at en brick i backendlageret ikke var startet korrekt op og det førte til delvis datasynlighed som nogle af jer bemærkede. Det har vi nu taget hånd om og alt data skulle være tilgængeligt igen. Vi arbejder på de resterende problemer og yderligere information følger her."
     },
-      "announce_end": "2024-04-15T12:00:00+02:00"
+      "announce_end": "2024-04-16T12:00:00+02:00"
   },
    {
     "status": "AUTO",
