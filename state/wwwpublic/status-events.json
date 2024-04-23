@@ -20,6 +20,32 @@
     },
     "announce_end": "2024-06-03T12:00:00+02:00"
   },
+   {
+    "status": "AUTO", 
+    "work_start": "2024-04-30T12:00:00+02:00", 
+    "systems": [
+        "ERDA",
+        "SIF"
+    ],
+    "announce_start": "2024-04-24T09:30:00+02:00",
+    "title": {
+      "EN": "Access Issues this Week - UCPH System Upgrades",
+      "DK": "Adgangsudfald denne uge - KU systemopgraderinger"
+    },
+    "services": [
+        "Web",
+        "DAG",
+        "MODI",
+        "HEL",
+        "DOI"
+    ],
+    "work_end": "2024-05-05T21:00:00+02:00",
+    "description": {
+      "EN": "UCPH IT have announced major system upgrades over the entire week. The SCIENCE HPC Center is NOT behind the general UCPH firewalls but site web login, Jupyter access and UCPH DOI minting on Archives rely on central UCPH services, as do SIF, and therefore they will likely be affected to some extent. Thus all mentioned services may be temporarily unavailable for shorter or longer periods during the announced maintenance window. Please note that OpenID login sessions have a default lifetime of 24 hours so active login sessions should remain usable despite OpenID service outages until session expiry and renewal. Sharelinks, Seafile and access on WebDAVS, SFTP/SSHFS and FTPS should remain unaffected.",
+      "DK": "KU-IT har varslet større systemopgraderinger over hele ugen. SCIENCE HPC Centeret er IKKE bag KUs generelle firewall, men site web login, Jupyter-adgang og DOI-tildeling på Archives er bundet op på centrale KU-services, ligesom SIF, og vil derfor sandsynligvis være berørt i noget omfang. Således må der forventes kortere eller længere udfald i adgangen til de nævnte services under det udmeldte service vindue. Bemærk venligst at OpenID login-sessioner som standard gælder i 24 timer så aktive login-sessioner skulle forblive brugbare til trods for udfald i OpenID servicen indtil sessionen udløb og fornyelse. Sharelinks, Seafile og adgang via WebDAVS, SFTP/SSHFS og FTPS skulle forblive fuldt tilgængelige."
+    },
+    "announce_end": "2024-05-05T22:00:00+02:00",
+  },
   {
     "status": "AUTO",
     "work_start": "2024-04-13T09:22:00+02:00",
