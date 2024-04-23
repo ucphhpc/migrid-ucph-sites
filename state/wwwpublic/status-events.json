@@ -20,6 +20,40 @@
     },
     "announce_end": "2024-06-03T12:00:00+02:00"
   },
+   {
+    "status": "AUTO", 
+    "work_start": "2024-04-25T17:00:00+02:00", 
+    "systems": [
+        "ERDA",
+        "SIF",
+        "MiGrid"
+    ],
+    "announce_start": "2024-04-23T12:00:00+02:00",
+    "title": {
+      "EN": "Possible Access Issues - Planned UCPH System Upgrades",
+      "DK": "Mulige adgangsudfald - Planlagte KU systemopgraderinger"
+    },
+    "services": [
+        "Web",
+        "DAG",
+        "MODI",
+        "DOI"
+    ],
+    "work_end": "2024-05-07T22:00:00+02:00",
+    "description": {
+      "EN": "UCPH IT have announced major system upgrades over the next couple of weeks[0]. The SCIENCE HPC Center is NOT behind the general UCPH firewalls but ERDA, SIF and MiGrid site web login, ERDA Jupyter access and UCPH DOI minting of published Archives rely on central UCPH services, and therefore may be affected to some extent. Thus all mentioned services may be temporarily unavailable for shorter or longer periods during the announced maintenance window. Please note that UCPH OpenID login sessions have a default lifetime of 24 hours so active login sessions should remain usable despite any UCPH OpenID service outages until session expiry and renewal. Sharelinks, Seafile and access on WebDAVS, SFTP/SSHFS and FTPS should remain unaffected.",
+      "DK": "KU-IT har varslet større systemopgraderinger over de næste par uger[0]. SCIENCE HPC Centeret er IKKE bag KUs generelle firewall, men ERDA, SIF og MiGridsite web login, ERDA Jupyter-adgang og UCPH DOI-tildeling på offentliggjorte Archives er bundet op på centrale KU-services, og kan derfor blive berørt i noget omfang. Således må der forventes kortere eller længere udfald i adgangen til de nævnte services under det udmeldte servicevindue. Bemærk venligst at KUs OpenID login-sessioner som standard gælder i 24 timer så aktive login-sessioner skulle forblive brugbare til trods for udfald i KUs OpenID servicen indtil sessionen udløb og fornyelse. Sharelinks, Seafile og adgang via WebDAVS, SFTP/SSHFS og FTPS skulle forblive fuldt tilgængelige."
+    },
+    "references": {
+      "EN": [
+          "https://it.ku.dk/driftinfo/"
+      ], 
+      "DK": [
+          "https://it.ku.dk/driftinfo/"
+      ]
+    },
+    "announce_end": "2024-05-08T10:00:00+02:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2024-04-13T09:22:00+02:00",
