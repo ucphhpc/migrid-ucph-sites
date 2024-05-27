@@ -1,5 +1,26 @@
 [
     {
+     "status": "AUTO",
+     "work_start": "2024-05-27T11:00:00+02:00",
+     "systems": [
+         "ERDA"
+     ],
+     "announce_start": "2024-05-27T10:00:00+02:00",
+     "title": {
+         "EN": "ERDA low on disk space: clean up / write throttling.",
+         "DK": "ERDA mangler disksplads: oprydning / nedsat skrivehastighed."
+     },
+     "services": [
+         "ALL"
+     ],
+     "work_end": "2024-08-30T18:00:00+02:00",
+     "description": {
+         "EN": "ERDA is running low on storage space and we face time challenges regarding expansion. We therefore ask for assistance from experienced ERDA users who can identify and delete larger datasets no longer needed. That is, if you have redundant or obsolete data that you planned to delete anyway, please do so now. The same applies if you have verbatim copies of any larger datasets from external resources, and no longer have use for them. We specifically do not want users, who are inexperienced to act under pressure. If you are unable to decide whether data is important enough to keep or not, please do not delete data. Extra storage for ERDA is being purchased, but until we receive and install it, we risk running out of disk space. Facing ERDA running out of disk space, we will soon have to reduce write to disk speed severely, to the detriment of many users. ",
+         "DK": "ERDA er ved at løbe tør for lagerplads og vi er tidsmæssigt udfordret med at tilføje mere. Vi beder derfor om hjælp fra erfarne brugere, der kan identificere og slette større mængder overflødige data. Dvs. hvis du har redundante eller overflødige data som du i forvejen har planlagt at slette, så gør det venligst nu. Vi indskærper, at vi ikke ønsker at uerfarne brugere skal handle under pres. Hvis du ikke kan vurdere om data er vigtige eller ej, så undlad at slette. Der pågår bestilling af ekstra diskplads, men før den er modtaget og installeret, så risikerer vi at være løbet tør for plads. Med udsigt til at ERDA løber tør for diskplads, så vil vi snart være nødsaget til at begrænse skrivehastigheden, hvilket vil påvirke mange brugere."
+     },
+     "announce_end": "2024-09-02T16:00:00+02:00"
+    },
+    {
     "status": "AUTO",
     "work_start": "2024-06-26T17:00:00+02:00",
     "systems": [
