@@ -13,10 +13,10 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2024-06-03T12:00:00+02:00",
+    "work_end": "2024-06-01T23:07:00+02:00",
     "description": {
-      "EN": "We have an issue with the Gluster backend storage used on ERDA and it leads to occassional errors when using the associated user services and limited data visibility/access. It turns out that one of the backend storage bricks has run full and crashed on Friday morning. We freed up a bit of space and got it online again, but on Saturday morning it looks like it happened again, and it will need some more attention. We may not be able to do that before Monday morning. We are sorry for the inconvenience it adds until we get the problem fixed.",
-      "DK": "Vi har et problem med det Gluster backend-lager som benyttes til ERDA og det resulterer i sporadiske fejl ved brug af de tilknyttede services og begrænset dataadgang. Det skyldes en fyldt brick i backendlageret som crashede fredag morgen. Vi fik frigjort lidt plads og startet den men nu er den crashed igen og kræver noget arbejde. Det kan vi først med sikkerhed gøre mandag morgen. Vi beklager de gener det medfører indtil vi får løst problemet."
+      "EN": "We experience issues with the Gluster backend storage used on ERDA and it leads to occassional errors when using the associated user services and limited data visibility/access. It turns out that one of the backend storage bricks had run full and crashed on Friday morning. We freed up a bit of space and got it online again, but on Saturday morning the problem returned. Our technicians managed to take a look and address it again on Saturday night. So things run again now, but we keep an eye on the situation as it may happen again. We are sorry for the inconvenience it causes, but are somewhat pressed with the ERDA storage space running low as mentioned in another recent status update.",
+      "DK": "Vi oplever problemer med det Gluster backend-lager som benyttes til ERDA og det resulterer i sporadiske fejl ved brug af de tilknyttede services og begrænset dataadgang. Det viser sig at en brick i backendlageret løb tør for plads og derfor crashede fredag morgen. Vi fik frigjort lidt plads og genstartet den, men lørdag morgen gentog det sig. Vores teknikere lykkedes med igen at finde plads og få den tilbage lørdag aften. Så alting kører normalt i øjeblikket, men vi holder fortsat øje med situationen. Vi beklager de gener det medfører, men er som nævnt i en anden nylig post pressede pga det aktuelle lavvande i ERDA lagerets pladsreserve."
     },
     "announce_end": "2024-06-04T12:00:00+02:00"
   },
