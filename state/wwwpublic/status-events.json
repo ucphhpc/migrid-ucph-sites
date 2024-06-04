@@ -1,4 +1,27 @@
 [
+{
+    "status": "AUTO",
+    "work_start": "2024-06-04T12:00:00+02:00",
+    "systems": [
+        "ERDA",
+        "MiGrid",
+        "SIF"
+    ],
+    "announce_start": "2024-06-04T12:00:00+02:00",
+    "title": {
+      "EN": "All services unavailable due to local power outage",
+      "DK": "Alle tjenester utilgængelige pga. lokal strømafbrydelse"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2024-06-04T16:30:00+02:00",
+    "description": {
+      "EN": "During a planned maintenance work on the main power, the emergency power was lost as well hitting our local domain name system (DNS) and backend storage. The systems are all up and running again, so please contact us at support if you still experience issues.",
+      "DK": "Under et planlagt strømarbejde mistede vi også nødstrømmen, hvilket ramte vores domænenavnesystem (DNS) og backendlagre. Systemerne kører alle igen, så skriv venligst til os på supporten hvis du fortsat oplever problemer."
+    },
+    "announce_end": "2024-06-06T23:59:59+02:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2024-05-31T02:05:00+02:00",
