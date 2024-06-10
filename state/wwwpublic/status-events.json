@@ -1,5 +1,26 @@
 [
-{
+    {
+    "status": "AUTO",
+    "work_start": "2024-06-10T20:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-06-10T20:00:00+02:00",
+    "title": {
+      "EN": "All services unavailable due - system contact lost",
+      "DK": "Alle tjenester utilgængelige - systemkontakten tabt"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2024-06-11T21:00:00+02:00",
+    "description": {
+      "EN": "We have suddenly lost all contact to ERDA front-end og services this evening sometime between 18:02 and 21:30. This includes contact even to the underlying low-level host systems; only the stand-alone Seafile service is unaffected. We'll have to await technicians on-site first thing tomorrow morning to investigate the issues. Sorry for the inconvenience.",
+      "DK": "Vi har pludselig mistet al kontakt til ERDA front-end og services her til aften mellem 18:03 og 21:30. Det inkluderer også selv grundlæggende kontakt til underliggende værtssystem og services; kun den særskilte Seafile er ikke berørt. Vi bliver nødt til at vente til i morgen tidlig når vi får vores teknikere frem til datacentret til at undersøge nærmere. Vi beklager de medfølgende gener."
+    },
+    "announce_end": "2024-06-12T12:00:00+02:00"
+  },
+    {
     "status": "AUTO",
     "work_start": "2024-06-04T12:00:00+02:00",
     "systems": [
