@@ -13,12 +13,12 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2024-06-11T21:00:00+02:00",
+    "work_end": "2024-06-11T09:40:00+02:00",
     "description": {
-      "EN": "We have suddenly lost all contact to ERDA front-end og services this evening sometime between 18:02 and 21:30. This includes contact even to the underlying low-level host systems; only the stand-alone Seafile service is unaffected. We'll have to await technicians on-site first thing tomorrow morning to investigate the issues. Sorry for the inconvenience.",
-      "DK": "Vi har pludselig mistet al kontakt til ERDA front-end og services her til aften mellem 18:03 og 21:30. Det inkluderer også selv grundlæggende kontakt til underliggende værtssystem og services; kun den særskilte Seafile er ikke berørt. Vi bliver nødt til at vente til i morgen tidlig når vi får vores teknikere frem til datacentret til at undersøge nærmere. Vi beklager de medfølgende gener."
+      "EN": "We suddenly lost all contact to ERDA front-end and services Monday evening sometime between 18:03 and 21:30. This included contact even to the underlying low-level host systems and infrastructure; only the stand-alone Seafile service was unaffected. We had to await technicians on-site first thing Tuesday morning to address the issues. We took advantage of this unscheduled downtime to apply a number of pending updates throughout the software stack and got ERDA and all services back in production at about 9:40. The cause of the disappearance or crash is still being investigated and we are sorry for the inconvenience.",
+      "DK": "Vi mistede pludselig al kontakt til ERDA front-end og services mandag aften mellem 18:03 og 21:30. Det inkluderede også selv grundlæggende kontakt til underliggende værtssystem og infrastruktur; kun den særskilte Seafile var ikke berørt. Vi blev nødt til at vente til vi fik teknikere frem til datacenteret tirsdag morgen til at håndtere problemet. Vi udnyttede så den uventede nedetid til at få kørt nogle udestående opdateringer på tværs af software-stakken og fik ERDA med alle services tilbage i drift omkring 9:40. Kilden til problemerne er stadig ikke lokaliseret, men vi undersøger det og beklager de gener det medførte."
     },
-    "announce_end": "2024-06-12T12:00:00+02:00"
+    "announce_end": "2024-06-11T14:00:00+02:00"
   },
     {
     "status": "AUTO",
