@@ -7,18 +7,18 @@
     ],
     "announce_start": "2024-07-08T08:00:00+02:00",
     "title": {
-      "EN": "All services unavailable",
-      "DK": "Alle tjenester utilgængelige"
+      "EN": "All services unavailable - backend storage not responding",
+      "DK": "Alle tjenester utilgængelige - backendlageret svarer ikke"
     },
     "services": [
         "ALL"
     ],
     "work_end": "2024-07-10T12:00:00+02:00",
     "description": {
-      "EN": "We lost all contact to ERDA front-end web and while trying to recover had to take down everything. It looks like there may be an issue with the backend storage and we are working on it. Due to vacation it may take a while. We'r sorry for the inconvenience. ",
-      "DK": "Vi har mistet al kontakt til ERDA front-end web og i forsøget på at få den tilbage i drift var vi nødt til at lukke front-end helt ned. Det kunne ligne et problem med backendlageret og vi arbejder på sagen. P.g.a. ferie kan det dog tage længere tid. Vi beklager de gener det medfører."
+      "EN": "We lost all contact to ERDA front-end web Monday morning and while trying to recover had to take down everything. It looks like there may be an issue with a backend storage brick and we are working on it. Due to vacation and the resulting limited staff availability it may take a while. We're sorry for the inconvenience. ",
+      "DK": "Vi mistede al kontakt til ERDA front-end web mandag morgen og i forsøget på at få den tilbage i drift var vi nødt til at lukke front-end helt ned. Det ligner et problem med en brick i backendlageret og vi arbejder på sagen. P.g.a. ferie og medfølgende begrænset bemanding kan det dog tage længere tid. Vi beklager de gener det medfører."
     },
-    "announce_end": "2024-07-10T12:00:00+02:00"
+    "announce_end": "2024-07-11T12:00:00+02:00"
   },
     {
     "status": "AUTO",
