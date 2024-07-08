@@ -8,8 +8,8 @@
     ],
     "announce_start": "2024-07-07T19:30:00+02:00",
     "title": {
-      "EN": "All services unavailable - backend storage not responding",
-      "DK": "Alle tjenester utilgængelige - backendlageret svarer ikke"
+      "EN": "Service outages and limited web access - backend storage and openid.ku.dk issues",
+      "DK": "Serviceudfald og begrænset webtilgængelighed - problemer med backendlageret og openid.ku.dk"
     },
     "services": [
         "ALL"
