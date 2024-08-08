@@ -1,6 +1,27 @@
 [
     {
     "status": "AUTO",
+    "work_start": "2024-08-07T14:00:00+02:00",
+    "systems": [
+        "SIF"
+    ],
+    "announce_start": "2024-08-07T19:30:00+02:00",
+    "title": {
+      "EN": "SIF services were inaccessible due to critical security update",
+      "DK": "SIF-tjenesterne var utilgængelige grundet kritisk sikkerhedsopdatering"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2024-08-07T17:00:00+02:00",
+    "description": {
+      "EN": "In relation to a critical security update, the SIF services were temporarily shut down without prior announcement. The services are back to normal operations.",
+      "DK": "I forbindelse med en kritisk sikkerhedsopdatering, så blev SIF kortvarigt lukket ned uden forudgående annoncering. Tjenesterne er tilbage i normal drift."
+    },
+    "announce_end": "2024-08-09T12:00:00+02:00"
+  },
+    {
+    "status": "AUTO",
     "work_start": "2024-07-07T19:30:00+02:00",
     "systems": [
         "ERDA",
