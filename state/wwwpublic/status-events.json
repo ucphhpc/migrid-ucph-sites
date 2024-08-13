@@ -7,16 +7,17 @@
     ],
     "announce_start": "2024-08-24T12:00:00+01:00",
     "title": {
-      "EN": "DAG Maintenance",
-      "DK": "DAG vedligehold"
+      "EN": "DAG and MODI Maintenance",
+      "DK": "DAG og MODI vedligehold"
     },
     "services": [
-        "DAG"
+        "DAG",
+        "MODI"
     ],
     "work_end": "2024-09-01T23:59:00+01:00",
     "description": {
-        "EN": "We will apply an update of DAG, which includes updating the software stack with the inclusion of a new Julia Notebook and GDB for all notebooks, along with rebooting the system. Interruptions to the service will occur.",
-        "DK": "Vi vil udføre en opdatering af DAG, som inkluderer opdatering af softwarestakken med tilføjelsen af en ny Julia-Notebook og GDB til alle notebooks, samt en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
+        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack and all Notebook images, along with rebooting the system. Interruptions to the service will occur.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken og alle Notebook images, samt en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
     },
     "announce_end": "2024-09-02T12:00:00+01:00"
   },
