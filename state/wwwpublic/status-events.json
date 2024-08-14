@@ -5,7 +5,7 @@
     "systems": [
         "ERDA"
     ],
-    "announce_start": "2024-08-24T12:00:00+01:00",
+    "announce_start": "2024-08-14T08:00:00+01:00",
     "title": {
       "EN": "DAG and MODI Maintenance",
       "DK": "DAG og MODI vedligehold"
@@ -20,6 +20,27 @@
         "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken og alle Notebook images, samt en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
     },
     "announce_end": "2024-09-02T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2024-08-26T16:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-08-14T08:00:00+01:00",
+    "title": {
+      "EN": "Seafile Maintenance",
+      "DK": "Seafile vedligehold"
+    },
+    "services": [
+        "Seafile"
+    ],
+    "work_end": "2024-08-27T07:59:00+01:00",
+    "description": {
+        "EN": "We will apply a series of pending system updates and upgrade Seafile itself to the latest release, which will involve restarts of the service and complete rebooting of the system for the low-level updates. Therefore it will be unavailable for shorter or longer periods during the maintenance window.",
+        "DK": "Vi køre en række udestående systemopdateringer og opgradere selve Seafile til nyeste udgave, hvilket involverer både genstart af servicen og komplet system genstart ifm de grundlæggende systemopdateringer. Den vil derfor i kortere eller længere perioder af vedligeholdelsesvinduet være utilgængelig."
+    },
+    "announce_end": "2024-08-28T12:00:00+01:00"
   },
     {
     "status": "AUTO",
