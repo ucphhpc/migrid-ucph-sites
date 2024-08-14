@@ -3,8 +3,10 @@ state/wwwpublic/.well-known/acme-challenge/*
 
 # Known site-specific symlinks
 state/wwwpublic/index.html
-state/wwwpublic/cookie-policy.pdf
-state/wwwpublic/site-privacy-policy.pdf
+# We include these next two links and their target here now as they are not
+# installed by default otherwise
+#state/wwwpublic/cookie-policy.pdf
+#state/wwwpublic/site-privacy-policy.pdf
 state/wwwpublic/status.html
 state/wwwpublic/about-snippet.html
 state/wwwpublic/support-snippet.html
