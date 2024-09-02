@@ -16,8 +16,8 @@
     ],
     "work_end": "2024-08-30T23:59:00+02:00",
     "description": {
-        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack and all Notebook images, along with rebooting the system. Interruptions to the service will occur.",
-        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken og alle Notebook images, samt en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
+        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack and all Notebook images, along with rebooting the system. Interruptions to the service will occur. We completed this work successfully somewhat close to the announced timed. This update includes, updating all notebook to JupyterLab 4.2.4, updating SLURM across MODI to 23.11.9, the underlying MODI compute nodes to Rocky 9.4 and all underlying low level packages.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken og alle Notebook images, samt en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme. Vi blev færdige med dette arbejde succesfuldt tæt på det udmeldte tidspunkt. Denne opdatering inkluderer, opdatering af alle notebooks til JupyterLab 4.2.4, opdatering af SLURM på tværs af MODI til 23.11.9, de underliggende MODI compute nodes til Rocky 9.4 og alle underliggende lavniveau pakker."
     },
     "announce_end": "2024-09-02T12:00:00+02:00"
   },
