@@ -13,7 +13,7 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2024-09-09T10:30:00+02:00",
+    "work_end": "2024-09-09T16:00:00+02:00",
     "description": {
         "EN": "We registered that ERDA was unresponsive, and have restarted the web server. In effect, access to ERDA, DAG, and MODI was terminated. We are monitoring the systems closer than normal. If you experience issues, please report to support@erda.dk.",
         "DK": "Vi registrerede manglende svar fra ERDA, og genstartede webserveren. Som følge blev adgang til ERDA, DAG og MODI afbrudt. Vi overvåger systemerne tættere end normalt. Hvis du fortsat oplever problemer, så kontakt os på support@erda.dk."
