@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2024-09-09T10:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-09-09T11:00:00+02:00",
+    "title": {
+      "EN": "ERDA, DAG, and MODI restarted",
+      "DK": "ERDA, DAG og MODI genstartet"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2024-09-09T10:30:00+02:00",
+    "description": {
+        "EN": "We registered that ERDA was unresponsive, and have restarted the web server. In effect, access to ERDA, DAG, and MODI was terminated. We are monitoring the systems closer than normal. If you experience issues, please report to support@erda.dk.",
+        "DK": "Vi registrerede manglende svar fra ERDA, og genstartede webserveren. Som følge blev adgang til ERDA, DAG og MODI afbrudt. Vi overvåger systemerne tættere end normalt. Hvis du fortsat oplever problemer, så kontakt os på support@erda.dk."
+    },
+    "announce_end": "2024-09-14T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2024-08-30T17:00:00+02:00",
     "systems": [
         "ERDA"
