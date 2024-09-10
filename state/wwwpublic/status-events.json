@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2024-09-10T14:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-09-10T14:00:00+02:00",
+    "title": {
+      "EN": "DAG restarted",
+      "DK": "DAG genstartet"
+    },
+    "services": [
+        "DAG"
+    ],
+    "work_end": "2024-09-10T14:15:00+02:00",
+    "description": {
+        "EN": "The manager node of DAG was experiencing memory exhaustion which caused service slowdowns/stalls, we had to reconfigure and restart the DAG service to fix this issue, which should improve the stability of the service. As as result we ask that you restart your Notebook server via the 'Start DAG' button at https://erda.dk/wsgi-bin/jupyter.py.  We continue to monitor the systems closer than normal. If you experience issues beyond the stated restart, please report to support@erda.dk.",
+        "DK": "Manager noden af DAG oplevede hukommelsesudmattelse, hvilket forårsagede serviceforstyrrelser, derfor var vi nød til at omkonfigurere og genstarte DAG-tjenesten for at løse dette problem, hvilket skulle forbedre stabiliteten af tjenesten. Som et resultat beder vi dig om at genstarte din Notebook-server via 'Start DAG'-knappen på https://erda.dk/wsgi-bin/jupyter.py. Vi fortsætter med at overvåge systemerne tættere end normalt. Hvis du oplever problemer ud over den angivne genstart, bedes du rapportere til"
+    },
+    "announce_end": "2024-09-10T18:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2024-09-09T10:00:00+02:00",
     "systems": [
         "ERDA"
