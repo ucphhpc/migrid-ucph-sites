@@ -1,4 +1,35 @@
 [
+    {
+    "status": "AUTO",
+    "work_start": "2024-09-11T22:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-09-11T22:00:00+02:00",
+    "title": {
+      "EN": "We seek UCPH users to test the new UCPH user authentication at ERDA",
+      "DK": "Vi søger KU-brugere til at teste KUs nye brugergodkendelse på ERDA"
+    },
+    "services": [
+    	"Web",
+        "DAG",
+        "MODI"
+    ],
+    "work_end": "2024-10-25T23:59:00+02:00",
+    "description": {
+        "EN": "The existing ERDA web authentication method for KU/UCPH users is getting old and is about to be replaced with a more modern single sign-on (SSO) solution from KU-IT. We invite UCPH students and staff members to participate in testing this new sign up / log in functionality and provide feedback. Especially in order to make sure everything works satisfactorily with the new one before we replace the old authentication solution to then let KU-IT finally retire it. If you wish to help out with the test, it's best to first log out of ERDA, then access the front page via the reference below[0]. From there you can click sign up and log in as usual, but thereby effectively use the new SSO solution underneath. Please just use your usual UCPH username and password if/when prompted at the familiar https://id.ku.dk login page. If you're already recently logged in e.g. to KUnet or other UCPH pages covered by the SSO you will likely not be prompted to login again. At support@erda.dk we would like to hear about your experiences and if you encounter any problems during sign up or while using ERDA with attached web services after log in that way. We sincerely appreciate your assistance!",
+        "DK": "ERDAs eksisterende KU-brugergodkendelse på web-siderne synger på sidste vers og vil blive erstattet af en mere moderne single sign-on (SSO) løsning fra KU-IT. Vi inviterer KU-studerende og -ansatte til at deltage i at teste denne nye tilmeldings- og login-funktionalitet og melde tilbage. Især mhp at sikre at alt virker tilfredsstillende med den nye inden vi lader den erstatte den gamle løsning og KU-IT så endelig udfaser den. Hvis du vil hjælpe os med testen kan du med fordel først logge ud fra ERDA og så åbne forsiden med referencen nedenfor[0]. Derfra kan du benytte tilmelding og log ind som vanligt, men derved i praksis benytte den nye SSO løsning inde bagved. Indtast venligst bare dit normale KU-brugernavn og kodeord hvis/når du bedes om det på den velkendte https://id.ku.dk login-side. Hvis du i forvejen for nyligt er logget på KUnet eller andre sider omfattet af SSO, bliver du sandsynligvis ikke afkrævet login igen. På support@erda.dk vil vi gerne høre om dine erfaringer og hvis du oplever problemer under tilmelding eller ved brugen af ERDA og tilknyttede web-services efter login den vej. Vi sætter stor pris på din hjælp!"
+    },
+    "references": {
+      "EN": [
+          "https://erda.ku.dk/?show=extoidc"
+      ], 
+      "DK": [
+          "https://erda.ku.dk/?show=extoidc"
+      ]
+    },
+    "announce_end": "2024-10-25T23:59:00+02:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2024-09-10T14:00:00+02:00",
