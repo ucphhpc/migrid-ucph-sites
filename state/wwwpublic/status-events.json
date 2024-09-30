@@ -1,5 +1,5 @@
 [
-    {
+  {
     "status": "AUTO",
     "work_start": "2024-09-11T22:00:00+02:00",
     "systems": [
@@ -12,8 +12,8 @@
     },
     "services": [
     	"Web",
-        "DAG",
-        "MODI"
+      "DAG",
+      "MODI"
     ],
     "work_end": "2024-10-25T23:59:00+02:00",
     "description": {
@@ -29,6 +29,28 @@
       ]
     },
     "announce_end": "2024-10-25T23:59:00+02:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2024-10-14T17:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-10-01T08:00:00+02:00",
+    "title": {
+      "EN": "DAG and MODI Maintenance",
+      "DK": "DAG og MODI vedligehold"
+    },
+    "services": [
+        "DAG",
+        "MODI"
+    ],
+    "work_end": "2024-10-14T23:59:00+02:00",
+    "description": {
+        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack and the Big Data in Biotechnology Notebook.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken og Big Data in Biotechnology Notebooken."
+    },
+    "announce_end": "2024-10-15T12:00:00+02:00"
   },
   {
     "status": "AUTO",
