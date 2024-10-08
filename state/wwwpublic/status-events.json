@@ -13,10 +13,10 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2024-10-08T12:00:00+02:00",
+    "work_end": "2024-10-08T11:45:00+02:00",
     "description": {
-      "EN": "We started seeing response issues on ERDA services Monday morning at about 08:55 and it looks like backend storage problems. All ERDA services except Seafile are therefore currently very slow to respond or unavailable. We're investigating and will keep you posted here.",
-      "DK": "Vi begyndte at se lange svartider på ERDA services mandag morgen omkring kl 08:55 og det ligner problemer med backed-lageret. Alle ERDA services bortset fra Seafile er derfor enten meget langsomme til at svare eller helt utilgængelige. Vi undersøger sagen og melder yderligere ud her."
+      "EN": "We started seeing response issues on ERDA services Monday morning at about 08:55 and it looked like backend storage problems. All ERDA services except Seafile were therefore very slow to respond or unavailable. We investigated and found the cause to be one of the backend storage bricks having crashed hard. After nursing and bringing it back up we managed to also get the entire backend storage online again at about 11:45. All services should therefore be back in production.",
+      "DK": "Vi begyndte at se lange svartider på ERDA services mandag morgen omkring kl 08:55 og det lignede problemer med backed-lageret. Alle ERDA services bortset fra Seafile var derfor enten meget langsomme til at svare eller helt utilgængelige. Vi undersøgte sagen og fandt frem til at en brick i backend lageret var crashet hårdt. Efter at have genstartet og puslet lidt om den fik vi også resten af backend lageret tilbage i drift omkring 11:45. Alle services skulle således være tilgængelige igen."
     },
     "announce_end": "2024-10-09T12:00:00+02:00"
   },
