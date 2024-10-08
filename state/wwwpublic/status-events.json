@@ -1,4 +1,25 @@
 [
+    {
+    "status": "AUTO",
+    "work_start": "2024-10-08T08:55:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-10-08T08:55:00+02:00",
+    "title": {
+      "EN": "Service outages and limited web access - backend storage issues",
+      "DK": "Serviceudfald og begrænset webtilgængelighed - problemer med backendlageret"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2024-10-08T12:00:00+02:00",
+    "description": {
+      "EN": "We started seeing response issues on ERDA services Monday morning at about 08:55 and it looks like backend storage problems. All ERDA services except Seafile are therefore currently very slow to respond or unavailable. We're investigating and will keep you posted here.",
+      "DK": "Vi begyndte at se lange svartider på ERDA services mandag morgen omkring kl 08:55 og det ligner problemer med backed-lageret. Alle ERDA services bortset fra Seafile er derfor enten meget langsomme til at svare eller helt utilgængelige. Vi undersøger sagen og melder yderligere ud her."
+    },
+    "announce_end": "2024-10-09T12:00:00+02:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2024-09-11T22:00:00+02:00",
