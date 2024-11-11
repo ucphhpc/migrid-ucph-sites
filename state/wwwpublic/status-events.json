@@ -1,4 +1,25 @@
 [
+  {
+    "status": "AUTO",
+    "work_start": "2024-11-11T16:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-11-11T08:00:00+02:00",
+    "title": {
+      "EN": "Seafile Maintenance",
+      "DK": "Seafile vedligehold"
+    },
+    "services": [
+        "Seafile"
+    ],
+    "work_end": "2024-11-12T07:59:00+02:00",
+    "description": {
+        "EN": "We will apply a series of pending system updates and upgrade Seafile itself to the latest release, which will involve restarts of the service and complete rebooting of the system for the low-level updates. Therefore it will be unavailable for shorter or longer periods during the maintenance window.",
+        "DK": "Vi køre en række udestående systemopdateringer og opgradere selve Seafile til nyeste udgave, hvilket involverer både genstart af servicen og komplet system genstart ifm de grundlæggende systemopdateringer. Den vil derfor i kortere eller længere perioder af vedligeholdelsesvinduet være utilgængelig."
+    },
+    "announce_end": "2024-11-12T12:00:00+02:00"
+  },
     {
     "status": "AUTO",
     "work_start": "2024-10-08T08:55:00+02:00",
