@@ -1,7 +1,7 @@
 [
   {
     "status": "AUTO", 
-    "work_start": "2024-11-27T08:00:00+01:00", 
+    "work_start": "2024-11-27T08:00:00+02:00",
     "references": {
       "EN": [], 
       "DK": []
@@ -9,7 +9,7 @@
     "systems": [
       "ERDA"
     ], 
-    "announce_start": "2024-11-14T00:00:00+01:00", 
+    "announce_start": "2024-11-14T12:00:00+02:00",
     "title": {
       "EN": "Planned ERDA Maintenance", 
       "DK": "Planlagt ERDA systemarbejde"
@@ -17,12 +17,12 @@
     "services": [
       "ALL"
     ], 
-    "work_end": "2024-11-27T12:00:00+01:00", 
+    "work_end": "2024-11-27T12:00:00+02:00",
     "description": {
-      "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect a longer downtime of approximately one hour for the main upgrades if everything runs smoothly.", 
-      "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi forventer en længere nedetid på en times tid til hovedopgraderingerne hvis alting forløber planmæssigt."
+      "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect a longer downtime of approximately one hour for the main upgrades if everything runs smoothly, but conservatively set the completion before noon.",
+      "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi forventer en længere nedetid på en times tid til hovedopgraderingerne hvis alting forløber planmæssigt, men har konservativt sat afslutning inden middag."
     }, 
-    "announce_end": "2024-12-04T23:59:59+01:00"
+    "announce_end": "2024-11-29T12:00:00+02:00"
   }, 
   {
     "status": "AUTO",
