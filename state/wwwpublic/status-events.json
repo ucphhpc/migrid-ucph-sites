@@ -1,7 +1,7 @@
 [
   {
     "status": "AUTO", 
-    "work_start": "2024-11-27T08:00:00+02:00",
+    "work_start": "2024-11-27T08:00:00+01:00",
     "references": {
       "EN": [], 
       "DK": []
@@ -9,7 +9,7 @@
     "systems": [
       "ERDA"
     ], 
-    "announce_start": "2024-11-14T12:00:00+02:00",
+    "announce_start": "2024-11-14T12:00:00+01:00",
     "title": {
       "EN": "Planned ERDA Maintenance", 
       "DK": "Planlagt ERDA systemarbejde"
@@ -17,20 +17,20 @@
     "services": [
       "ALL"
     ], 
-    "work_end": "2024-11-27T12:00:00+02:00",
+    "work_end": "2024-11-27T12:00:00+01:00",
     "description": {
       "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect a longer downtime of approximately one hour for the main upgrades if everything runs smoothly, but conservatively set the completion before noon.",
       "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi forventer en længere nedetid på en times tid til hovedopgraderingerne hvis alting forløber planmæssigt, men har konservativt sat afslutning inden middag."
     }, 
-    "announce_end": "2024-11-29T12:00:00+02:00"
+    "announce_end": "2024-11-29T12:00:00+01:00"
   }, 
   {
     "status": "AUTO",
-    "work_start": "2024-11-25T18:00:00+02:00",
+    "work_start": "2024-11-25T18:00:00+01:00",
     "systems": [
         "ERDA"
     ],
-    "announce_start": "2024-11-18T08:00:00+02:00",
+    "announce_start": "2024-11-18T08:00:00+01:00",
     "title": {
       "EN": "DAG and MODI Maintenance",
       "DK": "DAG og MODI vedligehold"
@@ -39,20 +39,20 @@
         "DAG",
         "MODI"
     ],
-    "work_end": "2024-11-25T23:59:00+02:00",
+    "work_end": "2024-11-25T23:59:00+01:00",
     "description": {
         "EN": "We will apply an update of DAG and MODI which includes low level system updates and a reboot of the system. Interruptions to the service will occur.",
         "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
     },
-    "announce_end": "2024-11-26T12:00:00+02:00"
+    "announce_end": "2024-11-26T12:00:00+01:00"
   },
   {
     "status": "AUTO", 
-    "work_start": "2024-11-23T09:55:00+02:00",
+    "work_start": "2024-11-23T09:55:00+01:00",
     "systems": [
       "ERDA"
     ], 
-    "announce_start": "2024-11-23T09:55:00+02:00",
+    "announce_start": "2024-11-23T09:55:00+01:00",
     "title": {
       "EN": "Unplanned downtime for ERDA.", 
       "DK": "Ikke planlagt nedetid for ERDA."
@@ -60,20 +60,20 @@
     "services": [
       "ALL"
     ], 
-    "work_end": "2024-11-25T09:25:00+02:00",
+    "work_end": "2024-11-25T09:25:00+01:00",
     "description": {
       "EN": "ERDA was partially or fully unavailable due to disk space running full and a backend storage brick going offline during the weekend. We added more storage space on Sunday and got the failing brick back to life to restore ERDA access on Monday morning. All services are back in normal operation.",
       "DK": "ERDA var delvist eller helt utilgængelig grundet pladsmangel på disk og en fejlende brick i backendlageret i løbet af weekenden. Vi tilføjede mere lagerplads søndag og har fået liv i den fejlende brick så ERDA-adgangen blev genetableret mandag morgen. Alt er tilbage i almindelig drift."
     }, 
-    "announce_end": "2024-11-26T12:00:00+02:00"
+    "announce_end": "2024-11-26T12:00:00+01:00"
   },
   {
     "status": "AUTO",
-    "work_start": "2024-11-11T16:00:00+02:00",
+    "work_start": "2024-11-11T16:00:00+01:00",
     "systems": [
         "ERDA"
     ],
-    "announce_start": "2024-11-11T08:00:00+02:00",
+    "announce_start": "2024-11-11T08:00:00+01:00",
     "title": {
       "EN": "Seafile Maintenance",
       "DK": "Seafile vedligehold"
@@ -81,12 +81,12 @@
     "services": [
         "Seafile"
     ],
-    "work_end": "2024-11-11T17:45:00+02:00",
+    "work_end": "2024-11-11T17:45:00+01:00",
     "description": {
         "EN": "We will apply a series of pending system updates and upgrade Seafile itself to the latest release, which will involve restarts of the service and complete rebooting of the system for the low-level updates. Therefore it will be unavailable for shorter or longer periods during the maintenance window. The upgrades are complete and Seafile is back in normal production.",
         "DK": "Vi køre en række udestående systemopdateringer og opgradere selve Seafile til nyeste udgave, hvilket involverer både genstart af servicen og komplet system genstart ifm de grundlæggende systemopdateringer. Den vil derfor i kortere eller længere perioder af vedligeholdelsesvinduet være utilgængelig. Opdateringerne er gennmført og Seafile er tilbage i almindelig drift."
     },
-    "announce_end": "2024-11-12T12:00:00+02:00"
+    "announce_end": "2024-11-12T12:00:00+01:00"
   },
     {
     "status": "AUTO",
@@ -125,7 +125,7 @@
       "DAG",
       "MODI"
     ],
-    "work_end": "2024-10-25T23:59:00+02:00",
+    "work_end": "2024-12-29T23:59:00+02:00",
     "description": {
         "EN": "The existing ERDA web authentication method for KU/UCPH users is getting old and is about to be replaced with a more modern single sign-on (SSO) solution from KU-IT. We invite UCPH students and staff members to participate in testing this new sign up / log in functionality and provide feedback. Especially in order to make sure everything works satisfactorily with the new one before we replace the old authentication solution to then let KU-IT finally retire it. If you wish to help out with the test, it's best to first log out of ERDA, then access the front page via the reference below[0]. From there you can click sign up and log in as usual, but thereby effectively use the new SSO solution underneath. Please just use your usual UCPH username and password if/when prompted at the familiar https://id.ku.dk login page. If you're already recently logged in e.g. to KUnet or other UCPH pages covered by the SSO you will likely not be prompted to login again. At support@erda.dk we would like to hear about your experiences and if you encounter any problems during sign up or while using ERDA with attached web services after log in that way. We sincerely appreciate your assistance!",
         "DK": "ERDAs eksisterende KU-brugergodkendelse på web-siderne synger på sidste vers og vil blive erstattet af en mere moderne single sign-on (SSO) løsning fra KU-IT. Vi inviterer KU-studerende og -ansatte til at deltage i at teste denne nye tilmeldings- og login-funktionalitet og melde tilbage. Især mhp at sikre at alt virker tilfredsstillende med den nye inden vi lader den erstatte den gamle løsning og KU-IT så endelig udfaser den. Hvis du vil hjælpe os med testen kan du med fordel først logge ud fra ERDA og så åbne forsiden med referencen nedenfor[0]. Derfra kan du benytte tilmelding og log ind som vanligt, men derved i praksis benytte den nye SSO løsning inde bagved. Indtast venligst bare dit normale KU-brugernavn og kodeord hvis/når du bedes om det på den velkendte https://id.ku.dk login-side. Hvis du i forvejen for nyligt er logget på KUnet eller andre sider omfattet af SSO, bliver du sandsynligvis ikke afkrævet login igen. På support@erda.dk vil vi gerne høre om dine erfaringer og hvis du oplever problemer under tilmelding eller ved brugen af ERDA og tilknyttede web-services efter login den vej. Vi sætter stor pris på din hjælp!"
