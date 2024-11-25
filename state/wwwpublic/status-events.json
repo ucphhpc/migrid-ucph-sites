@@ -48,28 +48,24 @@
   },
   {
     "status": "AUTO", 
-    "work_start": "2024-11-25T09:00:00+02:00",
-    "references": {
-      "EN": [], 
-      "DK": []
-    }, 
+    "work_start": "2024-11-23T09:55:00+02:00",
     "systems": [
       "ERDA"
     ], 
-    "announce_start": "2024-11-15T09:00:00+02:00",
+    "announce_start": "2024-11-23T09:55:00+02:00",
     "title": {
-      "EN": "Unplanned downtime for ERDA due to disk space being full. We are working on resolving the issue, and will update this status accordingly.", 
-      "DK": "Uplanlagt nedbrud af ERDA tjenesten grundet pladsmangel på disk. Vi arbejder på at løse problemet, og vil opdatere denne status løbende."
+      "EN": "Unplanned downtime for ERDA.", 
+      "DK": "Ikke planlagt nedetid for ERDA."
     }, 
     "services": [
       "ALL"
     ], 
-    "work_end": "2024-11-25T20:00:00+02:00",
+    "work_end": "2024-11-25T09:25:00+02:00",
     "description": {
-      "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect a longer downtime of approximately one hour for the main upgrades if everything runs smoothly, but conservatively set the completion before noon.",
-      "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi forventer en længere nedetid på en times tid til hovedopgraderingerne hvis alting forløber planmæssigt, men har konservativt sat afslutning inden middag."
+      "EN": "ERDA was partially or fully unavailable due to disk space running full and a backend storage brick going offline during the weekend. We added more storage space on Sunday and got the failing brick back to life to restore ERDA access on Monday morning. All services are back in normal operation.",
+      "DK": "ERDA var delvist eller helt utilgængelig grundet pladsmangel på disk og en fejlende brick i backendlageret i løbet af weekenden. Vi tilføjede mere lagerplads søndag og har fået liv i den fejlende brick så ERDA-adgangen blev genetableret mandag morgen. Alt er tilbage i almindelig drift."
     }, 
-    "announce_end": "2024-11-29T12:00:00+02:00"
+    "announce_end": "2024-11-26T12:00:00+02:00"
   },
   {
     "status": "AUTO",
