@@ -1,5 +1,26 @@
 [
   {
+    "status": "AUTO",
+    "work_start": "2024-12-04T20:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-12-03T08:00:00+01:00",
+    "title": {
+      "EN": "Small DAG adjustment",
+      "DK": "Mindre DAG justering"
+    },
+    "services": [
+        "DAG"
+    ],
+    "work_end": "2024-12-04T22:00:00+01:00",
+    "description": {
+        "EN": "We will apply a small adjustment to the DAG configuration to fix the reported issue with persistent installs of python packages via the --user flag that are not installed into the correct location.",
+        "DK": "Vi vil udføre en lille justering af DAG konfigurationen for at rette det rapporterede problem med installationer af permanente python pakker via --user optionen, som ikke bliver installeret i den korrekte lokation."
+    },
+    "announce_end": "2024-12-05T12:00:00+01:00"
+  },
+  {
     "status": "AUTO", 
     "work_start": "2024-11-27T08:00:00+01:00",
     "references": {
