@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2024-12-05T21:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-12-05T08:00:00+01:00",
+    "title": {
+      "EN": "More DAG adjustments",
+      "DK": "Flere DAG justering"
+    },
+    "services": [
+        "DAG"
+    ],
+    "work_end": "2024-12-05T23:00:00+01:00",
+    "description": {
+        "EN": "The JupyterHub service node has experienced a crash recently due to excessive load. To mitigate this in the future we will be applying a series of adjustments to the DAG configuration that will limit the amount of load the JupyterHub service node will experience.",
+        "DK": "JupyterHub servicenoden har for nyligt oplevet et crash pga. overbelastning. For at imødegå dette i fremtiden vil vi udføre en række justeringer af DAG konfigurationen, som vil begrænse den mængde belastning JupyterHub servicenoden vil opleve."
+    },
+    "announce_end": "2024-12-06T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2024-12-04T20:00:00+01:00",
     "systems": [
         "ERDA"
