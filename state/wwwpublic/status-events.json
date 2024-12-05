@@ -13,10 +13,10 @@
     "services": [
         "DAG"
     ],
-    "work_end": "2024-12-04T22:00:00+01:00",
+    "work_end": "2024-12-05T08:10:00+01:00",
     "description": {
-        "EN": "We will apply a small adjustment to the DAG configuration to fix the reported issue with persistent installs of python packages via the --user flag that are not installed into the correct location.",
-        "DK": "Vi vil udføre en lille justering af DAG konfigurationen for at rette det rapporterede problem med installationer af permanente python pakker via --user optionen, som ikke bliver installeret i den korrekte lokation."
+        "EN": "We will apply a small adjustment to the DAG configuration to fix the reported issue with persistent installs of python packages via the --user flag that are not installed into the correct location. We applied this update and rebooted the DAG service is in early hours on the 5th of December. Everything should be back in normal production now.",
+        "DK": "Vi vil udføre en lille justering af DAG konfigurationen for at rette det rapporterede problem med installationer af permanente python pakker via --user optionen, som ikke bliver installeret i den korrekte lokation. Vi udførte denne opdatering og genstartede DAG servicen i de tidlige timer den 5. december. Alt skulle nu være tilbage i almindelig drift."
     },
     "announce_end": "2024-12-05T12:00:00+01:00"
   },
