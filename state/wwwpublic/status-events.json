@@ -1,5 +1,4 @@
 [
-
   {
     "status": "AUTO",
     "work_start": "2025-01-01T18:00:00+01:00",
@@ -17,7 +16,7 @@
     "work_end": "2025-01-02T10:00:00+01:00",
     "description": {
         "EN": "General system upgrades, and final transitioning to new authentication service OpenID Connect.",
-        "DK": "Generelle systemopdateringer, samt endelig overgang til ny autentikeringstjeneste OpenID Connect."
+        "DK": "Generelle systemopdateringer, samt endelig overgang til ny autentificeringstjeneste, OpenID Connect."
     },
     "announce_end": "2025-01-03T12:00:00+01:00"
   },
