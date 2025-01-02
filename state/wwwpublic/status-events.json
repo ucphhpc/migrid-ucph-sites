@@ -15,8 +15,8 @@
     ],
     "work_end": "2025-01-02T10:00:00+01:00",
     "description": {
-        "EN": "General system upgrades, and final transitioning to new authentication service OpenID Connect.",
-        "DK": "Generelle systemopdateringer, samt endelig overgang til ny autentificeringstjeneste, OpenID Connect."
+        "EN": "General system upgrades, and final transitioning to new authentication service using OpenID Connect for UCPH/KU users. The work was completed short before 10 and everything is back in production. Please note that the transition means that https://erda.dk now points to the plain front page so if you are associated with UCPH/KU you may need to update your bookmarks and work routines to explicitly use https://oidc.erda.dk if you prefer to log in directly.",
+        "DK": "Generelle systemopdateringer, samt endelig overgang til ny autentificeringstjeneste med OpenID Connect for KU-brugere. Arbejdet blev afsluttet lidt i 10 og alt er tilbage i normal drift. NB: overgangen betyder at https://erda.dk nu peger på den almindelige forside, så hvis du er tilknyttet KU, kan du med fordel rette bogmærker og arbejdsrutiner til eksplicit at bruge https://oidc.ku.dk , hvis du foretrækker at logge direkte ind."
     },
     "announce_end": "2025-01-03T12:00:00+01:00"
   },
