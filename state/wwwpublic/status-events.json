@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-01-27T17:15:00+01:00",
+    "systems": [
+        "SIF"
+    ],
+    "announce_start": "2025-01-24T15:00:00+01:00",
+    "title": {
+      "EN": "New login framework on SIF",
+      "DK": "Nyt loginsystem på SIF"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-01-27T17:00:00+01:00",
+    "description": {
+        "EN": "We will briefly interrupt SIF in order to replace the login framework. The change only affects students and employees at UCPH, and login procedure will be the same. There are only minor differences in look and feel. Use main page to log in: https://sif.ku.dk",
+        "DK": "Der vil kortvarigt være forstyrrelse i driften af SIF, da vi skifter til et nyt loginsystem. Ændringen påvirker kun studerende og ansatte på KU, og login vil ske på samme vis som tidligere. Den eneste ændring er små ændringer i udseende og adfærd. Benyt hovedsiden til at logge ind: https://sif.ku.dk"
+    },
+    "announce_end": "2025-01-28T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-01-17T17:00:00+01:00",
     "systems": [
         "SIF"
