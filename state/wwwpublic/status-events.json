@@ -15,8 +15,8 @@
     ],
     "work_end": "2025-02-04T10:00:00+01:00",
     "description": {
-        "EN": "We will apply a series of pending system updates and upgrade Seafile itself to the latest release, which will involve restarts of the service and complete rebooting of the system for the low-level updates. Therefore it will be unavailable for shorter or longer periods during the maintenance window. The downtime is expected to last couple of hours, but have a larger maintenance window for unforeseen issues.",
-        "DK": "Vi køre en række udestående systemopdateringer og opgradere selve Seafile til nyeste udgave, hvilket involverer både genstart af servicen og komplet system genstart ifm de grundlæggende systemopdateringer. Den vil derfor i kortere eller længere perioder af vedligeholdelsesvinduet være utilgængelig. Nedetid forventes at være to timer, men vi har afsat et længere servicevindue til uforudsete udfordringer."
+        "EN": "We will apply a series of pending system updates and upgrade Seafile itself to the latest release, which will involve restarts of the service and complete rebooting of the system for the low-level updates. Therefore it will be unavailable for shorter or longer periods during the maintenance window. The downtime is expected to last a couple of hours at the beginning of the maintenance window, but we reserve until next morning in case of unforeseen issues.",
+        "DK": "Vi køre en række udestående systemopdateringer og opgradere selve Seafile til nyeste udgave, hvilket involverer både genstart af servicen og komplet system genstart ifm de grundlæggende systemopdateringer. Den vil derfor i kortere eller længere perioder af vedligeholdelsesvinduet være utilgængelig. Nedetiden forventes at vare et par timer i starten af servicevinduet, men vi har afsat indtil næste morgen i tilfælde af uforudsete udfordringer."
     },
     "announce_end": "2025-02-05T12:00:00+01:00"
   },
