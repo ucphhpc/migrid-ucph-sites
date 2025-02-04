@@ -5,13 +5,13 @@
     "systems": [
         "ERDA"
     ],
-    "announce_start": "2025-02-05:00:00+01:00",
+    "announce_start": "2025-02-04T10:00:00+01:00",
     "title": {
       "EN": "DAG/MODI Maintenance",
       "DK": "DAG/MODI vedligehold"
     },
     "services": [
-        "Seafile"
+        "DAG", "MODI"
     ],
     "work_end": "2025-03-03T23:59:00+01:00",
     "description": {
