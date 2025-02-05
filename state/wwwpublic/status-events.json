@@ -22,6 +22,28 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2025-03-03T18:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2025-02-04T10:00:00+01:00",
+    "title": {
+      "EN": "DAG/MODI Maintenance",
+      "DK": "DAG/MODI vedligehold"
+    },
+    "services": [
+        "DAG",
+        "MODI"
+    ],
+    "work_end": "2025-03-03T23:59:00+01:00",
+    "description": {
+        "EN": "We will apply an update of DAG and MODI which includes low level system updates and a reboot of the system. Interruptions to the service will occur.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
+    },
+    "announce_end": "2025-03-04T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-02-10T18:00:00+01:00",
     "systems": [
         "ERDA"
@@ -33,7 +55,7 @@
     },
     "services": [
         "DAG",
-	"MODI"
+        "MODI"
     ],
     "work_end": "2025-02-10T23:59:59+01:00",
     "description": {
@@ -41,27 +63,6 @@
         "DK": "Som led i forberedelse til HPPC-kurset, så foretager vi ekstraordinært vedligehold på DAG og MODI. Vores GPU notebook builds vil blive sat til at køre nvhpc version 25.1 og CUDA version 12.16."
     },
     "announce_end": "2025-02-12T12:00:00+01:00"
-  },    
-  {
-    "status": "AUTO",
-    "work_start": "2025-03-03T18:00:00+01:00",
-    "systems": [
-        "ERDA"
-    ],
-    "announce_start": "2025-02-04T10:00:00+01:00",
-    "title": {
-      "EN": "DAG/MODI Maintenance",
-      "DK": "DAG/MODI vedligehold"
-    },
-    "services": [
-        "DAG", "MODI"
-    ],
-    "work_end": "2025-03-03T23:59:00+01:00",
-    "description": {
-        "EN": "We will apply an update of DAG and MODI which includes low level system updates and a reboot of the system. Interruptions to the service will occur.",
-        "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
-    },
-    "announce_end": "2025-03-04T12:00:00+01:00"
   },
   {
     "status": "AUTO",
