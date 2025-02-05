@@ -5,21 +5,20 @@
     "systems": [
         "ERDA"
     ],
-    "announce_start": "2025-02-12T00:00:00+01:00",
+    "announce_start": "2025-02-05T12:00:00+01:00",
     "title": {
-      "EN": "Reduced compute availability on DAG/MODI",
-      "DK": "Begrænset adgang til beregning på DAG/MODI"
+      "EN": "Reduced compute availability on MODI",
+      "DK": "Begrænset adgang til beregning på MODI"
     },
     "services": [
-        "DAG",
 	"MODI"
     ],
-      "work_end": "2025-03-26T23:59:59+01:00",
+    "work_end": "2025-03-26T23:59:58+01:00",
     "description": {
-        "EN": "Due to HPC course with 36 participants, we will reduce access to the compute nodes on MODI. From the 14th of February to the 26th of March 2025, we will fully reserve two of the eight nodes for the participants (nodes 000 and 001). This is done to secure that the course has access to resources. Draining of the job queue will also be done ahead of course start. We have reserved a partition named modi_HPCC, which is strictly reserved to the course participants. If you experience any issues, please state whether or not you are participating in the course, and attach screenshots and provide full descriptions of the issue you encounter. Send via email to: support@erda.dk",
-        "DK": "Grundet HPC-kursus med 36 deltagere, så reducerer adgangen til beregningsknuder på MODI. Fra den 14. februar til 26. marts, reserverer vi fuldt ud to ud af otte noder til kursisterne (noderne 000 og 001). Der vil også ske tømning af jobkøen forud for kursusstart. Dette for at sikre kurset tilgængelighed til ressourcer. Vi har reserveret en partition kaldet modi_HPCC, der udelukkende må anvendes af kursusdeltagerne. Oplever du problemer, så meld venligst om du er detlager eller ej, og vedhæft skærmbillede og giv fulde beskrivelser af problemerne du støder på. Send via email til: support@erda.dk"
+        "EN": "Due to a teaching HPC course, we will reduce access to the compute nodes on MODI. From the 14th of February to the 26th of March 2025, we will fully reserve two of the eight nodes for the participants (nodes 000 and 001). This is done to secure that the course has access to resources. Draining of the job queue will also be done ahead of course start. We have reserved a partition named modi_HPCC, which is strictly reserved to the course participants. If you experience any issues, please state whether or not you are participating in the course, and attach screenshots and provide full descriptions of the issue you encounter. Send via email to: support@erda.dk",
+        "DK": "Grundet et undervisnings HPC-kursus, så reducerer adgangen til beregningsknuder på MODI. Fra den 14. februar til 26. marts, reserverer vi fuldt ud to ud af otte noder til kursisterne (noderne 000 og 001). Der vil også ske tømning af jobkøen forud for kursusstart. Dette for at sikre kurset tilgængelighed til ressourcer. Vi har reserveret en partition kaldet modi_HPCC, der udelukkende må anvendes af kursusdeltagerne. Oplever du problemer, så meld venligst om du er detlager eller ej, og vedhæft skærmbillede og giv fulde beskrivelser af problemerne du støder på. Send via email til: support@erda.dk"
     },
-    "announce_end": "2025-02-21T23:59:59+01:00"
+    "announce_end": "2025-03-26T23:59:59+01:00"
   },
   {
     "status": "AUTO",
@@ -27,7 +26,7 @@
     "systems": [
         "ERDA"
     ],
-    "announce_start": "2025-02-06T12:00:00+01:00",
+    "announce_start": "2025-02-05T12:00:00+01:00",
     "title": {
       "EN": "Extraordinary DAG/MODI Maintenance",
       "DK": "Ekstraordinært vedligehold af DAG/MODI"
