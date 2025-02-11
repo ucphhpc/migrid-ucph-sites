@@ -44,6 +44,27 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2025-02-11T14:58:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2025-02-11T14:58:00+01:00",
+    "title": {
+      "EN": "Partial data access and outage in the backend storage",
+      "DK": "Delvis dataadgang og udfald i backend-lageret"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-02-12T12:00:00+01:00",
+    "description": {
+      "EN": "We have hit an issue with one of the storage bricks in the Gluster backend storage used on ERDA and it leads to occassional errors when using the associated user services and limited data access. We are investigating and we expect all data to become available again when we get it back on track.",
+      "DK": "Vi har ramt et problem med en enhed i det Gluster backend-lager som benyttes til ERDA og det fører til sporadiske fejl ved brug af de tilknyttede services og begrænset dataadgang. Vi undersøger sagen og forventer at alle data bliver tilgængelige igen når vi får den på ret køl."
+    },
+    "announce_end": "2025-02-13T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-02-10T18:00:00+01:00",
     "systems": [
         "ERDA"
