@@ -22,27 +22,6 @@
   },
   {
     "status": "AUTO",
-    "work_start": "2025-02-17T22:00:00+01:00",
-    "systems": [
-        "ERDA"
-    ],
-    "announce_start": "2025-02-17T09:00:00+01:00",
-    "title": {
-      "EN": "MODI configuration update",
-      "DK": "MODI konfiguration opdatering"
-    },
-    "services": [
-        "MODI"
-    ],
-    "work_end": "2025-02-17T23:59:00+01:00",
-    "description": {
-        "EN": "We will apply a slight configuration change to MODI that will ensure that you can execute MPI jobs in the login node sessions. Interruptions to the service will occur.",
-        "DK": "Vi vil anvende en lille konfigurationsændring på MODI, der sikrer, at du kan udføre MPI-job i login-nodesessionerne. Afbrydelser af denne tjeneste vil forekomme."
-    },
-    "announce_end": "2025-02-18T12:00:00+01:00"
-  },
-  {
-    "status": "AUTO",
     "work_start": "2025-03-03T18:00:00+01:00",
     "systems": [
         "ERDA"
@@ -62,6 +41,27 @@
         "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
     },
     "announce_end": "2025-03-04T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2025-02-17T22:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2025-02-17T09:00:00+01:00",
+    "title": {
+      "EN": "MODI configuration update",
+      "DK": "MODI konfiguration opdatering"
+    },
+    "services": [
+        "MODI"
+    ],
+    "work_end": "2025-02-17T23:59:00+01:00",
+    "description": {
+        "EN": "We will apply a slight configuration change to MODI that will ensure that you can execute MPI jobs in the login node sessions. Interruptions to the service will occur.",
+        "DK": "Vi vil anvende en lille konfigurationsændring på MODI, der sikrer, at du kan udføre MPI-job i login-nodesessionerne. Afbrydelser af denne tjeneste vil forekomme."
+    },
+    "announce_end": "2025-02-18T12:00:00+01:00"
   },
   {
     "status": "AUTO",
