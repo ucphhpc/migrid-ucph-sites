@@ -11,7 +11,7 @@
       "DK": "Begrænset adgang til beregning på MODI"
     },
     "services": [
-	"MODI"
+        "MODI"
     ],
     "work_end": "2025-03-26T23:59:58+01:00",
     "description": {
@@ -19,6 +19,27 @@
         "DK": "Grundet et undervisnings HPC-kursus, så reducerer adgangen til beregningsknuder på MODI. Fra den 14. februar til 26. marts, reserverer vi fuldt ud to ud af otte noder til kursisterne (noderne 000 og 001). Der vil også ske tømning af jobkøen forud for kursusstart. Dette for at sikre kurset tilgængelighed til ressourcer. Vi har reserveret en partition kaldet modi_HPCC, der udelukkende må anvendes af kursusdeltagerne. Oplever du problemer, så meld venligst om du er detlager eller ej, og vedhæft skærmbillede og giv fulde beskrivelser af problemerne du støder på. Send via email til: support@erda.dk"
     },
     "announce_end": "2025-03-26T23:59:59+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2025-02-17T22:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2025-02-17T09:00:00+01:00",
+    "title": {
+      "EN": "MODI configuration update",
+      "DK": "MODI konfiguration opdatering"
+    },
+    "services": [
+        "MODI"
+    ],
+    "work_end": "2025-02-17T23:59:00+01:00",
+    "description": {
+        "EN": "We will apply a slight configuration change to MODI that will ensure that you can execute MPI jobs in the login node sessions. Interruptions to the service will occur.",
+        "DK": "Vi vil anvende en lille konfigurationsændring på MODI, der sikrer, at du kan udføre MPI-job i login-nodesessionerne. Afbrydelser af denne tjeneste vil forekomme."
+    },
+    "announce_end": "2025-02-18T12:00:00+01:00"
   },
   {
     "status": "AUTO",
