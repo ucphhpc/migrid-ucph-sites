@@ -58,8 +58,8 @@
     ],
     "work_end": "2025-02-17T23:59:00+01:00",
     "description": {
-        "EN": "We will apply a slight configuration change to MODI that will ensure that you can execute MPI jobs in the login node sessions. Interruptions to the service will occur.",
-        "DK": "Vi vil anvende en lille konfigurationsændring på MODI, der sikrer, at du kan udføre MPI-job i login-nodesessionerne. Afbrydelser af denne tjeneste vil forekomme."
+        "EN": "We will apply a slight configuration change to MODI that will ensure that you can execute MPI jobs in the login node sessions. Interruptions to the service will occur. We applied this change within the given time period with only a short service interruption.",
+        "DK": "Vi vil anvende en lille konfigurationsændring på MODI, der sikrer, at du kan udføre MPI-job i login-nodesessionerne. Afbrydelser af denne tjeneste vil forekomme. Vi udførte denne ændring inden for den givne tidsperiode med kun en kort tjenesteafbrydelse."
     },
     "announce_end": "2025-02-18T12:00:00+01:00"
   },
