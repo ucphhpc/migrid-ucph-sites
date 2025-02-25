@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-02-25T08:00:00+01:00",
+    "systems": [
+        "SIF"
+    ],
+    "announce_start": "2025-02-24T12:00:00+01:00",
+    "title": {
+      "EN": "Updates on the SIF backend",
+      "DK": "Opdatering af SIFs backend"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-02-28T18:00:00+01:00",
+    "description": {
+        "EN": "The SIF backend will be updated over a duration of three days. Short interruptions are to be expected, and the system will be locked periodically. We recommend postponing transfers until 1st of March, if possible.  We apologize for the short warning notice.",
+        "DK": "SIFs backend vil blive opdateret i et forløb over tre dage. Der vil forekomme kortvarige afbrydelser, og systemet vil periodisk være låst. Vi anbefaler at udskyde overførsler til 1. marts om muligt. Vi beklager det kort varsel"
+    },
+    "announce_end": "2025-03-01T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-02-14T00:00:00+01:00",
     "systems": [
         "ERDA"
