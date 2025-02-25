@@ -35,10 +35,10 @@
         "DAG",
         "MODI"
     ],
-    "work_end": "2025-02-24T23:59:00+01:00",
+    "work_end": "2025-02-25T03:00:00+01:00",
     "description": {
-        "EN": "We will apply an update of DAG and MODI which includes low level system updates and a reboot of the system. Interruptions to the service will occur.",
-        "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
+        "EN": "We will apply an update of DAG and MODI which includes low level system updates and a reboot of the system. Interruptions to the service will occur. We deployed a new MODI login node with an upgraded SLURM 23.10.11 version and associated Notebook images. The maintenance ran abit beyond the annonuced window but we managed to get the system during the night.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme. Vi udrullede en ny MODI login node med en opgraderet SLURM 23.10.11 version og tilhørende Notebook images. Vedligeholdelsen løb lidt over den annoncerede tidsperiode men vi fik systemet op igen i løbet af natten."
     },
     "announce_end": "2025-02-25T12:00:00+01:00"
   },
