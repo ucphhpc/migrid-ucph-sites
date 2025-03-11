@@ -15,8 +15,8 @@
     ],
     "work_end": "2025-03-11T12:00:00+01:00",
     "description": {
-        "EN": "MODI has unexpectedly become unavailable due to what appears to be issues with the storage service for the user home directories. We are working on the issue and will update this message as soon as we have more information.",
-        "DK": "MODI er uventet blevet utilgængelig pga. hvad der ser ud til at være problemer med lager-tjenesten for brugernes hjemmemapper. Vi arbejder på problemet og vil opdatere denne besked så snart vi har mere information."
+        "EN": "MODI has unexpectedly become unavailable due to what appears to be issues with the storage service for the user home directories. We are resolved this issue that was caused by a networking issue. We apologize for the inconvenience.",
+        "DK": "MODI er uventet blevet utilgængelig pga. hvad der ser ud til at være problemer med lager-tjenesten for brugernes hjemmemapper. Vi har løst dette problem, der skyldtes et netværksproblem. Vi beklager ulejligheden."
     },
     "announce_end": "2025-03-11T23:59:59+01:00"
   },
