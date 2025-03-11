@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-03-11T09:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2025-03-11T09:00:00+01:00",
+    "title": {
+      "EN": "MODI Unavailable",
+      "DK": "MODI utilgængelig"
+    },
+    "services": [
+        "MODI"
+    ],
+    "work_end": "2025-03-11T12:00:00+01:00",
+    "description": {
+        "EN": "MODI has unexpectedly become unavailable due to what appears to be issues with the storage service for the user home directories. We are working on the issue and will update this message as soon as we have more information.",
+        "DK": "MODI er uventet blevet utilgængelig pga. hvad der ser ud til at være problemer med lager-tjenesten for brugernes hjemmemapper. Vi arbejder på problemet og vil opdatere denne besked så snart vi har mere information."
+    },
+    "announce_end": "2025-03-11T23:59:59+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-02-25T08:00:00+01:00",
     "systems": [
         "SIF"
