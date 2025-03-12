@@ -15,8 +15,8 @@
     ], 
     "work_end": "2025-04-02T12:00:00+02:00",
     "description": {
-      "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window.",
-      "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs."
+      "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. The planned end time is set conservatively, so users can keep up-to-date here.",
+      "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Den planlagte sluttid er sat konservativt, så brugere kan med fordel holde øje here."
     }, 
     "announce_end": "2025-04-02T23:59:00+01:00"
   },
