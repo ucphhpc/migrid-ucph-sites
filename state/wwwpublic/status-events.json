@@ -1,4 +1,46 @@
 [
+{
+  "status": "AUTO",
+  "work_start": "2025-04-02T7:00:00+01:00",
+  "systems": [
+      "ERDA"
+  ],
+  "announce_start": "2025-03-13T12:00:00+01:00",
+  "title": {
+    "EN": "Planned ERDA Maintenance with Storage Expansion",
+    "DK": "Planlagt ERDA systemarbejde med lagerudvidelse"
+  },
+  "services": [
+      "ALL"
+    ], 
+    "work_end": "2025-04-02T12:00:00+01:00",
+    "description": {
+      "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window.",
+      "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs."
+    }, 
+    "announce_end": "2025-04-02T23:59:00+01:00"
+  },
+  { 
+    "status": "AUTO",
+    "work_start": "2025-03-21T12:00:00+01:00",
+    "systems": [
+        "SIF"
+    ],
+    "announce_start": "2025-03-13T12:00:00+01:00",
+    "title": {
+      "EN": "Migration of SIF",
+      "DK": "Migrering af SIF"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-03-24T10:00:00+01:00",
+    "description": {
+        "EN": "SIF will be migrated over a duration of three days. SIF will be unavailable in this period. We recommend postponing transfers until 24th of March, if possible.  We apologize for the short warning notice.",
+        "DK": "SIF vil blive migreret i et forløb over tre dage. SIF vil være utilgængeligt i denne periode. Vi anbefaler at udskyde overførsler til 24. marts om muligt. Vi beklager det kort varsel"
+    },
+    "announce_end": "2025-03-24T23:59:00+01:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2025-03-11T09:00:00+01:00",
