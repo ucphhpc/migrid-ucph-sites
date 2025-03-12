@@ -5,7 +5,7 @@
   "systems": [
       "ERDA"
   ],
-  "announce_start": "2025-03-13T01:00:00+01:00",
+  "announce_start": "2025-03-12T14:00:00+01:00",
   "title": {
     "EN": "Planned ERDA Maintenance with Storage Expansion",
     "DK": "Planlagt ERDA systemarbejde med lagerudvidelse"
@@ -15,10 +15,10 @@
     ], 
     "work_end": "2025-04-02T12:00:00+02:00",
     "description": {
-      "EN": "We will be adding more physical storage space to ERDA. The work will involve both frontend and backend down-time for low-level system updates. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. The planned end time is set conservatively, so users can keep up-to-date here.",
-      "DK": "Vi vil komme til at tilføje mere fysisk lagerplads til ERDA. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Den planlagte sluttid er sat konservativt, så brugere kan med fordel holde øje here."
+      "EN": "We will add more physical storage space to ERDA and apply pending updates. The work will involve both frontend and backend down-time for low-level system updates. Thus, all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect the work to take 2-3 hours but set end time conservatively, so we recommend keeping an eye on the actual status here.",
+      "DK": "Vi vil tilføje mere fysisk lagerplads til ERDA og udrulle udestående opdateringer. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer, og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi regner med at det tager 2-3 timer men har sat sluttid konservativt, så man kan med fordel holde nærmere øje med den faktiske status her."
     }, 
-    "announce_end": "2025-04-02T23:59:00+01:00"
+    "announce_end": "2025-04-03T12:00:00+02:00"
   },
   { 
     "status": "AUTO",
@@ -36,10 +36,10 @@
     ],
     "work_end": "2025-03-24T10:00:00+01:00",
     "description": {
-        "EN": "SIF will be migrated over a duration of three days. SIF will be unavailable in this period. We recommend postponing transfers until 24th of March, if possible.  We apologize for the short warning notice.",
-        "DK": "SIF vil blive migreret i et forløb over tre dage. SIF vil være utilgængeligt i denne periode. Vi anbefaler at udskyde overførsler til 24. marts om muligt. Vi beklager det kort varsel"
+        "EN": "SIF will be fundamentally migrated to an updated platform over the weekend and is therefore expected unavailable for longer times in this period. We hope to finish the work on Friday, but set the end date conservatively to Monday and recommend to plan for the worst. E.g. by downloading any critical data needed over the weekend and if possible to postpone transfers until the work is marked complete here. We apologize for any inconvenience it causes.",
+        "DK": "SIF vil blive grundlæggende migreret til en opdateret platform i løbet af weekenden og må derfor forventes utilgængelig i længere tid i denne periode. Vi håber at blive færdige med arbejdet i løbet af fredag men har sat slutdatoen konservativt til mandag og anbefaler at planlægge efter det værste. D.v.s. ved at hente evt data som er kritiske at have adgang til henover pågældende weekend, samt om muligt at udskyde overførsler til arbejdet er markeret afsluttet her. Vi beklager de gener det måtte medføre."
     },
-    "announce_end": "2025-03-24T23:59:00+01:00"
+    "announce_end": "2025-03-26T12:00:00+01:00"
   },
   {
     "status": "AUTO",
