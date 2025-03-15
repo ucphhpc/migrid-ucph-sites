@@ -43,6 +43,27 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2025-03-15T11:00:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2025-03-15T11:00:00+01:00",
+    "title": {
+      "EN": "No or partial data access and outage in the backend storage",
+      "DK": "Ingen eller delvis dataadgang og udfald i backend-lageret"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-03-17T12:00:00+01:00",
+    "description": {
+      "EN": "We hit an issue with the backend storage used on ERDA and it effectively took out the whole frontend. So all ERDA services except Seafile are partially or fully unavailable until we get it sorted out. We are working on it and will post updates here.",
+      "DK": "Vi ramte et problem med ERDAs backend-lager og det har hevet ERDAs frontend i knæ. Så alle ERDA services bortset fra Seafile er helt eller delvis utilgængelige indtil vi får problemet løst. Vi undersøger arbejder på sagen og følger op på status her."
+    },
+    "announce_end": "2025-03-18T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-03-11T09:00:00+01:00",
     "systems": [
         "ERDA"
