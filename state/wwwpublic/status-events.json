@@ -55,12 +55,12 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2025-03-17T12:00:00+01:00",
+    "work_end": "2025-03-16T15:47:00+01:00",
     "description": {
-      "EN": "We hit an issue with the backend storage used on ERDA and it effectively took out the whole frontend. So all ERDA services except Seafile are partially or fully unavailable until we get it sorted out. We are working on it and will post updates here.",
-      "DK": "Vi ramte et problem med ERDAs backend-lager og det har hevet ERDAs frontend i knæ. Så alle ERDA services bortset fra Seafile er helt eller delvis utilgængelige indtil vi får problemet løst. Vi undersøger arbejder på sagen og følger op på status her."
+      "EN": "We hit an issue with the backend storage used on ERDA and it effectively took out the whole frontend. So all ERDA services except Seafile were partially or fully unavailable until we got it sorted out. We recovered the failing components on Sunday afternoon and everything is back in normal production. Please report any errors to our support as usual.",
+      "DK": "Vi ramte et problem med ERDAs backend-lager og det hev ERDAs frontend i knæ. Så alle ERDA services bortset fra Seafile var helt eller delvis utilgængelige indtil vi fik problemet løst. Efter at fik vakt de fejlende komponenter i lageret til live søndag eftermiddag er vi tilbage i almindelig drift. Indmeld som altid gerne eventuelle fejl på vores support."
     },
-    "announce_end": "2025-03-18T12:00:00+01:00"
+    "announce_end": "2025-03-18T10:00:00+01:00"
   },
   {
     "status": "AUTO",
