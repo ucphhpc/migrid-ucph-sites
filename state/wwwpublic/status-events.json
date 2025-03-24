@@ -29,16 +29,16 @@
   ],
   "announce_start": "2025-03-12T14:00:00+01:00",
   "title": {
-    "EN": "Planned ERDA Maintenance with Storage Expansion",
-    "DK": "Planlagt ERDA systemarbejde med lagerudvidelse"
+    "EN": "Planned ERDA Maintenance, incl. Storage Expansion + Seafile update",
+    "DK": "Planlagt ERDA systemarbejde, inkl. lagerudvidelse + Seafile-opdatering"
   },
   "services": [
       "ALL"
     ], 
     "work_end": "2025-04-02T12:00:00+02:00",
     "description": {
-      "EN": "We will add more physical storage space to ERDA and apply pending updates. The work will involve both frontend and backend down-time for low-level system updates. Thus, all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect the work to take 2-3 hours but set end time conservatively, so we recommend keeping an eye on the actual status here.",
-      "DK": "Vi vil tilføje mere fysisk lagerplads til ERDA og udrulle udestående opdateringer. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer, og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi regner med at det tager 2-3 timer men har sat sluttid konservativt, så man kan med fordel holde nærmere øje med den faktiske status her."
+      "EN": "We will add more physical storage space to ERDA and apply pending updates. The work will involve both frontend and backend down-time for low-level system updates. Thus, all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect the work to take 2-3 hours but set end time conservatively, so we recommend keeping an eye on the actual status here. Important notice for Seafile users! Seafile clients must be upgraded to latest stable version (2.1.0.5+). Older clients will not be support on our Seafile server.",
+      "DK": "Vi vil tilføje mere fysisk lagerplads til ERDA og udrulle udestående opdateringer. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer, og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi regner med at det tager 2-3 timer men har sat sluttid konservativt, så man kan med fordel holde nærmere øje med den faktiske status her. Vigtig besked til Seafile-brugere! Seafile-klienter skal opgraderes til seneste stabile udgave (2.1.0.5+). Ældre klienter vil ikke understøttes af vores Seafile server."
     }, 
     "announce_end": "2025-04-03T12:00:00+02:00"
   },
