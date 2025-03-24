@@ -29,17 +29,25 @@
   ],
   "announce_start": "2025-03-12T14:00:00+01:00",
   "title": {
-    "EN": "Planned ERDA Maintenance, incl. Storage Expansion + Duplicati update",
-    "DK": "Planlagt ERDA systemarbejde, inkl. lagerudvidelse + Duplicati-opdatering"
+    "EN": "Planned ERDA Maintenance, incl. Storage Expansion and SFTP hardening (att. Duplicati users)",
+    "DK": "Planlagt ERDA systemarbejde, inkl. lagerudvidelse og SFTP-hærdning (att. Duplicati-brugere)"
   },
   "services": [
       "ALL"
     ], 
     "work_end": "2025-04-02T12:00:00+02:00",
     "description": {
-      "EN": "We will add more physical storage space to ERDA and apply pending updates. The work will involve both frontend and backend down-time for low-level system updates. Thus, all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect the work to take 2-3 hours but set end time conservatively, so we recommend keeping an eye on the actual status here. Important notice for Duplicati users! Duplicati clients must be upgraded to latest stable version (2.1.0.5+). Older clients will not be support on our ERDA server.",
-      "DK": "Vi vil tilføje mere fysisk lagerplads til ERDA og udrulle udestående opdateringer. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer, og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi regner med at det tager 2-3 timer men har sat sluttid konservativt, så man kan med fordel holde nærmere øje med den faktiske status her. Vigtig besked til Duplicati-brugere! Duplicati-klienter skal opgraderes til seneste stabile udgave (2.1.0.5+). Vores ERDA-server vil ikke understøtte ældre klienter."
-    }, 
+      "EN": "We will add more physical storage space to ERDA, apply pending updates and harden SFTP security settings again. The work will involve both frontend and backend down-time for low-level system updates. Thus, all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect the work to take 2-3 hours but set end time conservatively, so we recommend keeping an eye on the actual status here. Attention Duplicati users: Duplicati clients MUST be upgraded to latest stable version (2.1.0.5+) to keep using our hardened SFTP sevice, because older clients rely on an outdated incompatible SSH-library[0].",
+      "DK": "Vi vil tilføje mere fysisk lagerplads til ERDA, udrulle udestående opdateringer og opstramme sikkerhedsinstillinger for SFTP igen. Arbejdet kræver nedetid på både frontend og backend til grundlæggende systemopdateringer, og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi regner med at det tager 2-3 timer men har sat sluttid konservativt, så man kan med fordel holde nærmere øje med den faktiske status her. Att. Duplicati-brugere: Duplicati-klienter SKAL opgraderes til seneste stabile udgave (2.1.0.5+) for fortsat at kunne benytte vores hærdede SFTP-service, da ældre klienter bygger på et forældet inkompatibelt SSH-bibliotek[0]."
+    },
+    "references": {
+      "EN": [
+          "https://github.com/duplicati/duplicati/issues/4674"
+      ], 
+      "DK": [
+          "https://github.com/duplicati/duplicati/issues/4674"
+      ]
+    },
     "announce_end": "2025-04-03T12:00:00+02:00"
   },
   { 
