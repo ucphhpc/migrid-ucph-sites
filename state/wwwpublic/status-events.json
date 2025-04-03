@@ -16,8 +16,8 @@
     ],
     "work_end": "2025-04-03T23:59:59+02:00",
     "description": {
-        "EN": "We will apply an update of DAG and MODI which includes low level sysem updates and a reboot of the system. Interruptions to the service will occur.",
-        "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme."
+        "EN": "We will apply an update of DAG and MODI which includes low level sysem updates and a reboot of the system. Interruptions to the service will occur. We completed this update successfully and everything was back in normal production around 00:30 on the 4th or April. During this maintenance we also introduced the Computational Methods in Simulation Notebook on DAG.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet. Afbrydelser af denne tjeneste vil forekomme. Vi gennemførte denne opdatering succesfuldt og alt var tilbage i almindelig drift omkring 00:30 den 4. april. Under vedligeholdelsen introducerede vi også Computational Methods in Simulation Notebook på DAG."
     },
     "announce_end": "2025-04-04T12:00:00+02:00"
   },
