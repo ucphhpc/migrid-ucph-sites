@@ -5,7 +5,7 @@
   "systems": [
       "ERDA"
   ],
-  "announce_start": "2025-06-01T01:00:00+02:00",
+  "announce_start": "2025-04-30T01:00:00+02:00",
   "title": {
     "EN": "Planned Migration to newer ERDA platform.",
     "DK": "Planlagt migrering til nyere ERDA-platform."
@@ -15,14 +15,8 @@
     ], 
     "work_end": "2025-06-10T12:00:00+02:00",
     "description": {
-      "EN": "ERDA will be offline for several days, and we ask users to plan accordingly. In this large update, we do an OS update and migrate ERDA to our newer MiGrid platform, ie. docker-migrid. The major differences happens under the hood, as we transition fully to Python3 and consolidates ERDA on same development branch as we support elsewhere. This will free up resources for MiGriD development. Users will experience much faster data transfers on SFTP.",
-      "DK": "ERDA vil være ude af drift i flere dage, og vi beder brugere om at planlægge omkring dette. I denne omfattende opdatering foretager vi større opdatering af OS, samtidig som vi migrerer ERDA til vores nyere MiGrid platform, dvs. docker-migrid. Den største forskel sker under kølerhjelmen, da vi overgår fuldt til Python3 og konsoliderer ERDA på samme udviklingsgren som vi supporterer andre steder. Dette vil frive ressourcer til udviklingen af MiGrid. Brugere vil opleve markant hurtigere dataoverførsler på SFTP."
-    },
-    "references": {
-      "EN": [
-      ], 
-      "DK": [
-      ]
+      "EN": "ERDA will be offline for at least a day for fundamental upgrades and we have reserved the whole extended weekend in case it drags out, so we ask users to plan accordingly. In this larger update, we do OS upgrades and migrate ERDA to our newer containerized MiGrid platform, docker-migrid. The major differences happen under the hood, as we transition fully to Python3 on Rocky9 and consolidate ERDA on the modern code branch also used e.g. on SIF. This will simplify our maintenance and free up resources for MiGrid development. Users should also experience some performance improvements as a result.",
+      "DK": "ERDA tages ud af drift mindst en dag til grundlæggende opdateringer og vi har reserveret hele den forlængede weekend i tilfælde af at det trækker ud, så vi beder brugere om at planlægge efter det. I denne omfattende opdatering foretager vi større opgradering af OS, samtidig med at vi migrerer ERDA til vores nyere container-baserede MiGrid platform, docker-migrid. Den største forskel sker under kølerhjelmen, da vi overgår fuldt til Python3 på Rocky9 og konsoliderer ERDA på samme moderne kodebase, vi også bl.a. benytter på SIF. Det vil forenkle vedligehold og frigive ressourcer til udviklingen af MiGrid. Brugere skulle også gerne opleve bedre ydelse som resultat af opgraderingerne."
     },
     "announce_end": "2025-06-12T12:00:00+02:00"
   },
@@ -32,24 +26,18 @@
   "systems": [
       "ERDA"
   ],
-  "announce_start": "2025-05-21T14:00:00+02:00",
+  "announce_start": "2025-04-30T08:00:00+02:00",
   "title": {
-    "EN": "Planned ERDA Maintenance",
-    "DK": "Planlagt ERDA systemvedligehold"
+    "EN": "Planned ERDA Maintenance and Migration Preparations",
+    "DK": "Planlagt ERDA systemvedligehold og forberedelser til migrering"
   },
   "services": [
       "ALL"
     ], 
     "work_end": "2025-05-30T08:00:00+02:00",
     "description": {
-      "EN": "We will do ordinary service and security updates.",
-      "DK": "Vi gennemfører ordinære opdateringer af tjenester og sikkerhed."
-    },
-    "references": {
-      "EN": [
-      ], 
-      "DK": [
-      ]
+      "EN": "We will do ordinary service and security updates with some preparation for the upcoming platform migration.",
+      "DK": "Vi gennemfører ordinære opdateringer af tjenester og sikkerhed med forberedelse af den kommende migrering til ny platform."
     },
     "announce_end": "2025-06-01T12:00:00+02:00"
   },
