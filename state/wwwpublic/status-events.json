@@ -1,5 +1,47 @@
 [
   {
+  "status": "AUTO",
+  "work_start": "2025-06-06T07:00:00+02:00",
+  "systems": [
+      "ERDA"
+  ],
+  "announce_start": "2025-04-30T01:00:00+02:00",
+  "title": {
+    "EN": "Planned Migration to newer ERDA platform.",
+    "DK": "Planlagt migrering til nyere ERDA-platform."
+  },
+  "services": [
+      "ALL"
+    ], 
+    "work_end": "2025-06-10T12:00:00+02:00",
+    "description": {
+      "EN": "ERDA will be offline for at least a day for fundamental upgrades and we have reserved the whole extended weekend in case it drags out, so we ask users to plan accordingly. In this larger update, we do OS upgrades and migrate ERDA to our newer containerized MiGrid platform, docker-migrid. The major differences happen under the hood, as we transition fully to Python3 on Rocky9 and consolidate ERDA on the modern code branch also used e.g. on SIF. This will simplify our maintenance and free up resources for MiGrid development. Users should also experience some performance improvements as a result.",
+      "DK": "ERDA tages ud af drift mindst en dag til grundlæggende opdateringer og vi har reserveret hele den forlængede weekend i tilfælde af at det trækker ud, så vi beder brugere om at planlægge efter det. I denne omfattende opdatering foretager vi større opgradering af OS, samtidig med at vi migrerer ERDA til vores nyere container-baserede MiGrid platform, docker-migrid. Den største forskel sker under kølerhjelmen, da vi overgår fuldt til Python3 på Rocky9 og konsoliderer ERDA på samme moderne kodebase, vi også bl.a. benytter på SIF. Det vil forenkle vedligehold og frigive ressourcer til udviklingen af MiGrid. Brugere skulle også gerne opleve bedre ydelse som resultat af opgraderingerne."
+    },
+    "announce_end": "2025-06-12T12:00:00+02:00"
+  },
+  {
+  "status": "AUTO",
+  "work_start": "2025-05-28T07:00:00+02:00",
+  "systems": [
+      "ERDA"
+  ],
+  "announce_start": "2025-04-30T08:00:00+02:00",
+  "title": {
+    "EN": "Planned ERDA Maintenance and Migration Preparations",
+    "DK": "Planlagt ERDA systemvedligehold og forberedelser til migrering"
+  },
+  "services": [
+      "ALL"
+    ], 
+    "work_end": "2025-05-30T08:00:00+02:00",
+    "description": {
+      "EN": "We will do ordinary service and security updates with some preparation for the upcoming platform migration.",
+      "DK": "Vi gennemfører ordinære opdateringer af tjenester og sikkerhed med forberedelse af den kommende migrering til ny platform."
+    },
+    "announce_end": "2025-06-01T12:00:00+02:00"
+  },
+  {
     "status": "AUTO",
     "work_start": "2025-04-03T18:00:00+02:00",
     "systems": [
