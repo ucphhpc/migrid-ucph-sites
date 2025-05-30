@@ -1,25 +1,4 @@
 [
-  { 
-    "status": "AUTO",
-    "work_start": "2025-05-16T12:00:00+02:00",
-    "systems": [
-        "SIF"
-    ],
-    "announce_start": "2025-05-14T14:30:00+02:00",
-    "title": {
-      "EN": "SIF Update",
-      "DK": "Opdatering af SIF"
-    },
-    "services": [
-        "ALL"
-    ],
-    "work_end": "2025-05-16T18:00:00+02:00",
-    "description": {
-        "EN": "We will shut down SIF to update to a newer release. Should you experience any issues, contact support@sif.erda.dk",
-        "DK": "Vi lukker SIF ned for at opdatere til nyere udgivelse. Oplever du problemer, så kontakt support@sif.erda.dk"
-    },
-    "announce_end": "2025-05-19T12:00:00+02:00"
-  },
   {
     "status": "AUTO",
     "work_start": "2025-06-06T07:00:00+02:00",
@@ -83,6 +62,27 @@
       "DK": "Vi gennemfører ordinære opdateringer af tjenester og sikkerhed med forberedelse af den kommende migrering til ny platform. I dette vedligeholdelsesvindue vil vi desuden fysisk flytte lagrings-hardware, så det giver omkring en dags ERDA-nedetid."
     },
     "announce_end": "2025-06-01T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2025-05-16T12:00:00+02:00",
+    "systems": [
+        "SIF"
+    ],
+    "announce_start": "2025-05-14T14:30:00+02:00",
+    "title": {
+      "EN": "SIF Update",
+      "DK": "Opdatering af SIF"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-05-16T18:00:00+02:00",
+    "description": {
+        "EN": "We will shut down SIF to update to a newer release. Should you experience any issues, contact support@sif.erda.dk",
+        "DK": "Vi lukker SIF ned for at opdatere til nyere udgivelse. Oplever du problemer, så kontakt support@sif.erda.dk"
+    },
+    "announce_end": "2025-05-19T12:00:00+02:00"
   },
   {
     "status": "AUTO",
@@ -221,27 +221,6 @@
   },
   {
     "status": "AUTO",
-    "work_start": "2025-02-14T00:00:00+01:00",
-    "systems": [
-        "ERDA"
-    ],
-    "announce_start": "2025-02-05T12:00:00+01:00",
-    "title": {
-      "EN": "Reduced compute availability on MODI",
-      "DK": "Begrænset adgang til beregning på MODI"
-    },
-    "services": [
-        "MODI"
-    ],
-    "work_end": "2025-03-26T23:59:58+01:00",
-    "description": {
-        "EN": "Due to a teaching HPC course, we will reduce access to the compute nodes on MODI. From the 14th of February to the 26th of March 2025, we will fully reserve two of the eight nodes for the participants (nodes 000 and 001). This is done to secure that the course has access to resources. Draining of the job queue will also be done ahead of course start. We have reserved a partition named modi_HPCC, which is strictly reserved to the course participants. If you experience any issues, please state whether or not you are participating in the course, and attach screenshots and provide full descriptions of the issue you encounter. Send via email to: support@erda.dk",
-        "DK": "Grundet et undervisnings HPC-kursus, så reducerer adgangen til beregningsknuder på MODI. Fra den 14. februar til 26. marts, reserverer vi fuldt ud to ud af otte noder til kursisterne (noderne 000 og 001). Der vil også ske tømning af jobkøen forud for kursusstart. Dette for at sikre kurset tilgængelighed til ressourcer. Vi har reserveret en partition kaldet modi_HPCC, der udelukkende må anvendes af kursusdeltagerne. Oplever du problemer, så meld venligst om du er detlager eller ej, og vedhæft skærmbillede og giv fulde beskrivelser af problemerne du støder på. Send via email til: support@erda.dk"
-    },
-    "announce_end": "2025-03-26T23:59:59+01:00"
-  },
-  {
-    "status": "AUTO",
     "work_start": "2025-02-24T18:00:00+01:00",
     "systems": [
         "ERDA"
@@ -282,6 +261,27 @@
         "DK": "Vi vil anvende en lille konfigurationsændring på MODI, der sikrer, at du kan udføre MPI-job i login-nodesessionerne. Afbrydelser af denne tjeneste vil forekomme. Vi udførte denne ændring inden for den givne tidsperiode med kun en kort tjenesteafbrydelse."
     },
     "announce_end": "2025-02-18T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2025-02-14T00:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2025-02-05T12:00:00+01:00",
+    "title": {
+      "EN": "Reduced compute availability on MODI",
+      "DK": "Begrænset adgang til beregning på MODI"
+    },
+    "services": [
+        "MODI"
+    ],
+    "work_end": "2025-03-26T23:59:58+01:00",
+    "description": {
+        "EN": "Due to a teaching HPC course, we will reduce access to the compute nodes on MODI. From the 14th of February to the 26th of March 2025, we will fully reserve two of the eight nodes for the participants (nodes 000 and 001). This is done to secure that the course has access to resources. Draining of the job queue will also be done ahead of course start. We have reserved a partition named modi_HPCC, which is strictly reserved to the course participants. If you experience any issues, please state whether or not you are participating in the course, and attach screenshots and provide full descriptions of the issue you encounter. Send via email to: support@erda.dk",
+        "DK": "Grundet et undervisnings HPC-kursus, så reducerer adgangen til beregningsknuder på MODI. Fra den 14. februar til 26. marts, reserverer vi fuldt ud to ud af otte noder til kursisterne (noderne 000 og 001). Der vil også ske tømning af jobkøen forud for kursusstart. Dette for at sikre kurset tilgængelighed til ressourcer. Vi har reserveret en partition kaldet modi_HPCC, der udelukkende må anvendes af kursusdeltagerne. Oplever du problemer, så meld venligst om du er detlager eller ej, og vedhæft skærmbillede og giv fulde beskrivelser af problemerne du støder på. Send via email til: support@erda.dk"
+    },
+    "announce_end": "2025-03-26T23:59:59+01:00"
   },
   {
     "status": "AUTO",
@@ -563,6 +563,28 @@
     },
     "announce_end": "2024-11-12T12:00:00+01:00"
   },
+  {
+    "status": "AUTO",
+    "work_start": "2024-10-14T17:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2024-10-01T08:00:00+02:00",
+    "title": {
+      "EN": "DAG and MODI Maintenance",
+      "DK": "DAG og MODI vedligehold"
+    },
+    "services": [
+        "DAG",
+        "MODI"
+    ],
+    "work_end": "2024-10-14T23:59:00+02:00",
+    "description": {
+        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack and the Big Data in Biotechnology Notebook.",
+        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken og Big Data in Biotechnology Notebooken."
+    },
+    "announce_end": "2024-10-15T12:00:00+02:00"
+  },
     {
     "status": "AUTO",
     "work_start": "2024-10-08T08:55:00+02:00",
@@ -614,28 +636,6 @@
       ]
     },
     "announce_end": "2024-10-25T23:59:00+02:00"
-  },
-  {
-    "status": "AUTO",
-    "work_start": "2024-10-14T17:00:00+02:00",
-    "systems": [
-        "ERDA"
-    ],
-    "announce_start": "2024-10-01T08:00:00+02:00",
-    "title": {
-      "EN": "DAG and MODI Maintenance",
-      "DK": "DAG og MODI vedligehold"
-    },
-    "services": [
-        "DAG",
-        "MODI"
-    ],
-    "work_end": "2024-10-14T23:59:00+02:00",
-    "description": {
-        "EN": "We will apply an update of DAG and MODI, which includes updating the software stack and the Big Data in Biotechnology Notebook.",
-        "DK": "Vi vil udføre en opdatering af DAG og MODI, som inkluderer opdatering af softwarestakken og Big Data in Biotechnology Notebooken."
-    },
-    "announce_end": "2024-10-15T12:00:00+02:00"
   },
   {
     "status": "AUTO",
@@ -1382,6 +1382,27 @@
   },
    {
     "status": "AUTO",
+    "work_start": "2023-11-06T17:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2023-10-16T12:00:00+02:00",
+    "title": {
+      "EN": "Planned MODI Backend Migration",
+      "DK": "Planlagt MODI Backend Migration"
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2023-11-06T22:00:00+02:00",
+    "description": {
+      "EN": "We need to migrate the MODI service out of our MIST infrastructure and over to our HPC infrastructure. This will cause extended downtime for the MODI service. This work was completed within the announced timeframe and the MODI service is back online.",
+      "DK": "Vi er nødt til at migrere MODI servicen ud af vores MIST infrastruktur og over til vores HPC infrastruktur. Dette vil medføre forlænget nedetid for MODI servicen. Dette arbejde blev udført inden for den annoncerede tidsramme, og MODI servicen er tilbage online."
+    },
+    "announce_end": "2023-10-05T12:00:00+02:00"
+  },
+   {
+    "status": "AUTO",
     "work_start": "2023-10-30T09:18:00+01:00",
     "systems": [
         "ERDA"
@@ -1442,27 +1463,6 @@
       "DK": "Vi blev ramt af et omfattende og længerevarende strømudfald fra lidt før kl 3 i morges. Det fik sikringer til at gå og efterlod adskillige systemer uden strøm. Maskiner uden - eller med begrænset nødstrøm gik derfor ned og DAG Jupyter-maskinerne forblev udenfor rækkevidde. Vi havde teknikere på stedet for at få styr på problemerne og bringe en række maskiner og lidt netværksudstyr tilbage i drift."
     }, 
     "announce_end": "2023-10-26T12:00:00+02:00"
-  },
-   {
-    "status": "AUTO", 
-    "work_start": "2023-11-06T17:00:00+02:00", 
-    "systems": [
-        "ERDA"
-    ],
-    "announce_start": "2023-10-16T12:00:00+02:00",
-    "title": {
-      "EN": "Planned MODI Backend Migration",
-      "DK": "Planlagt MODI Backend Migration"
-    },
-    "services": [
-      "ALL"
-    ],
-    "work_end": "2023-11-06T22:00:00+02:00",
-    "description": {
-      "EN": "We need to migrate the MODI service out of our MIST infrastructure and over to our HPC infrastructure. This will cause extended downtime for the MODI service. This work was completed within the announced timeframe and the MODI service is back online.",
-      "DK": "Vi er nødt til at migrere MODI servicen ud af vores MIST infrastruktur og over til vores HPC infrastruktur. Dette vil medføre forlænget nedetid for MODI servicen. Dette arbejde blev udført inden for den annoncerede tidsramme, og MODI servicen er tilbage online."
-    },
-    "announce_end": "2023-10-05T12:00:00+02:00"
   },
  {
     "status": "AUTO", 
@@ -1676,27 +1676,6 @@
     },
     "announce_end": "2023-08-15T23:59:59+02:00"
   },
-  {
-    "status": "AUTO", 
-    "work_start": "2023-07-04T17:00:00+02:00", 
-    "systems": [
-        "ERDA"
-    ],
-    "announce_start": "2023-06-20T20:00:00+02:00",
-    "title": {
-      "EN": "Planned MODI Maintenance",
-      "DK": "Planlagt MODI vedligehold"
-    },
-    "services": [
-      "MODI"
-    ],
-    "work_end": "2023-07-04T20:00:00+02:00",
-    "description": {
-      "EN": "It's time for a thorough update of the MODI service and release of the newest software edition. The work will involve down-time for a number of low-level system tasks. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect a longer downtime of approximately two hours for the migration and main upgrades if everything runs smoothly. That downtime will likely start about half an hour into the window and should therefore finish well before standard working hours. We completed this work as expected within the maintenance window with the MODI service working again as expected.",
-      "DK": "Det er tid til en gennemgående opdatering af DAG servicen. Arbejdet kræver nedetid til grundlæggende systemopgaver, og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi forventer en længere nedetid på et par timers tid til migrering samt hovedopgraderingerne, hvis alting forløber planmæssigt. Den del vil formodentlig begynde omkring en halv time inde i servicevinduet og skulle derfor være overstået længe inden almindelig arbejdstid. Vi fuldførte dette arbejde som forventet inden for vedligeholdelsesvinduet, og MODI tjenesten fungere igen som forventet."
-    },
-    "announce_end": "2023-07-05T23:59:59+02:00"
-  },
  {
     "status": "AUTO", 
     "work_start": "2023-07-20T16:00:00+02:00", 
@@ -1718,6 +1697,27 @@
     },
     "announce_end": "2023-08-01T12:00:00+02:00"
   }, 
+  {
+    "status": "AUTO",
+    "work_start": "2023-07-04T17:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2023-06-20T20:00:00+02:00",
+    "title": {
+      "EN": "Planned MODI Maintenance",
+      "DK": "Planlagt MODI vedligehold"
+    },
+    "services": [
+      "MODI"
+    ],
+    "work_end": "2023-07-04T20:00:00+02:00",
+    "description": {
+      "EN": "It's time for a thorough update of the MODI service and release of the newest software edition. The work will involve down-time for a number of low-level system tasks. Thus all services will be temporarily unavailable for shorter or longer periods during the maintenance window. We expect a longer downtime of approximately two hours for the migration and main upgrades if everything runs smoothly. That downtime will likely start about half an hour into the window and should therefore finish well before standard working hours. We completed this work as expected within the maintenance window with the MODI service working again as expected.",
+      "DK": "Det er tid til en gennemgående opdatering af DAG servicen. Arbejdet kræver nedetid til grundlæggende systemopgaver, og der vil derfor forekomme kortere eller længere nedetid på alle services undervejs. Vi forventer en længere nedetid på et par timers tid til migrering samt hovedopgraderingerne, hvis alting forløber planmæssigt. Den del vil formodentlig begynde omkring en halv time inde i servicevinduet og skulle derfor være overstået længe inden almindelig arbejdstid. Vi fuldførte dette arbejde som forventet inden for vedligeholdelsesvinduet, og MODI tjenesten fungere igen som forventet."
+    },
+    "announce_end": "2023-07-05T23:59:59+02:00"
+  },
      {
     "status": "AUTO", 
     "work_start": "2023-07-03T17:00:00+02:00", 
