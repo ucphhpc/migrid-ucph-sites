@@ -56,10 +56,10 @@
   "services": [
       "ALL"
     ], 
-    "work_end": "2025-05-30T20:00:00+02:00",
+    "work_end": "2025-05-30T19:34:00+02:00",
     "description": {
-      "EN": "We will do ordinary service and security updates with some preparation for the upcoming platform migration. In this maintenance window we will also do physical relocation of storage hardware, so it will result in about a day of ERDA downtime. We have now moved all the ERDA storage bricks to our new data center and are wrapping up the task hooking them up again, but it has taken slightly longer than expected despite calling in extra staff. So we will have to extend the maintenance window for another hour or two. Further updates will follow here.",
-      "DK": "Vi gennemfører ordinære opdateringer af tjenester og sikkerhed med forberedelse af den kommende migrering til ny platform. I dette vedligeholdelsesvindue vil vi desuden fysisk flytte lagrings-hardware, så det giver omkring en dags ERDA-nedetid. Vi har nu flyttet alle storage bricks i ERDA backend-lageret til vores nye datacenter og afrunder opgaven med at få dem forbundet igen, men det har taget lidt længere end ventet på trods af ekstraindkaldt mandskab. Så vi bliver nødt til at forlænge vedligeholdelsesvinduet en time eller to. Yderligere status følger her."
+      "EN": "We will do ordinary service and security updates with some preparation for the upcoming platform migration. In this maintenance window we will also do physical relocation of storage hardware, so it will result in about a day of ERDA downtime. We moved all the ERDA storage bricks to our new data center and hooked them all up again, but it took slightly longer than expected despite calling in extra staff. So we had to extend the maintenance window and finished sometime between 19 and 20 o'clock. All systems are therefore back in normal production.",
+      "DK": "Vi gennemfører ordinære opdateringer af tjenester og sikkerhed med forberedelse af den kommende migrering til ny platform. I dette vedligeholdelsesvindue vil vi desuden fysisk flytte lagrings-hardware, så det giver omkring en dags ERDA-nedetid. Vi flyttede alle storage bricks i ERDA backend-lageret til vores nye datacenter og afrundede opgaven med at få dem forbundet igen, men det tog lidt længere end ventet på trods af ekstraindkaldt mandskab. Så vi blev nødt til at forlænge vedligeholdelsesvinduet og blev færdige et sted mellem kl 19 og 20. Alt er således tilbage i normal drift."
     },
     "announce_end": "2025-06-01T12:00:00+02:00"
   },
