@@ -1,9 +1,30 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-06-10T21:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-06-10T17:00:00+02:00",
+    "title": {
+      "EN": "Short-notice ERDA restart to restore sharelink access through SFTP, WebDAVS and FTPS.",
+      "DK": "Genstart af ERDA  med kort varsel for at genetablere sharelink-adgang på SFTP, WebDAVS og FTPS."
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2025-06-10T21:30:00+02:00",
+    "description": {
+      "EN": "As some users have reported the SFTP, WebDAVS and FTPS access to sharelinks was lost as a result of the huge ERDA migration over the weekend. We have identified the cause and prepared a small bugfix, but it requires a restart of all services. Since it is an important functionality for a number of users with lab or instrument machines with ERDA-backed storage we have extraordinarily decided to schedule a brief down-time tonight outside regular office hours to address it. All ERDA services except Seafile will therefore be unavailable for some minutes at about 21 o'clock.",
+      "DK": "Som flere brugere har indmeldt forsvandt adgangen til sharelinks på SFTP, WebDAVS og FTPS som følge af den store ERDA-migrering henover weekenden. Vi har identificeret årsagen og klargjort en mindre rettelse, men den kræver genstart af alle services. Da det er en vigtig funktionalitet for en del brugere med lab- og instrument-maskiner tilkoblet ERDAs lagerplads, har vi valgt ekstraordinært at indlægge en kort nedetid her til aften udenfor almindelig arbejdstid. ERDAs services bortset fra Seafile forventes derfor at være utilgængelige i nogle minutter her omkring kl 21."
+    },
+    "announce_end": "2025-06-11T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-06-06T07:00:00+02:00",
     "systems": [
-        "ERDA"
+      "ERDA"
     ],
     "announce_start": "2025-04-30T01:00:00+02:00",
     "title": {
@@ -11,34 +32,34 @@
       "DK": "DAG/MODI vedligehold"
     },
     "services": [
-        "DAG",
-        "MODI"
+      "DAG",
+      "MODI"
     ],
     "work_end": "2025-06-10T12:00:00+02:00",
     "description": {
-        "EN": "We will apply a major update of DAG and MODI which includes low level sysem updates and a reboot of the system during the ERDA migration. Interruptions to the service will occur. We finished the updates and brought them back online, but unfortunately had to pull the plug again due to a serious user data mapping regression. We're working on the issue and will restore access as soon as it's resolved. We're sorry for the inconvenience even though it's done outside regular working hours.",
-        "DK": "Vi vil udføre en større opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet imens vi migrerer ERDA. Afbrydelser af denne tjeneste vil forekomme. Vi blev færdige med opdateringerne og satte dem tilbage i drift, men blev desværre nødt til at trække stikket igen pga et alvorligt tilbageslag med brugerdata-tilkoblingen. Vi arbejder på sagen og genåbner så snart problemet er løst. Vi beklager de gener det medfører, selv om arbejdet er lagt udenfor almindelig arbejdstid."
+      "EN": "We will apply a major update of DAG and MODI which includes low level sysem updates and a reboot of the system during the ERDA migration. Interruptions to the service will occur. We finished the updates and brought them back online, but unfortunately had to pull the plug again due to a serious user data mapping regression. We solved the problem and restored full access on Monday morning. We're sorry for the inconvenience from the outages even though it's done outside regular working hours.",
+      "DK": "Vi vil udføre en større opdatering af DAG og MODI som inkluderer opdatering af softwarestakken og en genstart af systemet imens vi migrerer ERDA. Afbrydelser af denne tjeneste vil forekomme. Vi blev færdige med opdateringerne og satte dem tilbage i drift, men blev desværre nødt til at trække stikket igen pga et alvorligt tilbageslag med brugerdata-tilkoblingen. Vi fik løst problemet og genåbnede fuld adgang mandag morgen. Vi beklager generne fra arbejdet, selv om arbejdet er lagt udenfor almindelig arbejdstid."
     },
     "announce_end": "2025-06-12T12:00:00+02:00"
   },
   {
-  "status": "AUTO",
-  "work_start": "2025-06-05T10:00:00+02:00",
-  "systems": [
+    "status": "AUTO",
+    "work_start": "2025-06-05T10:00:00+02:00",
+    "systems": [
       "ERDA"
-  ],
-  "announce_start": "2025-04-30T01:00:00+02:00",
-  "title": {
-    "EN": "Planned Migration to newer ERDA platform.",
-    "DK": "Planlagt migrering til nyere ERDA-platform."
-  },
-  "services": [
+    ],
+    "announce_start": "2025-04-30T01:00:00+02:00",
+    "title": {
+      "EN": "Planned Migration to newer ERDA platform.",
+      "DK": "Planlagt migrering til nyere ERDA-platform."
+    },
+    "services": [
       "ALL"
     ], 
     "work_end": "2025-06-10T12:00:00+02:00",
     "description": {
-      "EN": "ERDA will likely be offline for at least a significant part of Thursday and Friday for fundamental upgrades and we have reserved the whole extended weekend in case it drags out, so we ask users to plan accordingly. In this larger update, we do fundamental system upgrades and migrate ERDA to our newer containerized MiGrid platform, docker-migrid. The major differences happen under the hood, as we transition fully to Python3 on Rocky9 and consolidate ERDA on the modern code branch also used e.g. on SIF. This will simplify our maintenance and free up resources for future MiGrid development. Users should also gradually experience some performance improvements as a result. The fundamental migration completed on Saturday and ERDA now runs on a modern platform. During our follow-up testing and monitoring we experienced some serious load bottlenecks and had to restart the frontend multiple times on Sunday to finally identify and address an elusive CPU under-allocation issue. On the good side that also helps on the long and rather fluctuating page load times we previously noticed. There may be more bits and pieces still missing, so we expect to do more adjustments until Tuesday. Yet, hopefully only with brief service restarts if so and no more long outages. We're sorry for the resulting inconvenience, even though we're spending our extended weekend working overtime to avoid interruptions during regular office hours.",
-      "DK": "ERDA tages ud af drift sandsynligvis mindst en stor del af torsdag og fredag til grundlæggende opdateringer og vi har reserveret hele den forlængede weekend i tilfælde af at det trækker ud, så vi beder brugere om at planlægge efter det. I denne omfattende opdatering foretager vi større opgradering af underliggende systemer, samtidig med at vi migrerer ERDA til vores nyere container-baserede MiGrid platform, docker-migrid. Den største forskel sker under kølerhjelmen, da vi overgår fuldt til Python3 på Rocky9 og konsoliderer ERDA på samme moderne kodebase, vi også bl.a. benytter på SIF. Det vil forenkle vedligehold og frigive ressourcer til udviklingen af MiGrid fremover. Brugere skulle p åsigt også gerne opleve bedre ydelse som resultat af opgraderingerne. Den grundlæggende migrering blev færdig lørdag og ERDA kører nu på en moderne platform. I vores opfølgende tests og overvågning fandt vi alvorlige ydelses-flaskehalse og var nødt til at genstarte frontend adskillige gange i løbet af søndag, før vi endelig fandt frem til og fik rettet et godt skjult problem med CPU-underallokering. På den gode side afhjælper det også de ganske svingende lange svarttider på web-siderne vi i forvejen havde bemærket. Der mangler muligvis stadig nogle mindre tilrettelser, så vi vil fortsat finjustere indtil på tirsdag. Forhåbentlig så kun med kortere service-udfald og ingen længere nedetid. Vi beklager de gener arbejdet medfører, selv om vi har prioriteret at bruge vores forlængede weekend på opgaven for at undgå driftsfforstyrrelser indenfor almindelig arbejdstid."
+      "EN": "ERDA will likely be offline for at least a significant part of Thursday and Friday for fundamental upgrades and we have reserved the whole extended weekend in case it drags out, so we ask users to plan accordingly. In this larger update, we do fundamental system upgrades and migrate ERDA to our newer containerized MiGrid platform, docker-migrid. The major differences happen under the hood, as we transition fully to Python3 on Rocky9 and consolidate ERDA on the modern code branch also used e.g. on SIF. This will simplify our maintenance and free up resources for future MiGrid development. Users should also gradually experience some performance improvements as a result. The fundamental migration completed on Saturday and ERDA now runs on a modern platform. During our follow-up testing and monitoring we experienced some serious load bottlenecks and had to restart the frontend multiple times on Sunday to finally identify and address an elusive CPU under-allocation issue. On the good side that also helps on the long and rather fluctuating page load times we previously noticed. There may be more bits and pieces still missing, so we expect to do more adjustments until Tuesday. Yet, hopefully only with brief service restarts if so and no more long outages. Please note that we also generated a new stronger main site key used in HTTPS, SFTP, Webdavs and FTPS as part of the migration. Especially if you use SFTP/SSHFS you will therefore likely have to accept/update the ERDA SFTP host key fingerprint next time you connect. You can verify the new one on your ERDA Setup SFTP web page or configure your client to fetch it from DNS(SEC). We're sorry for the inconvenience from the work, even though we're spending our extended weekend working overtime exactly to avoid interruptions during regular office hours.",
+      "DK": "ERDA tages ud af drift sandsynligvis mindst en stor del af torsdag og fredag til grundlæggende opdateringer og vi har reserveret hele den forlængede weekend i tilfælde af at det trækker ud, så vi beder brugere om at planlægge efter det. I denne omfattende opdatering foretager vi større opgradering af underliggende systemer, samtidig med at vi migrerer ERDA til vores nyere container-baserede MiGrid platform, docker-migrid. Den største forskel sker under kølerhjelmen, da vi overgår fuldt til Python3 på Rocky9 og konsoliderer ERDA på samme moderne kodebase, vi også bl.a. benytter på SIF. Det vil forenkle vedligehold og frigive ressourcer til udviklingen af MiGrid fremover. Brugere skulle på sigt også gerne opleve bedre ydelse som resultat af opgraderingerne. Den grundlæggende migrering blev færdig lørdag og ERDA kører nu på en moderne platform. I vores opfølgende tests og overvågning fandt vi alvorlige ydelses-flaskehalse og var nødt til at genstarte frontend adskillige gange i løbet af søndag, før vi endelig fandt frem til og fik rettet et godt skjult problem med CPU-underallokering. På den gode side afhjælper det også de ganske svingende lange svarttider på web-siderne, vi i forvejen havde bemærket. Der mangler muligvis stadig nogle mindre tilrettelser, så vi vil fortsat finjustere indtil på tirsdag. Forhåbentlig så kun med kortere service-udfald og ingen længere nedetid. Bemærk venligst at vi ifm migreringen også genererede en ny stærker hovednøgle til brug i HTTPS, SFTP, WebDAVS og FTPS. Især hvis du benytter SFTP/SSHFS er du derfor sandsynligvis nødt til at acceptere/opdatere fingeraftryk for ERDAs SFTP nøgle næste gang du kobler på. Du kan verificere det nye inde på din ERDA Setup SFTP webside eller konfigurere din klient til selv at hente det fra DNS(SEC). Vi beklager de gener arbejdet medfører, selv om vi har prioriteret at bruge vores forlængede weekend på opgaven netop for at undgå driftsforstyrrelser indenfor almindelig arbejdstid."
     },
     "announce_end": "2025-06-12T12:00:00+02:00"
   },
