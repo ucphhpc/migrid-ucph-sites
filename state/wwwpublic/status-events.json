@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-06-19T08:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-06-13T15:00:00+02:00",
+    "title": {
+      "EN": "Planned ERDA Seafile relocation to new data center.",
+      "DK": "Planlagt flytning af ERDA Seafile til nyt datacenter."
+    },
+    "services": [
+      "Seafile"
+    ],
+    "work_end": "2025-06-19T17:00:00+02:00",
+    "description": {
+      "EN": "We need to physcically relocate the Seafile hardware to our new data center and expect it to take a couple of hours during the day. The exact time is still to be decided based on staff availability on-site.",
+      "DK": "Vi skal have flyttet Seafile-maskinel i vores nye datacenter og forventer at det tager et par timer. Det præcise tidspunkt i løbet af dagen afhænger af hvornår vi har tilgængeligt personale on-site og er endnu ikke fastlagt."
+    },
+    "announce_end": "2025-06-20T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-06-10T21:00:00+02:00",
     "systems": [
       "ERDA"
