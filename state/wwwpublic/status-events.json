@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-06-23T08:00:00+02:00",
+    "systems": [
+      "ALL"
+    ],
+    "announce_start": "2025-06-17T17:00:00+02:00",
+    "title": {
+      "EN": "Limited support and extended response times during holiday season.",
+      "DK": "Begrænset support og forlænget svartid i feriesæsonen."
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2025-07-25T23:59:59+02:00",
+    "description": {
+      "EN": "During the summer holidays we will be thin on staff, so users should generally expect longer response times on support requests and anything requiring operator interaction. We kindly ask users to indicate urgency or mention how many working days a response can realistically wait before it hurts. This will help us prioritize resources despite staff scarcity. We will of course still do our best to keep everything running smoothly, but just can't promise prompt response or reaction. The period in question is weeks 26 to 30, i.e. from the 23rd of June and until the 25th of July 2025.",
+      "DK": "I løbet af sommerferieperioden er vi tyndt bemandet, så brugere må generelt forvente forlænget svartid på supporthenvendelser og alt der kræver operatørindblanding. Vi beder brugerne om at angive hvor meget det haster eller nævne hvor mange hverdage det realistisk kan vente før det gør ondt. Dette vil hjælpe os med at prioritere ressourcer trods sparsom feriebemanding. Vi vil naturligvis stadig gøre vores bedste for at holde alting gniningsfrit kørende, men kan bare ikke garantere hurtig besvarelse eller reaktion. Det drejer sig konkret om ugerne 26 - 30, d.v.s. perioden fra d. 23. juni til d. 25. juli 2025."
+    },
+    "announce_end": "2025-07-28T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-06-19T08:00:00+02:00",
     "systems": [
       "ERDA"
