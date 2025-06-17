@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-06-20T08:00:00+02:00",
+    "systems": [
+      "ALL"
+    ],
+    "announce_start": "2025-06-18T08:00:00+02:00",
+    "title": {
+      "EN": "Limited support during summer holiday, week 26 to 28.",
+      "DK": "Begrænset support i sommerferien, uge 26-28."
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2025-07-16T08:00:00+02:00",
+    "description": {
+      "EN": "During the summer holidays users must expect longer response time on support requests. We kindly ask users to mention wheter a late response is acceptable or not. This will help us prioritize our resources. The period in question is from the 23rd of June and onto the 16th of July 2025.",
+      "DK": "I løbet af sommerferieperioden må brugere forvente længere svartider på supporthenvendelser. Vi beder brugerne om at nævne, om senere svartid er acceptabelt eller ej. Dette vil hjælpe os med at prioritere ressourcerne. Det drejer sig om perioden fra d. 23. juni til d. 16. juli 2025."
+    },
+    "announce_end": "2025-07-17T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-06-19T08:00:00+02:00",
     "systems": [
       "ERDA"
