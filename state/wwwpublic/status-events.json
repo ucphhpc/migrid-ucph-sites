@@ -1,5 +1,26 @@
 [
   {
+  "status": "AUTO",
+  "work_start": "2025-07-04T15:00:00+02:00",
+  "systems": [
+      "ERDA"
+  ],
+  "announce_start": "2025-06-26T15:00:00+02:00",
+  "title": {
+    "EN": "Planned ERDA Post-Migration Maintenance",
+    "DK": "Planlagt ERDA systemvedligehold ovenpå migreringen"
+  },
+  "services": [
+      "ALL"
+    ], 
+    "work_end": "2025-07-04T19:00:00+02:00",
+    "description": {
+      "EN": "We will do a round of ERDA post-migration service and updates. This will require some downtime for service restarts and network changes. All services will therefore be unavailable for one or more periods during the maintenance window.",
+      "DK": "Vi gennemfører en runde vedligehold og opdateringer af ERDA ovenpå migreringen. Det vil kræve nedetid til service-genstart og netværksjusteringer. Alle services vil derfor være nede i en eller flere perioder i løbet af vedligeholdelsesvinduet."
+    },
+    "announce_end": "2025-07-05T12:00:00+02:00"
+  },
+  {
     "status": "AUTO",
     "work_start": "2025-06-23T08:00:00+02:00",
     "systems": [
