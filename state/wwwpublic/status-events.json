@@ -13,12 +13,12 @@
   "services": [
       "ALL"
     ], 
-    "work_end": "2025-07-04T19:00:00+02:00",
+    "work_end": "2025-07-04T17:30:00+02:00",
     "description": {
-      "EN": "We will do a round of ERDA post-migration service and updates. This will require some downtime for service restarts and network changes. All services will therefore be unavailable for one or more periods during the maintenance window.",
-      "DK": "Vi gennemfører en runde vedligehold og opdateringer af ERDA ovenpå migreringen. Det vil kræve nedetid til service-genstart og netværksjusteringer. Alle services vil derfor være nede i en eller flere perioder i løbet af vedligeholdelsesvinduet."
+      "EN": "We will do a round of ERDA post-migration service and updates. This will require some downtime for service restarts and network changes. All services will therefore be unavailable for one or more periods during the maintenance window. We completed the updates at about 17:30 and everything is back in normal production - with some significant improvements on SFTP download speed and a few other fixes.",
+      "DK": "Vi gennemfører en runde vedligehold og opdateringer af ERDA ovenpå migreringen. Det vil kræve nedetid til service-genstart og netværksjusteringer. Alle services vil derfor være nede i en eller flere perioder i løbet af vedligeholdelsesvinduet. Vi blev færdige med opdateringen omkring kl 17:30 og alt er tilbage i normal drift - med klare forbedringer på SFTP download-hastigheden og lidt andre rettelser."
     },
-    "announce_end": "2025-07-05T12:00:00+02:00"
+    "announce_end": "2025-07-07T10:00:00+02:00"
   },
   {
     "status": "AUTO",
