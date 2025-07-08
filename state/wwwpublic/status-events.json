@@ -1,4 +1,26 @@
 [
+    {
+    "status": "AUTO",
+    "work_start": "2025-07-08T07:00:00+02:00",
+    "systems": [
+        "ERDA",
+        "SIF"
+    ],
+    "announce_start": "2025-07-08T07:00:00+02:00",
+    "title": {
+      "EN": "All services unavailable due to local power outage",
+      "DK": "Alle tjenester utilgængelige pga. lokal strømafbrydelse"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-07-08T12:00:00+02:00",
+    "description": {
+        "EN": "During planned UCPH power maintenance work and fire suppression tests we completely lost power and emergency power in our new data center. This means that all systems migrated there are currently offline. That is, ERDA with DAG/MODI, MIST and Seafile as well as SIF. We have building service staff and technicians on site working to restore power and get back everything online again ASAP, but we do not have a time frame, yet.",
+        "DK": "Under planlagt KU-strømarbejde og test af brandslukningsudstyr mistede vi fuldstændig strøm og nødstrøm i vores nye datacenter. I praksis er alle systemer vi har migreret dertil derfor aktuelt nede. Det vil bl.a. sige ERDA med DAG/MODI, MIST og Seafile samt SIF. Vi har bygningsdrift og teknikere på stedet som arbejder på hurtigst muligt at få genetableret strømmen og alt tilbage i drift, men vi har endnu ikke en tidsramme."
+    },
+    "announce_end": "2025-07-09T12:00:00+02:00"
+  },
   {
   "status": "AUTO",
   "work_start": "2025-07-04T15:00:00+02:00",
