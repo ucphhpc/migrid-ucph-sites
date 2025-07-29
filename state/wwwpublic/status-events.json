@@ -1,5 +1,26 @@
 [
-    {
+  {
+    "status": "AUTO",
+    "work_start": "2025-07-28T10:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2025-07-28T10:00:00+02:00",
+    "title": {
+      "EN": "MODI Unavailable",
+      "DK": "MODI utilgængelig"
+    },
+    "services": [
+        "MODI"
+    ],
+    "work_end": "2025-07-30T12:00:00+02:00",
+    "description": {
+        "EN": "MODI has unexpectedly become unavailable due to what appears to be issues cross node connection between ERDA and the MODI login node. We are investigating this issue and will announce here when there is any news.",
+        "DK": "MODI er uventet blevet utilgængelig pga. hvad der ser ud til at være problemer med forbindelsen mellem ERDA og MODI login noden. Vi undersøger sagen nærmere og opdatere her når der er nyt i sagen."
+    },
+    "announce_end": "2025-07-30T23:59:59+02:00"
+  },
+  {
     "status": "AUTO",
     "work_start": "2025-07-08T07:00:00+02:00",
     "systems": [
