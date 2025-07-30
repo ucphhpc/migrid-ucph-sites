@@ -35,12 +35,12 @@
     "services": [
         "MODI"
     ],
-    "work_end": "2025-07-30T12:00:00+02:00",
+    "work_end": "2025-07-30T08:30:00+02:00",
     "description": {
-        "EN": "MODI has unexpectedly become unavailable due to what appears to be issues cross node connection between ERDA and the MODI login node. We are investigating this issue and will announce here when there is any news.",
-        "DK": "MODI er uventet blevet utilgængelig pga. hvad der ser ud til at være problemer med forbindelsen mellem ERDA og MODI login noden. Vi undersøger sagen nærmere og opdatere her når der er nyt i sagen."
+        "EN": "MODI has unexpectedly become unavailable due to what appears to be issues cross node connection between ERDA and the MODI login node. We found that an incorrect network link was being used to serve the connection between ERDA and the MODI login node, we have fixed this issue and the service is now back in production.",
+        "DK": "MODI er uventet blevet utilgængelig pga. hvad der ser ud til at være problemer med forbindelsen mellem ERDA og MODI login noden. Vi undersøger sagen nærmere og opdatere her når der er nyt i sagen. Vi fandt ud af, at der blev brugt et forkert netværkslink til at betjene forbindelsen mellem ERDA og MODI-loginnoden. Vi har løst dette problem, og tjenesten er nu tilbage i produktion."
     },
-    "announce_end": "2025-07-30T23:59:59+02:00"
+    "announce_end": "2025-07-30T09:00:00+02:00"
   },
   {
     "status": "AUTO",
