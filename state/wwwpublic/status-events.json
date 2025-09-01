@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-09-01T15:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-09-01T13:00:00+02:00",
+    "title": {
+      "EN": "Login issues on ERDA (No such user + Gateway timeout).",
+      "DK": "Loginproblemer på ERDA (No such user + Gateway timeout)."
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2025-09-03T23:59:59+02:00",
+    "description": {
+      "EN": "We experience issues with logging in to ERDA, which either fails with error message (No such user (/C=...)) or a gateway timeout. We are looking into the issue, and will keep an update here.",
+      "DK": "Vi oplever problemer med login på ERDA, der enten fejler med fejlbesked (No such user (/C=...)) eller tidsudløb (Gateway timeout). Vi arbejder på sagen og vil bringe opdateringer her."
+    },
+    "announce_end": "2025-09-10T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-08-04T20:00:00+02:00",
     "systems": [
       "ERDA"
