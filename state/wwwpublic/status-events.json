@@ -1,6 +1,57 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-09-02T08:00:00+02:00",
+    "systems": [
+      "ERDA",
+      "SIF"
+    ],
+    "announce_start": "2025-09-02T08:00:00+02:00",
+    "title": {
+      "EN": "New payment model for ERDA and SIF.",
+      "DK": "Ny afregningsmodel for ERDA og SIF."
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2025-09-05T23:59:59+02:00",
+    "description": {
+      "EN": "ERDA and SIF have throughout their lifetime been freely available without direct payment for students and researchers at UCPH, as well as external users with a connection to UCPH. Some storage services have in recent years begun to charge fees, and ERDA/SIF has noticed an influx as a result of this. We wish to draw attention to the fact that work is being done to introduce a payment model across UCPH's storage solutions. The details are not in place, but there will be payment requirements for organisational units covering their users of ERDA/SIF. Questions about what it will cost and how payment will be administered cannot yet be answered. We recommend all UCPH users read the internal article: \"New payment model for storing digital research data\"[0]",
+      "DK": "ERDA og SIF har i sin levetid været frit tilgængelig uden direkte afregning for studerende og forskere på KU, samt eksterne brugere med relation til KU. Enkelte lagertjenester er i de senere år begyndt at opkræve betaling, og ERDA/SIF har mærket en tilstrømning som følge af dette. Vi vil gøre opmærksom på, at der arbejdes på at indføre en betalingsmodel på tværs af KUs lagerløsninger. Detaljerne er ikke på plads, men der vil komme betalingskrav for organisationsenheder dækkende deres brugere af ERDA/SIF. Spørgsmål om hvad det vil koste og hvordan betaling administreres kan endnu ikke besvares. Vi anbefaler alle KU-brugere at læse den interne artikel: \"Ny afregnigsmodel for opbevaring af digitale forskningsdata\"[0]."
+    },
+    "references": {
+      "EN": [
+          "https://kunet.ku.dk/newsroom/news/Pages/New-model-storage-of-digital-research-data.aspx"
+      ], 
+      "DK": [
+          "https://kunet.ku.dk/nyhedsrum/nyheder/Sider/Ny-afregningsmodel-for-opbevaring-af-digitale-forskningsdata.aspx"
+      ]
+    },
+    "announce_end": "2025-12-31T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2025-09-01T15:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-09-01T13:00:00+02:00",
+    "title": {
+      "EN": "Login issues on ERDA (No such user + Gateway timeout).",
+      "DK": "Loginproblemer på ERDA (No such user + Gateway timeout)."
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2025-09-03T23:59:59+02:00",
+    "description": {
+      "EN": "We experience issues with logging in to ERDA, which either fails with error message (No such user (/C=...)) or a gateway timeout. We are looking into the issue, and will keep an update here.",
+      "DK": "Vi oplever problemer med login på ERDA, der enten fejler med fejlbesked (No such user (/C=...)) eller tidsudløb (Gateway timeout). Vi arbejder på sagen og vil bringe opdateringer her."
+    },
+    "announce_end": "2025-09-10T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-08-04T20:00:00+02:00",
     "systems": [
       "ERDA"
