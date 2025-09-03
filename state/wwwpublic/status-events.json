@@ -37,16 +37,16 @@
     ],
     "announce_start": "2025-09-01T13:00:00+02:00",
     "title": {
-      "EN": "Login issues on ERDA (No such user + Gateway timeout).",
-      "DK": "Loginproblemer på ERDA (No such user + Gateway timeout)."
+      "EN": "Login and availability issues on ERDA (Server Unavailable / Gateway Timeout).",
+      "DK": "Problemer med ERDA login og tilgængelighed (Server Unavailable / Gateway Timeout)."
     },
     "services": [
       "ALL"
     ],
-    "work_end": "2025-09-03T23:59:59+02:00",
+    "work_end": "2025-09-04T23:59:59+02:00",
     "description": {
-      "EN": "We experience issues with logging in to ERDA, which either fails with error message (No such user (/C=...)) or a gateway timeout. We are looking into the issue, and will keep an update here.",
-      "DK": "Vi oplever problemer med login på ERDA, der enten fejler med fejlbesked (No such user (/C=...)) eller tidsudløb (Gateway timeout). Vi arbejder på sagen og vil bringe opdateringer her."
+      "EN": "We experience issues with logging in to and using ERDA web, which frequently fails with various error messages like Server Unavailable and Gateway Timeout. It looks like at least part of the problem is related to the current issues in the central UCPH user database[0] and the resulting unstable and long response times. We are still looking into the issue and trying to find work arounds. We had to restart the web service twice on Monday afternoon and restarted all services on Wednesday afternoon to adjust some resource settings plus address an overload situation. Further updates will appear here.",
+      "DK": "Vi oplever problemer med login på og brug af ERDA web, der jævnligt melder fejlbeskeder som Server Unavailable eller Gateway Timeout. Det ser ud til i hvert fald delvis at skyldes de aktuelle problemer med KUs centrale brugerdatabase[0] og de medfølgende udfald og forlængede svartider.  Vi undersøger sagen nærmere og forsøger at finde løsninger. Vi var nødt til at genstarte web servicen to gange mandag eftermiddag plus genstarte alle services onsdag eftermiddag for at tilrette centrale resurseindstillinger og håndtere en overbelastningssituation. Yderligere opdateringer følger her."
     },
     "announce_end": "2025-09-10T12:00:00+02:00"
   },
