@@ -48,6 +48,14 @@
       "EN": "We experience issues with logging in to and using ERDA web, which frequently fails with various error messages like Server Unavailable and Gateway Timeout. It looks like at least part of the problem is related to the current issues in the central UCPH user database[0] and the resulting unstable and long response times. We are still looking into the issue and trying to find work arounds. We had to restart the web service twice on Monday afternoon and restarted all services on Wednesday afternoon to adjust some resource settings plus address an overload situation. Further updates will appear here.",
       "DK": "Vi oplever problemer med login på og brug af ERDA web, der jævnligt melder fejlbeskeder som Server Unavailable eller Gateway Timeout. Det ser ud til i hvert fald delvis at skyldes de aktuelle problemer med KUs centrale brugerdatabase[0] og de medfølgende udfald og forlængede svartider.  Vi undersøger sagen nærmere og forsøger at finde løsninger. Vi var nødt til at genstarte web servicen to gange mandag eftermiddag plus genstarte alle services onsdag eftermiddag for at tilrette centrale resurseindstillinger og håndtere en overbelastningssituation. Yderligere opdateringer følger her."
     },
+    "references": {
+      "EN": [
+          "https://it.ku.dk/driftinfo/"
+      ], 
+      "DK": [
+          "https://it.ku.dk/driftinfo/"
+      ]
+    },
     "announce_end": "2025-09-10T12:00:00+02:00"
   },
   {
