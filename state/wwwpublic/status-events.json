@@ -1,6 +1,28 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-09-26T09:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-09-12T09:00:00+02:00",
+    "title": {
+      "EN": "DAG/MODI Maintenance",
+      "DK": "DAG/MODI vedligehold"
+    },
+    "services": [
+      "DAG",
+      "MODI"
+    ],
+    "work_end": "2025-09-28T23:59:59+02:00",
+    "description": {
+      "EN": "On the 26th we will move the remaning hardware nodes from the DAG and MODI services to the new Datacenter, this might incurr some service interruptions but we will attempt to keep it at a minimum. Furthermore on the 27th and on we will apply updates on DAG and MODI which includes low level sysem updates and a reboot of the system. This will also include a new version of JupyterHub which from the user-perspective will make it appear more modern. During this time peroid interruptions will occur.",
+      "DK": "Den 26. flytter vi de resterende hardwarenoder fra DAG og MODI-tjenesterne til det nye datacenter. Dette kan medføre nogle serviceafbrydelser, men vi vil forsøge at holde det på et minimum. Derudover vil vi fra den 27. og fremefter implementere opdateringer på DAG og MODI, hvilket inkluderer lavniveau-systemopdateringer og en genstart af systemet. Dette vil også inkludere en ny version af JupyterHub, som fra brugerens perspektiv vil få det til at se mere moderne ud. I løbet af denne periode vil der forekomme periodevise afbrydelser."
+    },
+    "announce_end": "2025-09-29T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-09-02T08:00:00+02:00",
     "systems": [
       "ERDA",
