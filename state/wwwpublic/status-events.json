@@ -1,5 +1,26 @@
 [
   {
+      "status": "AUTO",
+      "work_start": "2025-10-03T08:00:00+02:00",
+      "systems": [
+          "SIF"
+      ],
+      "announce_start": "2025-09-17T08:00:00+02:00",
+      "title": {
+          "EN": "Update of SIF and moving backend.",
+          "DK": "Opdatering af SIF og flytning af backend."
+      },
+      "services": [
+          "ALL"
+      ],
+      "work_end": "2025-10-03T23:59:59+02:00",
+      "description": {
+          "EN": "SIF will be updated, and the backend storage will be moved to a new server room. This announcement will be updated on the day with any updates, but expect some downtime for SIF on the day.",
+          "DK": "SIF vil blive opdateret, og backend-lagringen vil blive flyttet til et nyt serverrum. Denne annoncering vil blive opdateret på dagen med opdateringer, men forvent nogen nedetid for SIF på dagen."
+      },
+      "announce_end": "2025-10-04T08:00:00+02:00"
+  },
+  {
     "status": "AUTO",
     "work_start": "2025-09-02T08:00:00+02:00",
     "systems": [
