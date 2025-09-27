@@ -52,7 +52,7 @@
   },
   {
     "status": "AUTO",
-    "work_start": "2025-09-27T09:00:00+02:00",
+    "work_start": "2025-09-27T11:00:00+02:00",
     "systems": [
         "ERDA"
     ],
@@ -64,10 +64,10 @@
     "services": [
       "ALL"
     ],
-    "work_end": "2025-09-28T23:59:59+02:00",
+    "work_end": "2025-09-27T15:10:00+02:00",
     "description": {
-      "EN": "We will do a round of ERDA upgrades and updates. This will require some downtime for service restarts. All services will therefore be unavailable for one or more periods during the maintenance window.",
-      "DK": "Vi vil foretage en række ERDA opgraderinger og opdateringer. Dette vil kræve noget nedetid for genstart af tjenesten. Alle tjenester vil derfor være utilgængelige i en eller flere perioder i vedligeholdelsesvinduet."
+      "EN": "It's time for a round of ERDA base system and software stack upgrades. Some of them require some downtime for low-level system upgrades and service restarts. All services will therefore be unavailable for one or more periods during the maintenance window. The upgrade will a.o. extend SFTP access to cover all types of sharelinks as requested by several users. This is particularly relevant for exchanging big or complex data sets with externals in a read-only fashion and for allowing instruments or external collaboration partners writing their data to a dedicated write-only folder. We finished the upgrades on Saturday afternoon and all core services are back to normal. Please note that there's a separate maintenance window for the DAG and MODI Jupyter components this weekend. So please watch the corresponding entry for updates on that front if relevant.",
+        "DK": "Det er tid til en runde opgraderinger af ERDAs basissystem og softwarestak. Det involverer noget nedetid ifm de grundlæggende systemopgraderinger og genstart af tjenester. Alle tjenester vil derfor være utilgængelige i en eller flere perioder i vedligeholdelsesvinduet. Opgraderingen udvider bl.a. SFTP adgang til at gælde alle typer sharelinks, som efterspurgt af mange brugere. Det er især nyttigt ift at udveksle store eller komplekse datasæt med eksterne kun med læse-adgang eller at lade instrumenter eller eksterne skrive deres data til en dedikeret mappe som kun er skrivebar. Vi blev færdige med opdateringerne lørdag eftermiddag og alle kerneservices er tilbage i almindelig drift. Bemærk venligst at der også er et særskilt vedligeholdelsesvindue for DAG og MODI denne weekend. Så se også gerne status i det tilhørende punkt her hvis det er aktuelt."
     },
     "announce_end": "2025-09-29T12:00:00+02:00"
   },
