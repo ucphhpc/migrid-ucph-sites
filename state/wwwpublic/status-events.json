@@ -22,6 +22,27 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2025-09-30T22:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-09-30T09:00:00+02:00",
+    "title": {
+      "EN": "DAG adjustment after maintenance",
+      "DK": "DAG justering efter vedligeholdelse"
+    },
+    "services": [
+      "DAG"
+    ],
+    "work_end": "2025-09-30T23:59:59+02:00",
+    "description": {
+      "EN": "After the recent maintenance of DAG we have experienced some issues with a new Docker version. We will revert to the previous version to stabilize the service. This will cause a short interruption of the service.",
+      "DK": "Efter den nylige vedligeholdelse af DAG har vi oplevet nogle problemer med en ny Docker-version. Vi vil gå tilbage til den tidligere version for at stabilisere tjenesten. Dette vil medføre en kort afbrydelse af tjenesten."
+    },
+    "announce_end": "2025-10-01T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-09-02T08:00:00+02:00",
     "systems": [
       "ERDA",
