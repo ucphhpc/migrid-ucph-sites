@@ -36,8 +36,8 @@
     ],
     "work_end": "2025-09-30T23:59:59+02:00",
     "description": {
-      "EN": "After the recent maintenance of DAG we have experienced some issues with a new Docker version. We will revert to the previous version to stabilize the service. This will cause a short interruption of the service.",
-      "DK": "Efter den nylige vedligeholdelse af DAG har vi oplevet nogle problemer med en ny Docker-version. Vi vil gå tilbage til den tidligere version for at stabilisere tjenesten. Dette vil medføre en kort afbrydelse af tjenesten."
+      "EN": "After the recent maintenance of DAG we have experienced some issues with a new Docker version. We will revert to the previous version to stabilize the service. This will cause a short interruption of the service. We completed this adjustment around 23:15 and got DAG back online. The following morning though we discovered an incorrect firewall on a new node that was adjusted around 08:25 to restore full functionality. We're sorry for the inconvenience caused by this.",
+      "DK": "Efter den nylige vedligeholdelse af DAG har vi oplevet nogle problemer med en ny Docker-version. Vi vil gå tilbage til den tidligere version for at stabilisere tjenesten. Dette vil medføre en kort afbrydelse af tjenesten. Vi blev færdige med denne justering omkring kl 23:15 og fik DAG tilbage online. Næste morgen opdagede vi dog en forkert firewall på en ny node, som blev justeret omkring kl 08:25 for at genoprette fuld funktionalitet. Vi beklager de gener, dette har medført."
     },
     "announce_end": "2025-10-01T12:00:00+02:00"
   },
