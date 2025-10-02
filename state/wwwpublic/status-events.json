@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-10-02T11:20:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2025-10-02T11:20:00+02:00",
+    "title": {
+        "EN": "Power outtage affecting ERDA.",
+        "DK": "ERDA ramt af strømafbrydelse ."
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2025-10-04T23:59:59+02:00",
+    "description": {
+        "EN": "ERDA have been affected by a power outtage. We are working on getting ERDA back online.",
+        "DK": "ERDA er blevet ramt af en strømafbrydelse. Vi arbejder på at få ERDA tilbage online."
+    },
+    "announce_end": "2025-10-05T08:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-10-03T08:00:00+02:00",
     "systems": [
         "SIF"
