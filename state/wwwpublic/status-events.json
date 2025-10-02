@@ -7,16 +7,16 @@
     ],
     "announce_start": "2025-10-02T11:20:00+02:00",
     "title": {
-        "EN": "Power outtage affecting ERDA.",
-        "DK": "ERDA ramt af strømafbrydelse ."
+        "EN": "Power outage affecting ERDA og ERDA Seafile.",
+        "DK": "ERDA og ERDA Seafile ramt af strømafbrydelse."
     },
     "services": [
         "ALL"
     ],
     "work_end": "2025-10-04T23:59:59+02:00",
     "description": {
-        "EN": "ERDA have been affected by a power outtage. We are working on getting ERDA back online.",
-        "DK": "ERDA er blevet ramt af en strømafbrydelse. Vi arbejder på at få ERDA tilbage online."
+        "EN": "ERDA and ERDA Seafile have been affected by a widespread power outage at UCPH. We are working on getting both back online. Moe info will follow as we proceed when we have a better overview.",
+        "DK": "ERDA er blevet ramt af en omfattende strømafbrydelse på KU. Vi arbejder på at få begge tilbage i almindelig drift. Yderligere info følger når vi har dannet os et bedre overblik."
     },
     "announce_end": "2025-10-05T08:00:00+02:00"
   },
