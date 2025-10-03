@@ -28,16 +28,16 @@
     ],
     "announce_start": "2025-10-02T11:20:00+02:00",
     "title": {
-        "EN": "Power outage affecting ERDA og ERDA Seafile.",
-        "DK": "ERDA og ERDA Seafile ramt af strømafbrydelse."
+        "EN": "ERDA and Seafile inaccessible due to power outage at UCPH.",
+        "DK": "ERDA og Seafile utilgængelig pga strømafbrydelse på KU."
     },
     "services": [
         "ALL"
     ],
-    "work_end": "2025-10-02T12:58:00+02:00",
+    "work_end": "2025-10-02T13:51:00+02:00",
     "description": {
-        "EN": "ERDA and Seafile have been affected by a widespread power outage at UCPH on Thursday morning. It took about an hour and a half before we had power back and restored access to ERDA and another hour with Seafile, where we used the opportunity to apply some pending low-level system upgrades. Everything is back in normal production since Thursday afternoon.",
-        "DK": "ERDA og Seafile blev ramt af en omfattende strømafbrydelse på KU torsdag formiddag. Det tog omkring halvanden time at få genetableret strøm og bringe ERDA tilbage i drift. Seafile yderligere en time fordi vi valgte at udnytte lejligheden til at få udrullet grundlæggende system-opdateringer derpå. Alt er tilbage i normal drift siden torsdag eftermiddag."
+        "EN": "ERDA and Seafile have been affected by a widespread power outage at UCPH on Thursday morning. It took about an hour and a half before we had power back and restored access to ERDA. Then another hour with Seafile, where we used the opportunity to apply some pending low-level system upgrades. Everything is back in normal production since Thursday afternoon.",
+        "DK": "ERDA og Seafile blev ramt af en omfattende strømafbrydelse på KU torsdag formiddag. Det tog omkring halvanden time at få genetableret strøm og bringe ERDA tilbage i drift. Seafile tog yderligere en time, fordi vi valgte at udnytte muligheden til at få udrullet grundlæggende system-opdateringer derpå. Alt er tilbage i normal drift siden torsdag eftermiddag."
     },
     "announce_end": "2025-10-04T10:00:00+02:00"
   },
