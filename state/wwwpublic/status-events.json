@@ -1,7 +1,7 @@
 [
   {
     "status": "AUTO",
-    "work_start": "2025-10-23T22:00:00+02:00",
+    "work_start": "2025-10-24T22:00:00+02:00",
     "systems": [
       "ERDA"
     ],
@@ -13,12 +13,12 @@
     "services": [
       "DAG"
     ],
-    "work_end": "2025-10-22T23:59:59+02:00",
+    "work_end": "2025-10-24T23:59:59+02:00",
     "description": {
       "EN": "We will adjust the Julia configuration on DAG to fix a reported issue with kernel creation. This will cause a short interruption of the service during the maintenance window.",
       "DK": "Vi vil justere Julia konfigurationen på DAG for at rette et rapporteret problem med kernel-oprettelse. Dette vil medføre en kort afbrydelse af tjenesten i vedligeholdelsesvinduet."
     },
-    "announce_end": "2025-10-23T12:00:00+02:00"
+    "announce_end": "2025-10-27T12:00:00+01:00"
   },
   {
     "status": "AUTO",
