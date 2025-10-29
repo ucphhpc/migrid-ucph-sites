@@ -1,6 +1,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2025-10-29T22:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-10-29T09:00:00+02:00",
+    "title": {
+      "EN": "Additional DAG Julia Adjustment",
+      "DK": "Yderligere DAG Julia justering"
+    },
+    "services": [
+      "DAG"
+    ],
+    "work_end": "2025-10-29T23:59:59+02:00",
+    "description": {
+      "EN": "We will make additional changes to the Julia Notebook, including removing the need for precompiling of preexisting packages which will remove delays during launch and the initial kernel, furthermore we will expand the JULIA_DEPOT_PATH to consider both the user and system directory. This will cause a short interruption of the service during the maintenance window.",
+      "DK": "Vi vil foretage yderligere ændringer i Julia Notebook, herunder fjernelse af behovet for prækompilering af eksisterende pakker, hvilket vil fjerne forsinkelser under opstart og den indledende kerne. Derudover vil vi udvide JULIA_DEPOT_PATH til at tage højde for både bruger- og systemmappen. Dette vil forårsage en kort afbrydelse af tjenesten i vedligeholdelsesvinduet."
+    },
+    "announce_end": "2025-10-30T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2025-10-24T22:00:00+02:00",
     "systems": [
       "ERDA"
