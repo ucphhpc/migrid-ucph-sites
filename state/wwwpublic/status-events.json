@@ -1,4 +1,25 @@
 [
+    {
+    "status": "AUTO",
+    "work_start": "2025-11-07T11:20:00:00+01:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-11-07T11:20:00+01:00",
+    "title": {
+      "EN": "ERDA limited availability",
+      "DK": "ERDA begrænset tilgængelig"
+    },
+    "services": [
+      "Web"
+    ],
+    "work_end": "2025-11-07T12:50:00+01:00",
+    "description": {
+        "EN": "ERDA experienced limited web availability from around 11:20 until 12:50. When it was discovered by our operators they tuned some related web server settings and retarted the web service to reestablish genera web access to ERDA web.",
+      "DK": "ERDA oplevede begrænset web-tilgængelighed fra omkring 11:20 til 12:50. Da det blev opdaget af vores operatører skruede de på relaterede webserver-indstillinger og genstartede web-servicen for at genetablere generel webadgang til ERDA."
+    },
+    "announce_end": "2025-11-09T10:00:00+01:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2025-10-29T22:00:00+02:00",
