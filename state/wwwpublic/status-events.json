@@ -1,4 +1,25 @@
 [
+    {
+    "status": "AUTO",
+    "work_start": "2025-11-07T11:20:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2025-11-07T11:20:00+02:00",
+    "title": {
+      "EN": "ERDA limited availability",
+      "DK": "ERDA begrænset tilgængelig"
+    },
+    "services": [
+      "Web"
+    ],
+    "work_end": "2025-11-07T12:50:00+02:00",
+    "description": {
+        "EN": "ERDA experienced limited web availability from around 11:20 until 12:50. When it was discovered by our operators they tuned some related web server settings and retarted the web service to reestablish access to ERDA web.",
+      "DK": "ERDA oplevede begrænset web-tilgængelighed fra omkring 11:20 til 12:50. Da det blev opdaget af vores operatører skruede på relaterede webserver indstillinger og genstartede web servicen for at genetablere generel adgang til ERDA web."
+    },
+    "announce_end": "2025-11-09T10:00:00+02:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2025-10-29T22:00:00+02:00",
@@ -40,27 +61,6 @@
       "DK": "Vi vil justere Julia konfigurationen på DAG for at rette et rapporteret problem med kernel-oprettelse. Dette vil medføre en kort afbrydelse af tjenesten i vedligeholdelsesvinduet."
     },
     "announce_end": "2025-10-27T12:00:00+01:00"
-  },
-  {
-    "status": "AUTO",
-    "work_start": "2025-11-07T11:20:00:00+02:00",
-    "systems": [
-      "ERDA"
-    ],
-    "announce_start": "2025-11-07T11:20:00+02:00",
-    "title": {
-      "EN": "ERDA limited availability discovered",
-      "DK": "ERDA begrænset tilgængelighed opdaget"
-    },
-    "services": [
-      "ERDA"
-    ],
-    "work_end": "2025-11-07T12:50:00+02:00",
-    "description": {
-        "EN": "ERDA experienced limited availability from around 11:20 until 12:50 Friday the 7th of November via HTTPS. This was discovered by our operators and they reestablished access to ERDA.",
-      "DK": "ERDA oplevede begrænset tilgængelighed fra omkring 11:20 til 12:50 fredag d. 7 november via HTTPS. Dette blev opdagede af vores operatører og de genetablerede forbindelse til ERDA."
-    },
-    "announce_end": "2025-11-09T12:50:00+02:00"
   },
   {
     "status": "AUTO",
