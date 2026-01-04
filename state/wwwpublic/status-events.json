@@ -17,8 +17,8 @@
     ],
     "work_end": "2026-01-04T23:59:59+02:00",
     "description": {
-      "EN": "We will apply updates on DAG and MODI which includes low level system updates and a reboot of the system. During this time period interruptions will occur.",
-      "DK": "Vi vil anvende opdateringer på DAG og MODI, som inkluderer lavniveau systemopdateringer og en genstart af systemet. I denne periode vil der forekomme afbrydelser."
+      "EN": "We will apply updates on DAG and MODI which includes low level system updates and a reboot of the system. During this time period interruptions will occur. We completed the DAG and MODI updates during the announced time period and both services should now be back to normal production.",
+      "DK": "Vi vil anvende opdateringer på DAG og MODI, som inkluderer lavniveau systemopdateringer og en genstart af systemet. I denne periode vil der forekomme afbrydelser. Vi har gennemført DAG- og MODI-opdateringerne i den annoncerede periode, og begge tjenester burde nu være tilbage i normal produktion."
     },
     "announce_end": "2026-01-08T12:00:00+01:00"
     },
