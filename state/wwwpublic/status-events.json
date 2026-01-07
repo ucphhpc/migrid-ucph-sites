@@ -1,5 +1,26 @@
 
 [
+  {
+    "status": "AUTO",
+    "work_start": "2026-02-09T16:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-01-07T12:00:00+01:00",
+    "title": {
+        "EN": "ERDA Upgrade and System Maintenance.",
+        "DK": "ERDA-opdatering og systemvedligehold."
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2026-02-10T07:59:00+01:00",
+    "description": {
+        "EN": "Planned downtime for ERDA incl. DAG/MODI. We will do maintenance on systems and upgrade ERDA itself. Users who experience issues after the maintenance window has ended should write to support@erda.dk.",
+        "DK": "Planlagt nedetid for ERDA inkl. DAG/MODI. Vi udfører systemvedligehold og opgradering af ERDA. Brugere som oplever problemer efter servicevinduet er afsluttet bedes skrive til support@erda.dk."
+    },
+    "announce_end": "2026-02-17T23:30:00+01:00"
+  },
     {
     "status": "AUTO",
     "work_start": "2026-01-04T15:00:00+01:00",
