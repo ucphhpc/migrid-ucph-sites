@@ -2,6 +2,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-01-13T22:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-01-13T14:00:00+01:00",
+    "title": {
+        "EN": "DAG server restart",
+        "DK": "Genstart af DAG server"
+    },
+    "services": [
+        "DAG"
+    ],
+    "work_end": "2026-01-13T23:00:00+01:00",
+    "description": {
+        "EN": "We will restart the DAG server in order to provide updated configuration for our DAG Geo Notebook.",
+        "DK": "Vi genstarter DAG-serveren for at få opdateret konfiguration af vores DAG Geo Notebook."
+    },
+    "announce_end": "2026-01-27T23:30:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-02-09T16:00:00+01:00",
     "systems": [
         "ERDA"
