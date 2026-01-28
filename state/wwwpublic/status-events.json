@@ -23,6 +23,48 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2026-01-22T23:36:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-01-28T15:20:00+01:00",
+    "title": {
+        "EN": "ERDA WebDAVS service unresponsive.",
+        "DK": "Manglende svar fra ERDA WebDAVS-tjenesten."
+    },
+    "services": [
+        "WebDAVS"
+    ],
+    "work_end": "2026-01-28T10:43:00+01:00",
+    "description": {
+        "EN": "ERDA's WebDAVS service has been registered as unresponsive from the 22nd to 28th of January. Service restart fixed the issue. Should you still experience issues, please contact support@erda.dk. When troubleshooting usage of the WebDAVS service, please check if your browser can access https://io.erda.dk and you get asked for credentials.",
+        "DK": "ERDAs WebDAVS-tjeneste har ikke besvaret forespørgsler fra d. 22. til 28. januar. Genstart af service løste problemet. Oplever du fortsat problemer bedes du skrive til support@erda.dk. Når du fejlsøger på brug af WebDAVS-tjenesten, så tjek venligst om din browser kan tilgå https://io.erda.dk og om der bliver spurgt om loginoplysninger."
+    },
+    "announce_end": "2026-01-29T23:30:00+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2026-01-27T16:05:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2026-01-28T12:15:20+01:00",
+    "title": {
+        "EN": "ERDA and SIF not available",
+        "DK": "ERDA og SIF var utilgængelige."
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2026-01-27T23:37:00+01:00",
+    "description": {
+        "EN": "Both ERDA and SIF was unavailable on the 27th of January between 16.00-16:45. ERDA remained unavailable due to failure on the file systems, which were fixed by around 23:35. If you have further issues, please contact support for ERDA and SIF respectively at support@erda.dk or support@sif.erda.dk",
+        "DK": "Både ERDA og SIF var utilgængelige d. 27. januar i tidsrummet 16:00-16:45. ERDA forblev utilgængelig grundet fejl på filsystemet, hvilket blev udbedret omkring kl. 23:35. Har du fortsat problemer, så kontakt ERDA og SIF support på hhv. support@erda.dk eller support@sif.erda.dk "
+    },
+    "announce_end": "2026-01-29T23:30:00+01:00"
+  },    
+  {
+    "status": "AUTO",
     "work_start": "2026-01-13T22:00:00+01:00",
     "systems": [
         "ERDA"
@@ -4029,7 +4071,7 @@
     "work_end": "2021-01-27T20:20:00+01:00", 
     "description": {
       "EN": "Due to a critical security issue in one of the operating system packages DAG and HEL need to be updated and redeployed. This will result in a brief outage and may break active sessions. We are sorry for the inconvenience, but security comes first. The update was quickly completed and the services are back online. Users with active sessions may need to logout of and stop their Jupyter servers then reload the main Jupyter page and Start DAG and so forth again.", 
-      "DK": "P.g.a. et kritisk sikkerhedsproblem i en operativsystem-komponent er det nødvendigt at opdatere og genstarte DAG og HEL. Det vil medføre udfald på igangværende sessioner. Vi beklager generne men sikkerhed kommer altid først. Opdateringen er gennemført og services er tilbage i drift. Brugere med aktive Jupyter sessioner kan være nødt til at logge ud og stoppe deres Jupyter server for derefter at genindlæse Jupyter-forsiden og klikke Start DAG o.s.v. igen."
+      "DK": "P.g.a. et kritisk sikkerhedsproblem i en operativsystem-komponent er det nødvendigt at opdatere og genstarte DAG og HEL. Det vil medføre udfalWebDAVSd på igangværende sessioner. Vi beklager generne men sikkerhed kommer altid først. Opdateringen er gennemført og services er tilbage i drift. Brugere med aktive Jupyter sessioner kan være nødt til at logge ud og stoppe deres Jupyter server for derefter at genindlæse Jupyter-forsiden og klikke Start DAG o.s.v. igen."
     }, 
     "announce_end": "2021-01-30T10:00:00+01:00"
   },
