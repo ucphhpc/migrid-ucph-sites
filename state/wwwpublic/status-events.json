@@ -46,23 +46,23 @@
     "status": "AUTO",
     "work_start": "2026-01-27T16:05:00+01:00",
     "systems": [
-        "ALL"
+        "ERDA", "SIF"
     ],
-    "announce_start": "2026-01-28T12:15:20+01:00",
+    "announce_start": "2026-01-27T16:05:00+01:00",
     "title": {
-        "EN": "ERDA and SIF not available",
-        "DK": "ERDA og SIF var utilgængelige."
+        "EN": "Partial ERDA and SIF web availability. Partial ERDA user data access.",
+        "DK": "Delvis ERDA og SIF web-tilgængelighed. Delvis adgag til ERDA brugerdata."
     },
     "services": [
-        "ALL"
+        "Web", "ALL"
     ],
-    "work_end": "2026-01-27T23:37:00+01:00",
+    "work_end": "2026-01-27T23:35:00+01:00",
     "description": {
-        "EN": "Both ERDA and SIF was unavailable on the 27th of January between 16.00-16:45. ERDA remained unavailable due to failure on the file systems, which were fixed by around 23:35. If you have further issues, please contact support for ERDA and SIF respectively at support@erda.dk or support@sif.erda.dk",
-        "DK": "Både ERDA og SIF var utilgængelige d. 27. januar i tidsrummet 16:00-16:45. ERDA forblev utilgængelig grundet fejl på filsystemet, hvilket blev udbedret omkring kl. 23:35. Har du fortsat problemer, så kontakt ERDA og SIF support på hhv. support@erda.dk eller support@sif.erda.dk "
+        "EN": "Both ERDA and SIF web access on the erda.ku.dk and sif.ku.dk addresses were affected by outages in the central UCPH DNS on the 27th of January between 16:00-16:45. Access to ERDA and SIF service on all other *.erda.dk addresses were unaffected. ERDA had further partial data availability issues due to a failure in backend storage bricks later in the evening from about 20:40 o'clock and until our technicians fixed it at about 23:35. The latter affected all ERDA services except Seafile. If you experience further issues, please contact support for ERDA or SIF respectively at support@erda.dk or support@sif.erda.dk",
+        "DK": "Både ERDA og SIF webadgang på adresserne erda.ku.dk hhv sif.ku.dk var berørt af udfald i KUs centrale DNS d. 27. januar i tidsrummet 16:00-16:45. Adgang til ERDA- og SIF-services på alle andre *.erda.dk adresser var ikke berørt. ERDA blev ramt af yderligere problemer med delvis adgang til brugerdata p.g.a. et udfald i backend storage brick senere på aftenen fra omkring kl 20:40 og indtil vores teknikere rettede fejlen omkring kl 23:35. Sidstnævnte berørte alle ERDA-services pånær Seafile. Oplever du fortsat problemer, så kontakt ERDA hhv. SIF support på support@erda.dk eller support@sif.erda.dk"
     },
     "announce_end": "2026-01-29T23:30:00+01:00"
-  },    
+  },
   {
     "status": "AUTO",
     "work_start": "2026-01-13T22:00:00+01:00",
