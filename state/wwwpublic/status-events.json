@@ -16,8 +16,8 @@
     ],
     "work_end": "2026-02-16T23:59:00+01:00",
     "description": {
-        "EN": "Planned maintenance for MODI where we apply system updates and restart the SLURM service",
-        "DK": "Planlagt nedetid for MODI hvor vi vil opdatere systemet og genstarte SLURM servicen"
+        "EN": "Planned maintenance for MODI where we apply system updates and restart the SLURM service. We updated and restarted the munge service across the login and compute nodes, furthermore the MODI service was restarted to effectuate the changes.",
+        "DK": "Planlagt nedetid for MODI hvor vi vil opdatere systemet og genstarte SLURM servicen. Vi opdaterede og genstartede munge-tjenesten på tværs af login og compute noderne, og desuden blev MODI-tjenesten genstartet for at implementere ændringerne."
     },
     "announce_end": "2026-02-17T12:30:00+01:00"
   },
