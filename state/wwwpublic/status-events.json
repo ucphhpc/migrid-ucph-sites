@@ -2,14 +2,14 @@
 [
   {
     "status": "AUTO",
-    "work_start": "2026-02-24T08:00:00+01:00",
+    "work_start": "2026-02-24T07:00:00+01:00",
     "systems": [
         "ERDA"
     ],
-    "announce_start": "2026-02-18T09:00:00+01:00",
+    "announce_start": "2026-02-17T22:30:00+01:00",
     "title": {
         "EN": "ERDA downtime due to storage expansion.",
-        "DK": "Nedetid grundet udvidelse ERDA-lagerplads."
+        "DK": "Nedetid grundet udvidelse af ERDA-lagerplads."
     },
     "services": [
         "ALL"
@@ -19,7 +19,7 @@
         "EN": "Planned downtime for ERDA incl. DAG/MODI. We will expand storage capacity. Users who experience issues after the maintenance window ends should write to support@erda.dk.",
         "DK": "Planlagt nedetid for ERDA inkl. DAG/MODI. Vi udvider lagerkapaciteten. Brugere som oplever problemer efter servicevinduet slutter bedes skrive til support@erda.dk."
     },
-    "announce_end": "2026-02-28T23:30:00+01:00"
+    "announce_end": "2026-02-25T23:30:00+01:00"
   },
   {
     "status": "AUTO",
