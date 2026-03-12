@@ -2,6 +2,48 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-03-30T07:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-03-12T14:00:00+01:00",
+    "title": {
+        "EN": "Limited support and increased response time during Easter holidays.",
+        "DK": "Begrænset support og højere responstid over påskeferien."
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2026-04-08T08:00:00+01:00",
+    "description": {
+        "EN": "We will offer very limited serviced during Easter Holidays. Expect increased response time on request to support. We recommend reacting to system notices regardig account renewals promptly. Should you have urgent requests, please ensure your requests clearly state the issue, screenshots, and urgency level. As always, write us at support@erda.dk and support@sif.erda.dk.",
+        "DK": "Vi vil yde minimal betjening over påskeferien. Forvent længere svartider fra supporten. Vi anbefaler at reagere i god tid på  beskeder om kontofornyelse fra ERDA/SIF-systerne. Skulle du få kritisk brug for hjælp, så sørg for at dine henvendelser klart forklarer problemet og i hvilken grad det haster. Som altid, så skriver til os på support@erda.dk og support@sif.erda.dk."
+    },
+    "announce_end": "2026-04-9T18:30:00+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2026-02-16T21:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-02-15T12:00:00+01:00",
+    "title": {
+        "EN": "MODI Maintenance",
+        "DK": "MODI vedligehold"
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2026-02-16T23:59:00+01:00",
+    "description": {
+        "EN": "Planned maintenance for MODI where we apply system updates and restart the SLURM service. We updated and restarted the munge service across the login and compute nodes, furthermore the MODI service was restarted to effectuate the changes.",
+        "DK": "Planlagt nedetid for MODI hvor vi vil opdatere systemet og genstarte SLURM servicen. Vi opdaterede og genstartede munge-tjenesten på tværs af login og compute noderne, og desuden blev MODI-tjenesten genstartet for at implementere ændringerne."
+    },
+    "announce_end": "2026-02-17T12:30:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-02-24T07:00:00+01:00",
     "systems": [
         "ERDA"
