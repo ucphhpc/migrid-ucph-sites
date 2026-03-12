@@ -4,7 +4,7 @@
     "status": "AUTO",
     "work_start": "2026-03-30T08:00:00+02:00",
     "systems": [
-        "ERDA"
+        "ALL"
     ],
     "announce_start": "2026-03-12T14:00:00+01:00",
     "title": {
@@ -33,7 +33,7 @@
         "DK": "MODI vedligehold"
     },
     "services": [
-        "ALL"
+        "MODI"
     ],
     "work_end": "2026-02-16T23:59:00+01:00",
     "description": {
