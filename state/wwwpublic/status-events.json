@@ -2,24 +2,24 @@
 [
   {
     "status": "AUTO",
-    "work_start": "2026-03-30T07:00:00+01:00",
+    "work_start": "2026-03-30T08:00:00+02:00",
     "systems": [
         "ERDA"
     ],
     "announce_start": "2026-03-12T14:00:00+01:00",
     "title": {
-        "EN": "Limited support and increased response time during Easter holidays.",
-        "DK": "Begrænset support og højere responstid over påskeferien."
+        "EN": "Limited support and increased response times during Easter holidays.",
+        "DK": "Begrænset support og længere svartider henover påskeferien."
     },
     "services": [
         "ALL"
     ],
-    "work_end": "2026-04-08T08:00:00+01:00",
+    "work_end": "2026-04-09T08:00:00+02:00",
     "description": {
-        "EN": "We will offer very limited serviced during Easter Holidays. Expect increased response time on request to support. We recommend reacting to system notices regardig account renewals promptly. Should you have urgent requests, please ensure your requests clearly state the issue, screenshots, and urgency level. As always, write us at support@erda.dk and support@sif.erda.dk.",
-        "DK": "Vi vil yde minimal betjening over påskeferien. Forvent længere svartider fra supporten. Vi anbefaler at reagere i god tid på  beskeder om kontofornyelse fra ERDA/SIF-systerne. Skulle du få kritisk brug for hjælp, så sørg for at dine henvendelser klart forklarer problemet og i hvilken grad det haster. Som altid, så skriver til os på support@erda.dk og support@sif.erda.dk."
+        "EN": "We will have only be able to offer rather limited service during Easter due to vacation and the resulting limited staff. Please expect increased response times on requests to our support and for resolving any system issues. We recommend monitoring status announcements and reacting in due time to any system notices regardig peer account renewals from ERDA and SIF. Should you have urgent requests, please ensure to clearly state the issue, screenshots and/or error messages, and the level of urgency when contacting support. As always, you are welcome to write us at support@erda.dk and support@sif.erda.dk respectively, and we will respond as quickly as we can.",
+        "DK": "Vi vil kun være i stand til at yde ret begrænset betjening henover påsken på grund af ferie og deraf følgende lav bemanding. Forvent venligst længere svartider på henvendelser til supporten og på løsning af eventuelle systemudfald. Vi anbefaler at holde øje med statusmeldinger og at reagere i god tid på eventuelle beskeder om peer-kontofornyelse fra ERDA og SIF. Skulle du have brug for hurtig hjælp, så sørg venligst for at dine henvendelser til supporten klart forklarer problemet med screenshots og/eller fejlbeskeder, samt i hvilken grad det haster. Du er som altid velkommen til at skrive til os på support@erda.dk hhv support@sif.erda.dk, og vi svarer hurtigst muligt."
     },
-    "announce_end": "2026-04-9T18:30:00+01:00"
+    "announce_end": "2026-04-10T12:00:00+02:00"
   },
   {
     "status": "AUTO",
