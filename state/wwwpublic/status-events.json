@@ -2,6 +2,28 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-04-30T12:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-04-30T12:00:00+01:00",
+    "title": {
+        "EN": "Limited resources on DAG and MODI.",
+        "DK": "Begrænsede resourcer på DAG og MODI."
+    },
+    "services": [
+        "MODI",
+        "DAG"
+    ],
+    "work_end": "2026-05-01T12:00:00+01:00",
+    "description": {
+        "EN": "Unplanned maintenance on the DAG and MODI services which will cause limited availability during this window, we will keep you posted on this status page when we are back with normal production capacity.",
+        "DK": "Uplanlagt vedligeholdelse af DAG- og MODI-tjenesterne, hvilket vil medføre begrænset tilgængelighed i dette vindue. Vi holder jer opdateret på denne statusside, når vi er tilbage med normal produktionskapacitet."
+    },
+    "announce_end": "2026-05-01T23:30:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-03-30T08:00:00+02:00",
     "systems": [
         "ALL"
