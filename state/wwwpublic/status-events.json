@@ -17,8 +17,8 @@
     ],
     "work_end": "2026-05-01T12:00:00+01:00",
     "description": {
-        "EN": "Unplanned maintenance on the DAG and MODI services which will cause limited availability during this window, we will keep you posted on this status page when we are back with normal production capacity.",
-        "DK": "Uplanlagt vedligeholdelse af DAG- og MODI-tjenesterne, hvilket vil medføre begrænset tilgængelighed i dette vindue. Vi holder jer opdateret på denne statusside, når vi er tilbage med normal produktionskapacitet."
+        "EN": "Unplanned maintenance on the DAG and MODI services which will cause limited availability during this window. Furthermore, we will have to stop both services for about an hour around 21:00 before it will be brought back. We will keep you posted on this status page about updates and when we are back with normal production capacity.",
+        "DK": "Uplanlagt vedligeholdelse af DAG- og MODI-tjenesterne vil medføre begrænset tilgængelighed i dette vindue. Derudover vil vi være nødt til at stoppe begge tjenester i cirka en time omkring kl. 21:00, før de vender tilbage. Vi holder jer opdateret på denne statusside om opdateringer og når vi er tilbage med normal produktionskapacitet."
     },
     "announce_end": "2026-05-01T23:30:00+01:00"
   },
