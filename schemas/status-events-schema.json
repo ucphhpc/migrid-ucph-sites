@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "status": {
+        "type": "string"
+      },
+      "work_start": {
+        "type": "string"
+      },
+      "systems": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "announce_start": {
+        "type": "string"
+      },
+      "title": {
+        "type": "object",
+        "properties": {
+          "EN": {
+            "type": "string"
+          },
+          "DK": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "DK",
+          "EN"
+        ]
+      },
+      "services": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "work_end": {
+        "type": "string"
+      },
+      "description": {
+        "type": "object",
+        "properties": {
+          "EN": {
+            "type": "string"
+          },
+          "DK": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "DK",
+          "EN"
+        ]
+      },
+      "announce_end": {
+        "type": "string"
+      },
+      "references": {
+        "type": "object",
+        "properties": {
+          "EN": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "DK": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "DK",
+          "EN"
+        ]
+      }
+    },
+    "required": [
+      "announce_end",
+      "announce_start",
+      "description",
+      "services",
+      "status",
+      "systems",
+      "title",
+      "work_end",
+      "work_start"
+    ]
+  }
+}
