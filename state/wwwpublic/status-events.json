@@ -2,32 +2,32 @@
 [
   {
     "status": "AUTO",
-    "work_start": "2026-05-21T16:00:00+02:00",
+    "work_start": "2026-05-21T16:00:00+01:00",
     "systems": [
       "ERDA", "MiGrid"
     ],
-    "announce_start": "2026-05-06T09:00:00+02:00",
+    "announce_start": "2026-05-06T09:00:00+01:00",
     "title": {
-      "EN": "Planned ERDA maintenance",
-      "DK": "Planlagt vedligehold af ERDA"
+      "EN": "Planned ERDA and MiGrid maintenance",
+      "DK": "Planlagt vedligehold af ERDA og MiGrid"
     },
     "services": [
       "ALL"
     ],
-    "work_end": "2026-05-22T07:59:00+02:00",
+    "work_end": "2026-05-22T07:59:00+01:00",
     "description": {
-      "EN": "We have allocated 16 hours of downtime on ERDA. During the maintenance window we will update various services. If you experience issues after the updates, please contact support@erda.dk",
-      "DK": "Vi har allokeret 16 timers nedetid på ERDA. I vedligeholdsvinduet opdateres forskellige tjenester. Oplever du problemer efter opdateringen, så kontakt support@erda.dk"
+      "EN": "We have allocated up to 16 hours of downtime on ERDA and MiGrid. During the maintenance window we will update the base system and various services so downtime is expected for low-level upgrades. If you experience issues after the updates, please contact support@erda.dk",
+      "DK": "Vi har allokeret up til 16 timers nedetid på ERDA og MiGrid. I vedligeholdsvinduet opdateres grundinstallationen og forskellige tjenester, så vi forventer nedetid til grundlæggende opdateringer. Oplever du problemer efter opdateringen, så kontakt support@erda.dk"
     },
-    "announce_end": "2026-05-26T23:59:00+02:00"
-  }
+    "announce_end": "2026-05-26T23:59:00+01:00"
+  },
   {
     "status": "AUTO",
-    "work_start": "2026-05-12T08:00:00+02:00",
+    "work_start": "2026-05-12T08:00:00+01:00",
     "systems": [
       "SIF"
     ],
-    "announce_start": "2026-05-06T09:00:00+02:00",
+    "announce_start": "2026-05-06T09:00:00+01:00",
     "title": {
       "EN": "Planned SIF maintenance",
       "DK": "Plangt vedligehold af SIF"
@@ -35,16 +35,16 @@
     "services": [
       "ALL"
     ],
-    "work_end": "2026-05-12T12:00:00+02:00",
+    "work_end": "2026-05-12T12:00:00+01:00",
     "description": {
-      "EN": "We have allocated 4 hours of downtime on SIF. During the maintenance window we will update various services.",
-      "DK": "Vi allokerer 4 timers nedetid for SIF. I vedligeholdsvinduet opdateres forskellige tjenester."
+      "EN": "We have allocated 4 hours of downtime on SIF. During the maintenance window we will update the base system and various services so downtime is expected for low-level upgrades.",
+      "DK": "Vi allokerer 4 timers nedetid for SIF. I vedligeholdsvinduet opdateres grundinstallationen og forskellige tjenester, så vi forventer nedetid til grundlæggende opdateringer."
     },
-    "announce_end": "2026-05-15T23:59:00+02:00"
+    "announce_end": "2026-05-15T23:59:00+01:00"
   },
   {
     "status": "AUTO",
-    "work_start": "2026-04-30T12:00:00+02:00",
+    "work_start": "2026-04-30T12:00:00+01:00",
     "systems": [
         "ERDA"
     ],
