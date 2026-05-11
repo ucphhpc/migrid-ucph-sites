@@ -23,7 +23,7 @@
   },
   {
     "status": "AUTO",
-    "work_start": "2026-05-12T08:00:00+02:00",
+    "work_start": "2026-05-13T08:00:00+02:00",
     "systems": [
       "SIF"
     ],
@@ -35,7 +35,7 @@
     "services": [
       "ALL"
     ],
-    "work_end": "2026-05-12T12:00:00+02:00",
+    "work_end": "2026-05-13T12:00:00+02:00",
     "description": {
       "EN": "We have allocated 4 hours of downtime on SIF. During the maintenance window we will update the base system and various services so downtime is expected for low-level upgrades.",
       "DK": "Vi allokerer 4 timers nedetid for SIF. I vedligeholdsvinduet opdateres grundinstallationen og forskellige tjenester, så vi forventer nedetid til grundlæggende opdateringer."
