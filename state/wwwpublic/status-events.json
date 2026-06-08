@@ -2,6 +2,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-06-09T17:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2026-06-08T08:00:00+02:00",
+    "title": {
+      "EN": "Planned ERDA Seafile System Maintenance.",
+      "DK": "Planlagt systemvedligehold på ERDA Seafile."
+    },
+    "services": [
+      "Seafile"
+    ],
+    "work_end": "2026-06-10T07:59:00+02:00",
+    "description": {
+      "EN": "We need to apply pending Seafile system updates and expect it to take at least a couple of hours during Tuesday evening. The updates include one or more complete system restarts and therefore will result in some unavailability during the service window. No other parts of ERDA are affected by the work.",
+      "DK": "Vi skal have lagt udestående systemopdateringer på Seafile og forventer at det tager mindst et par timer i løbet af tirsdag aften. Opdateringerne inkluderer en eller flere fuldstændige genstarter af systemet og vil derfor medføre perioder hvor Seafile er utilgængelig under servicevinduet. Ingen andre dele af ERDA er berørt af arbejdet."
+    },
+    "announce_end": "2026-06-11T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-05-21T16:00:00+02:00",
     "systems": [
       "ERDA", "MiGrid"
@@ -626,7 +647,7 @@
     ],
     "work_end": "2025-06-19T17:00:00+02:00",
     "description": {
-      "EN": "We need to physcically relocate the Seafile hardware to our new data center and expect it to take a couple of hours during the day. We completed the relocation and system updates at around 14:20 and it is back in production.",
+      "EN": "We need to physically relocate the Seafile hardware to our new data center and expect it to take a couple of hours during the day. We completed the relocation and system updates at around 14:20 and it is back in production.",
       "DK": "Vi skal have flyttet Seafile-maskinel i vores nye datacenter og forventer at det tager et par timer. Vi blev færdige med flytning og system-opdateringer omkring kl 14:20, og alt er tilbage i normal drift."
     },
     "announce_end": "2025-06-20T12:00:00+02:00"
