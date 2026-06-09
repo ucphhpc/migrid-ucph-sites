@@ -23,6 +23,27 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2026-06-09T22:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2026-06-09T22:00:00+02:00",
+    "title": {
+      "EN": "DAG service restart for tuning settings.",
+      "DK": "DAG genstart for at rette indstillinger."
+    },
+    "services": [
+      "DAG"
+    ],
+    "work_end": "2026-06-09T23:00:00+02:00",
+    "description": {
+      "EN": "We will restart the DAG service to apply a tuning to the DAG settings. The service will be temporarily unavailable during the restart.",
+      "DK": "Vi vil genstarte DAG-tjenesten for at udrulle nye indstillinger. Tjenesten vil være midlertidigt utilgængelig under genstarten."
+    },
+    "announce_end": "2026-06-10T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-05-21T16:00:00+02:00",
     "systems": [
       "ERDA", "MiGrid"
