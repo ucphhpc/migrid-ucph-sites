@@ -27,7 +27,7 @@
     "systems": [
       "ERDA"
     ],
-    "announce_start": "2026-06-09T22:00:00+02:00",
+    "announce_start": "2026-06-09T11:00:00+02:00",
     "title": {
       "EN": "DAG service restart for tuning settings.",
       "DK": "DAG genstart for at rette indstillinger."
