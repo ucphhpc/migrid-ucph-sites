@@ -2,6 +2,48 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-07-02T17:00:00+02:00",
+    "systems": [
+      "ERDA"
+    ],
+    "announce_start": "2026-06-19T11:00:00+02:00",
+    "title": {
+      "EN": "Planned ERDA system maintenance",
+      "DK": "Planlagt ERDA systemvedligehold"
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2026-07-03T08:00:00+02:00",
+    "description": {
+      "EN": "The ERDA service will get planned system maintenance. Users should expect some down time for low-level upgrades with restart in that relation.",
+      "DK": "Tjenesten ERDA vil undergå planlagt systemvedligehold. Brugere bør forvente nedetider til grundlæggende opgraderinger med genstart i denne forbindelse."
+    },
+    "announce_end": "2026-07-05T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2026-07-01T08:00:00+02:00",
+    "systems": [
+      "SIF"
+    ],
+    "announce_start": "2026-06-19T11:00:00+02:00",
+    "title": {
+      "EN": "Planned SIF system maintenance",
+      "DK": "Planlagt SIF systemvedligehold"
+    },
+    "services": [
+      "ALL"
+    ],
+    "work_end": "2026-07-01T12:00:00+02:00",
+    "description": {
+      "EN": "The SIF service will get planned system maintenance. Users should expect down time for longer periods in time.",
+      "DK": "Tjenesten SIF vil undergå planlagt systemvedligehold. Brugere bør forvente længere nedetider i denne forbindelse."
+    },
+    "announce_end": "2026-07-05T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-06-29T18:00:00+02:00",
     "systems": [
       "ERDA"
