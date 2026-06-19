@@ -12,12 +12,12 @@
       "DK": "Planlagt ERDA systemvedligehold"
     },
     "services": [
-      "ERDA"
+      "ALL"
     ],
     "work_end": "2026-07-03T08:00:00+02:00",
     "description": {
-      "EN": "The ERDA service will get planned system maintenance. Users should expect down time for longer periods in time.",
-      "DK": "Tjenesten ERDA vil undergå planlagt systemvedligehold. Brugere bør forvente længere nedetider i denne forbindelse."
+      "EN": "The ERDA service will get planned system maintenance. Users should expect some down time for low-level upgrades with restart in that relation.",
+      "DK": "Tjenesten ERDA vil undergå planlagt systemvedligehold. Brugere bør forvente nedetider til grundlæggende opgraderinger med genstart i denne forbindelse."
     },
     "announce_end": "2026-07-05T12:00:00+02:00"
   },
@@ -33,7 +33,7 @@
       "DK": "Planlagt SIF systemvedligehold"
     },
     "services": [
-      "SIF"
+      "ALL"
     ],
     "work_end": "2026-07-01T12:00:00+02:00",
     "description": {
