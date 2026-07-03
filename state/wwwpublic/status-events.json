@@ -38,8 +38,8 @@
     ],
     "work_end": "2026-07-03T16:00:00+02:00",
     "description": {
-      "EN": "We will apply updates on DAG and MODI which includes low level system updates and a reboot of the system. During this time period interruptions will occur. We completed this work early in the morning on the 3rd. A few resources such as the GPU Notebooks on DAG are still unavailable which we are working on to restore. Updates on this will follow as we address it.",
-      "DK": "Vi vil implementere opdateringer på DAG og MODI, herunder lavniveau-systemopdateringer og en genstart af systemet. I denne periode vil der forekomme afbrydelser. Vi afsluttede dette arbejde tidligt om morgenen den 3. Et par ressourcer, såsom GPU-notebooks på DAG er stadig utilgængelige, som vi arbejder på at gendanne. Opdateringer om dette følger, efterhånden som vi løser det."
+      "EN": "We will apply updates on DAG and MODI which includes low level system updates and a reboot of the system. During this time period interruptions will occur. We completed this work early in the morning on the 3rd. A few resources such as the GPU Notebooks on DAG and 2 MODI nodes were unavailable until around 15:00 on the 3rd before they were succesfully restored. Both services should now be fully back in production mode.",
+      "DK": "Vi vil implementere opdateringer på DAG og MODI, hvilket inkluderer lavniveau-systemopdateringer og en genstart af systemet. I denne periode vil der forekomme afbrydelser. Vi afsluttede dette arbejde tidligt om morgenen den 3. Nogle få ressourcer, såsom GPU-notebooks på DAG og 2 MODI-noder, var utilgængelige indtil omkring kl. 15:00 den 3., før de blev gendannet. Begge tjenester burde nu være fuldt ud tilbage i produktionstilstand."
     },
     "announce_end": "2026-07-06T12:00:00+02:00"
   },
