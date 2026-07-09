@@ -23,6 +23,28 @@
   },
   {
     "status": "AUTO",
+    "work_start": "2026-07-09T09:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-07-09T09:00:00+02:00",
+    "title": {
+        "EN": "Limited resources on DAG and MODI.",
+        "DK": "Begrænsede resourcer på DAG og MODI."
+    },
+    "services": [
+        "MODI",
+        "DAG"
+    ],
+    "work_end": "2026-07-09T10:00:00+02:00",
+    "description": {
+        "EN": "Unplanned maintenance on the DAG and MODI services which will cause disconnects during this window.",
+        "DK": "Uplanlagt vedligeholdelse af DAG- og MODI-tjenesterne, hvilket vil medføre begrænset tilgængelighed og afbrudte forbindelser i dette vindue."
+    },
+    "announce_end": "2026-07-09T12:30:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-07-02T17:00:00+02:00",
     "systems": [
       "ERDA"
