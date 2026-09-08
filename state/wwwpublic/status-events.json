@@ -2,6 +2,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-09-08T20:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-09-08T09:00:00+02:00",
+    "title": {
+        "EN": "Maintenance on MODI.",
+        "DK": "Vedligehold på MODI"
+    },
+    "services": [
+        "MODI"
+    ],
+    "work_end": "2026-09-08T23:00:00+02:00",
+    "description": {
+        "EN": "We will adjust the system that is enforcing the 50 GB disk quota in the personal modi_mount on MODI to apply correctly across all users. This will cause some users with more than 50 GB to be unable to write to their modi_mount and having to either move their excessive data to their erda_mount or delete enough data to be below the 50 GB limit.",
+        "DK": "Vi vil justere systemet, der håndterer 50 GB disk kvote i den personlige modi_mount på MODI, så det gælder korrekt for alle brugere. Dette vil medføre, at nogle brugere med mere end 50 GB ikke kan skrive til deres modi_mount, og de skal flytte deres overflødige data til deres erda_mount eller slette nok data for at være under 50 GB grænsen."
+    },
+    "announce_end": "2026-09-09T12:30:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-09-07T16:30:00+02:00",
     "systems": [
       "ERDA"
