@@ -16,8 +16,8 @@
     ],
     "work_end": "2026-09-08T23:00:00+02:00",
     "description": {
-        "EN": "We will adjust the system that is enforcing the 50 GB disk quota in the personal modi_mount on MODI to apply correctly across all users. This will cause some users with more than 50 GB to be unable to write to their modi_mount and having to either move their excessive data to their erda_mount or delete enough data to be below the 50 GB limit.",
-        "DK": "Vi vil justere systemet, der håndterer 50 GB disk kvote i den personlige modi_mount på MODI, så det gælder korrekt for alle brugere. Dette vil medføre, at nogle brugere med mere end 50 GB ikke kan skrive til deres modi_mount, og de skal flytte deres overflødige data til deres erda_mount eller slette nok data for at være under 50 GB grænsen."
+        "EN": "We will adjust the system that is enforcing the 50 GB disk quota in the personal modi_mount on MODI to apply correctly across all users. This will cause some users with more than 50 GB to be unable to write to their modi_mount and having to either move their excessive data to their erda_mount or delete enough data to be below the 50 GB limit. We completed this work within the given timeframe, during this we had to umount the modi_mount directory which caused jobs reliant on writing to it to stop and have to be restarted.",
+        "DK": "Vi vil justere systemet, der håndterer 50 GB disk kvote i den personlige modi_mount på MODI, så det gælder korrekt for alle brugere. Dette vil medføre, at nogle brugere med mere end 50 GB ikke kan skrive til deres modi_mount, og de skal flytte deres overflødige data til deres erda_mount eller slette nok data for at være under 50 GB grænsen. Vi gennemførte arbejdet inden for den givne tidsramme, og under dette måtte vi umounte modi_mount-mappen, hvilket gjorde at jobs der afhænger af at skrive til den, stoppede og skal genstartes."
     },
     "announce_end": "2026-09-09T12:30:00+02:00"
   },
