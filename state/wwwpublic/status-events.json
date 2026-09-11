@@ -2,6 +2,48 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-09-22T17:00:00+02:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-09-11T14:00:00+02:00",
+    "title": {
+        "EN": "Planned System Maintenance on ERDA.",
+        "DK": "Planlagt systemvedligehold på ERDA."
+    },
+    "services": [
+        "ERDA"
+    ],
+    "work_end": "2026-09-23T08:00:00+02:00",
+    "description": {
+        "EN": "System maintenance on ERDA will update the software and the system itself, which will require restarts and one or more system service outages. Users are advised to plan for some downtime in the maintenance period.",
+        "DK": "Systemvedligehold på ERDA vil opdatere softwaren og systemet selv, hvilket vil kræve genstart og et eller flere udfald på systemets services. Brugere opfordres til at planlægge efter nogen nedetid i vedligeholdsperioden."
+    },
+    "announce_end": "2026-09-23T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2026-09-22T08:00:00+02:00",
+    "systems": [
+        "SIF"
+    ],
+    "announce_start": "2026-09-11T14:00:00+02:00",
+    "title": {
+        "EN": "Planned System Maintenance on SIF.",
+        "DK": "Planlagt systemvedligehold på SIF."
+    },
+    "services": [
+        "SIF"
+    ],
+    "work_end": "2026-09-22T12:00:00+02:00",
+    "description": {
+        "EN": "System maintenance on SIF will update the software and the system itself, which will require restarts and one or more system service outages. Users are advised to plan for some downtime in the maintenance period..",
+        "DK": "Systemvedligehold på SIF vil opdatere softwaren og systemet selv, hvilket vil kræve genstart og et eller flere udfald på systemets services. Brugere opfordres til at planlægge efter nogen nedetid i vedligeholdsperioden."
+    },
+    "announce_end": "2026-09-23T12:00:00+02:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-09-08T20:00:00+02:00",
     "systems": [
         "ERDA"
