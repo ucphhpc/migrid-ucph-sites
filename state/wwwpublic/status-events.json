@@ -8,16 +8,16 @@
     ],
     "announce_start": "2026-09-11T14:00:00+02:00",
     "title": {
-        "EN": "System Maintenance on ERDA.",
-        "DK": "Systemvedligehold på ERDA."
+        "EN": "Planned System Maintenance on ERDA.",
+        "DK": "Planlagt systemvedligehold på ERDA."
     },
     "services": [
         "ERDA"
     ],
     "work_end": "2026-09-23T08:00:00+02:00",
     "description": {
-        "EN": "System Maintenance on ERDA will make updates to the software and the system itself, which will require restart and may be one or more system failures in the service. Users should plan after longer downtime in the period.",
-        "DK": "Systemvedligehold på ERDA vil lave opdateringer til softwaren og systemet selv, hvilket vil føre til genstart og som potentielt vil føre til et eller flere udfald på servicen. Brugere burde derfor planlægge efter længere nedetid i perioden."
+        "EN": "System maintenance on ERDA will update the software and the system itself, which will require restarts and one or more system service outages. Users are advised to plan for some downtime in the maintenance period.",
+        "DK": "Systemvedligehold på ERDA vil opdatere softwaren og systemet selv, hvilket vil føre til kræve genstart og et eller flere udfald på systemets services. Brugere opfordres til at planlægge efter nogen nedetid i vedligeholdsperioden."
     },
     "announce_end": "2026-09-23T12:00:00+02:00"
   },
@@ -29,18 +29,18 @@
     ],
     "announce_start": "2026-09-11T14:00:00+02:00",
     "title": {
-        "EN": "System Maintenance on SIF.",
-        "DK": "Systemvedligehold på SIF."
+        "EN": "Planned System Maintenance on SIF.",
+        "DK": "Planlagt systemvedligehold på SIF."
     },
     "services": [
         "SIF"
     ],
     "work_end": "2026-09-22T12:00:00+02:00",
     "description": {
-        "EN": "System Maintenance on SIF will make updates to the software and the system itself, which will require restart and may be one or more system failures in the service.",
-        "DK": "Systemvedligehold på SIF vil lave opdateringer til softwaren og systemet selv, hvilket vil føre til genstart og som potentielt vil føre til et eller flere udfald på servicen."
+        "EN": "System maintenance on SIF will update the software and the system itself, which will require restarts and one or more system service outages. Users are advised to plan for some downtime in the maintenance period..",
+        "DK": "Systemvedligehold på SIF vil opdatere softwaren og systemet selv, hvilket vil kræve genstart og et eller flere udfald på systemets services. Brugere opfordres til at planlægge efter nogen nedetid i vedligeholdsperioden."
     },
-    "announce_end": "2026-09-22T17:00:00+02:00"
+    "announce_end": "2026-09-23T12:00:00+02:00"
   },
   {
     "status": "AUTO",
