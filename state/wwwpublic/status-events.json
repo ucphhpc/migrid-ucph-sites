@@ -17,7 +17,7 @@
     "work_end": "2026-09-23T08:00:00+02:00",
     "description": {
         "EN": "System maintenance on ERDA will update the software and the system itself, which will require restarts and one or more system service outages. Users are advised to plan for some downtime in the maintenance period.",
-        "DK": "Systemvedligehold på ERDA vil opdatere softwaren og systemet selv, hvilket vil føre til kræve genstart og et eller flere udfald på systemets services. Brugere opfordres til at planlægge efter nogen nedetid i vedligeholdsperioden."
+        "DK": "Systemvedligehold på ERDA vil opdatere softwaren og systemet selv, hvilket vil kræve genstart og et eller flere udfald på systemets services. Brugere opfordres til at planlægge efter nogen nedetid i vedligeholdsperioden."
     },
     "announce_end": "2026-09-23T12:00:00+02:00"
   },
