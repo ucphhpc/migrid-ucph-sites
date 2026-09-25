@@ -2,15 +2,15 @@
 [
   {
     "status": "AUTO",
-    "work_start": "2026-09-25T14:00:00+02:00",
+    "work_start": "2026-09-22T18:00:00+02:00",
     "systems": [
         "ERDA",
         "SIF"
     ],
-    "announce_start": "2026-09-15T14:00:00+02:00",
+    "announce_start": "2026-09-22T17:00:00+02:00",
     "title": {
-        "EN": "Password Policy Update on ERDA and SIF.",
-        "DK": "Password-politik opdatering på ERDA og SIF."
+        "EN": "Updated Password Policy on ERDA and SIF.",
+        "DK": "Opdateret kodeordspolitik på ERDA og SIF."
     },
     "services": [
         "ERDA",
@@ -18,10 +18,18 @@
     ],
     "work_end": "2027-01-08T08:00:00+02:00",
     "description": {
-        "EN": "We have updated ERDA and SIF to follow UCPH's new password policy, so that it will be a requirement that passwords are at least 15 characters of arbitrary character sets (UTF-8) for all new users. For existing users using weaker passwords, these will be valid for login on all services with these weaker passwords, but will be phased out after New Years.",
-        "DK": "Vi har opdateret ERDA og SIF til at følge KUs nye password-politik, så det fra nu af vil være et krav at passwords er mindst 15 karakterer af vilkårlige tegnklasser (UTF-8) for alle nye brugere. For eksisterende brugere som bruger svagere passwords vil de fortsat kunne logge ind på alle services med deres svagere passwords, men dette vil blive udfaset efter nytår."
+        "EN": "We have adjusted ERDA and SIF to follow UCPH's new password policy[0], so that passwords must be at least 15 characters. It will effectively be enforced for all new external user signups and in all service password changes (SFTP/WebDAVS/FTPS/OpenID). Existing weaker user credentials adhering to the older 12 character requirement will remain valid for all service logins, but are expected to be phased out in Q1 of 2027. So please update any old passwords before then to avoid getting locked out.",
+        "DK": "Vi har justeret ERDA og SIF til at følge KUs nye password-politik[0], så kodeord skal være på mindst 15 tegn. Det bliver i praksis håndhævet for alle nye eksterne brugertilmeldinger og ved skift af kodeord for alle services (SFTP/WebDAVS/FTPS/OpenID). Eksisterende svagere kodeord som opfylder det hidtidige krav om mindst 12 tegn vil fortsat fungere på alle services, men forventes udfaset i første kvartal af 2027. Så sørg gerne for at få skiftet gamle koder inden da for at undgå at miste adgangen."
     },
-    "announce_end": "2027-01-08T08:00:00+02:00"
+    "references": {
+      "EN": [
+          "https://kunet.ku.dk/employee-guide/ITvejl/Security%20instructions%20-%20User%20authentification.pdf"
+      ], 
+      "DK": [
+          "https://kunet.ku.dk/medarbejderguide/ITvejl/Sikkerhedsvejledning%20-%20Brugerautentificering.pdf"
+      ]
+    },
+    "announce_end": "2027-01-08T08:12:00+01:00"
   },
   {
     "status": "AUTO",
