@@ -1,5 +1,26 @@
 
 [
+    {
+    "status": "AUTO",
+    "work_start": "2026-10-27T07:00:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2026-10-01T11:00:00+02:00",
+    "title": {
+        "EN": "Maintenance on Fire Suppression Facilities in our Primary Data Center.",
+        "DK": "Vedligehold på brandslukningsanlæg i vores primære datacenter."
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2026-10-27T12:00:00+01:00",
+    "description": {
+        "EN": "On October 27th we will have a circuit breaker installed so that we can properly test our Inergen fire suppression facility without losing power for machines and supporting facilities in the data center. While unlikely, there's a risk of power outages to cause downtime in the hours the maintenance work is going on, so we will keep an extra eye on the different services meanwhile.",
+        "DK": "Den 27. oktober får vi installeret en afbryder således at vi fremover kan teste vores Inergen brandslukningsanlæg uden at strømmen går for vores maskiner og diverse anden infrastruktur i datacenteret. Selv om det er usandsynligt, kan det risikere at føre til strømudfald og dermed nedetid i de timer arbejdet står på, så vi holder ekstra vågent øje med de forskellige tjenester i den periode."
+    },
+    "announce_end": "2026-10-28T12:00:00+01:00"
+  },
   {
     "status": "AUTO",
     "work_start": "2026-09-22T18:00:00+02:00",
