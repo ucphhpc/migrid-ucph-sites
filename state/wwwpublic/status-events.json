@@ -1,6 +1,6 @@
 
 [
-    {
+  {
     "status": "AUTO",
     "work_start": "2026-10-27T07:00:00+01:00",
     "systems": [
@@ -20,6 +20,28 @@
         "DK": "Den 27. oktober får vi installeret en afbryder således at vi fremover kan teste vores Inergen brandslukningsanlæg uden at strømmen går for vores maskiner og diverse anden infrastruktur i datacenteret. Selv om det er usandsynligt, kan det risikere at føre til strømudfald og dermed nedetid i de timer arbejdet står på, så vi holder ekstra vågent øje med de forskellige tjenester i den periode."
     },
     "announce_end": "2026-10-28T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2026-10-15T22:00:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-10-15T14:00:00+02:00",
+    "title": {
+        "EN": "Maintenance on DAG and MODI",
+        "DK": "Vedligehold på DAG og MODI"
+    },
+    "services": [
+        "DAG",
+        "MODI"
+    ],
+    "work_end": "2026-10-15T23:59:00+01:00",
+    "description": {
+        "EN": "We will be performing maintenance on DAG and MODI, during this window we will apply low-level updates to the underlying infrastructure which will include restarting the services, interruptions is to be expected.",
+        "DK": "Vi vil udføre vedligeholdelse på DAG og MODI, under dette vindue vil vi anvende lavniveauopdateringer til den underliggende infrastruktur hvilket vil indebære at tjenesterne vil genstartes, afbrydelser af servicen er forventet."
+    },
+    "announce_end": "2026-10-16T12:00:00+01:00"
   },
   {
     "status": "AUTO",
