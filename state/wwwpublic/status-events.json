@@ -38,7 +38,7 @@
     ],
     "work_end": "2026-10-15T23:59:00+01:00",
     "description": {
-        "EN": "We will be performing maintenance on DAG and MODI, during this window we will apply low-level updates to the underlying infrastructure which will include restarting the services, interruptions is to be expected.",
+        "EN": "We will be performing maintenance on DAG and MODI, during this window we will apply low-level updates to the underlying infrastructure which will include restarting the services, interruptions are to be expected.",
         "DK": "Vi vil udføre vedligeholdelse på DAG og MODI, under dette vindue vil vi anvende lavniveauopdateringer til den underliggende infrastruktur hvilket vil indebære at tjenesterne vil genstartes, afbrydelser af servicen er forventet."
     },
     "announce_end": "2026-10-16T12:00:00+01:00"
