@@ -2,6 +2,28 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-11-16T19:00:00+02:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2026-10-23T23:00:00+02:00",
+    "title": {
+        "EN": "Planned update to DAG and MODI",
+        "DK": "Planlagt opdatering til DAG og MODI"
+    },
+    "services": [
+        "DAG",
+        "MODI"
+    ],
+    "work_end": "2026-11-16T23:00:00+02:00",
+    "description": {
+        "EN": "On november 16 we are performing a planned update to our DAG and MODI services. This involves updating Jupyterlab to 4.6.4 and JupyterHub to 5.5.3 on DAG, and Jupyterlab to 4.6.4 on MODI. The services will experience downtime in the listed period while the update occurs.",
+        "DK": "Den 16. november udfører vi en planlagt opdatering til vores DAG og MODI tjenester. Dette involverer opdatering af Jupyterlab til 4.6.4 og JupyterHub til 5.5.3 på DAG, og Jupyterlab til 4.6.4 på MODI. Tjenesterne vil opleve nedetid i den listede periode mens opdateringen sker."
+    },
+    "announce_end": "2026-11-18T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-10-27T07:00:00+01:00",
     "systems": [
         "ALL"
