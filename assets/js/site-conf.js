@@ -10,7 +10,6 @@ function get_site_conf(key) {
     if (key === 'content_url') {
         value = "status-events.json";
     } else if (key === 'system_match') {
-        /* We keep IDMC for history */
         value = ["ALL", "ERDA", "SIF", "MiGrid"];
     } else if (key === 'auth_methods') {
         value = ["extoidc", "migoid", "extcert"];
