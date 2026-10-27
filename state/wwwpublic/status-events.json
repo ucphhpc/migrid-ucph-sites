@@ -2,27 +2,6 @@
 [
   {
     "status": "AUTO",
-    "work_start": "2026-10-27T07:00:00+01:00",
-    "systems": [
-        "ALL"
-    ],
-    "announce_start": "2026-10-01T11:00:00+02:00",
-    "title": {
-        "EN": "Maintenance on Fire Suppression Facilities in our Primary Data Center.",
-        "DK": "Vedligehold på brandslukningsanlæg i vores primære datacenter."
-    },
-    "services": [
-        "ALL"
-    ],
-    "work_end": "2026-10-27T12:00:00+01:00",
-    "description": {
-        "EN": "On October 27th we will have a circuit breaker installed so that we can properly test our Inergen fire suppression facility without losing power for machines and supporting facilities in the data center. While unlikely, there's a risk of power outages to cause downtime in the hours the maintenance work is going on, so we will keep an extra eye on the different services meanwhile.",
-        "DK": "Den 27. oktober får vi installeret en afbryder således at vi fremover kan teste vores Inergen brandslukningsanlæg uden at strømmen går for vores maskiner og diverse anden infrastruktur i datacenteret. Selv om det er usandsynligt, kan det risikere at føre til strømudfald og dermed nedetid i de timer arbejdet står på, så vi holder ekstra vågent øje med de forskellige tjenester i den periode."
-    },
-    "announce_end": "2026-10-28T12:00:00+01:00"
-  },
-  {
-    "status": "AUTO",
     "work_start": "2026-10-26T10:30:00+01:00",
     "systems": [
         "ALL"
@@ -37,10 +16,31 @@
     ],
     "work_end": "2026-10-28T12:00:00+01:00",
     "description": {
-        "EN": "UCPH is currently hit by major network outages, which also affect access to ERDA and SIF services. We don't have the full overview and don't know how long it will take, but please refer to official communication from UCPH for now if you are affected. Your data and the systems are safe and should return online once the network does.",
-        "DK": "KU er i øjeblikket ramt af omfattende netværksudfald, som også påvirker adgangen til ERDA og SIF. Vi har ikke det fulde overblik og ved ikke hvor længe det varer, men hold i første omgang øje med de officielle udmeldinger fra KU, hvis du er berørt. Dine data og systemerne er i god behold og skulle gerne komme tilbage igen når netværket gør."
+        "EN": "UCPH is currently hit by major network outages, which also affect access to ERDA and SIF services. We don't have the full overview and don't know how long it will take, but please refer to official communication from UCPH for now if you are affected. Your data and the systems are safe and should return online once the network does. We will also try to inform here to the probably limited extent possible.",
+        "DK": "KU er i øjeblikket ramt af omfattende netværksudfald, som også påvirker adgangen til ERDA og SIF. Vi har ikke det fulde overblik og ved ikke hvor længe det varer, men hold i første omgang øje med de officielle udmeldinger fra KU, hvis du er berørt. Dine data og systemerne er i god behold og skulle gerne komme tilbage igen når netværket gør. Vi forsøger at informere her i det nok ret begrænsede omfang vi kan."
     },
-    "announce_end": "2026-10-29T12:00:00+01:00"
+    "announce_end": "2026-10-30T12:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
+    "work_start": "2026-10-27T07:00:00+01:00",
+    "systems": [
+        "ALL"
+    ],
+    "announce_start": "2026-10-01T11:00:00+02:00",
+    "title": {
+        "EN": "Maintenance on Fire Suppression Facilities in our Primary Data Center.",
+        "DK": "Vedligehold på brandslukningsanlæg i vores primære datacenter."
+    },
+    "services": [
+        "ALL"
+    ],
+    "work_end": "2026-10-27T12:00:00+01:00",
+    "description": {
+        "EN": "On October 27th we will have a circuit breaker installed so that we can properly test our Inergen fire suppression facility without losing power for machines and supporting facilities in the data center. While unlikely, there's a risk of power outages to cause downtime in the hours the maintenance work is going on, so we will keep an extra eye on the different services meanwhile. The work is complete and commenced without any surprises during the period where we already had severely limited net access.",
+        "DK": "Den 27. oktober får vi installeret en afbryder således at vi fremover kan teste vores Inergen brandslukningsanlæg uden at strømmen går for vores maskiner og diverse anden infrastruktur i datacenteret. Selv om det er usandsynligt, kan det risikere at føre til strømudfald og dermed nedetid i de timer arbejdet står på, så vi holder ekstra vågent øje med de forskellige tjenester i den periode. Arbejdet blev overstået uden overraskelser i perioden hvor der i forvejen var megt begrænset netadgang."
+    },
+    "announce_end": "2026-10-27T18:00:00+01:00"
   },
   {
     "status": "AUTO",
