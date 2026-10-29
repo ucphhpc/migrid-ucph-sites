@@ -14,12 +14,12 @@
     "services": [
         "ALL"
     ],
-    "work_end": "2026-10-28T12:00:00+01:00",
+    "work_end": "2026-10-30T16:00:00+01:00",
     "description": {
         "EN": "UCPH is currently hit by major network outages, which also affect access to ERDA and SIF services. We don't have the full overview and don't know how long it will take, but please refer to official communication from UCPH for now if you are affected. Your data and the systems are safe and should return online once the network does. We will also try to inform here to the probably limited extent possible.",
         "DK": "KU er i øjeblikket ramt af omfattende netværksudfald, som også påvirker adgangen til ERDA og SIF. Vi har ikke det fulde overblik og ved ikke hvor længe det varer, men hold i første omgang øje med de officielle udmeldinger fra KU, hvis du er berørt. Dine data og systemerne er i god behold og skulle gerne komme tilbage igen når netværket gør. Vi forsøger at informere her i det nok ret begrænsede omfang vi kan."
     },
-    "announce_end": "2026-10-30T12:00:00+01:00"
+    "announce_end": "2026-11-02T12:00:00+01:00"
   },
   {
     "status": "AUTO",
