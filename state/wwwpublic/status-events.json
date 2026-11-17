@@ -2,6 +2,27 @@
 [
   {
     "status": "AUTO",
+    "work_start": "2026-11-17T09:30:00+01:00",
+    "systems": [
+        "ERDA"
+    ],
+    "announce_start": "2026-11-17T09:00:00+01:00",
+    "title": {
+        "EN": "DAG GPU Notebooks unavailable",
+        "DK": "DAG GPU Notebook utilgængelige"
+    },
+    "services": [
+        "DAG"
+    ],
+    "work_end": "2026-11-17T12:00:00+01:00",
+    "description": {
+        "EN": "The DAG GPU related notebooks have been taken offline due to an important security update that is being rolled out during this window.",
+        "DK": "Vores DAG GPU relaterede notebooks er blevet taget offline på grund af en vigtig sikkerhedsopdatering, der rulles ud i dette vindue."
+    },
+    "announce_end": "2026-11-17T15:00:00+01:00"
+  },
+  {
+    "status": "AUTO",
     "work_start": "2026-10-26T10:30:00+01:00",
     "systems": [
         "ALL"
