@@ -14,10 +14,10 @@
     "services": [
         "DAG"
     ],
-    "work_end": "2026-11-17T12:00:00+01:00",
+    "work_end": "2026-11-17T12:40:00+01:00",
     "description": {
-        "EN": "The DAG GPU related notebooks have been taken offline due to an important security update that is being rolled out during this window.",
-        "DK": "Vores DAG GPU relaterede notebooks er blevet taget offline på grund af en vigtig sikkerhedsopdatering, der rulles ud i dette vindue."
+        "EN": "The DAG GPU related notebooks have been taken offline due to an important security update that is being rolled out during this window. This work has now been completed and the GPU notebooks are available again.",
+        "DK": "Vores DAG GPU relaterede notebooks er blevet taget offline på grund af en vigtig sikkerhedsopdatering, der rulles ud i dette vindue. Dette arbejde er nu gennemført, og GPU-notebooks er igen tilgængelige."
     },
     "announce_end": "2026-11-17T15:00:00+01:00"
   },
